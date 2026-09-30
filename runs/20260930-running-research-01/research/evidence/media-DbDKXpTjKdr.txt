@@ -1,0 +1,310 @@
+- title: "Instagram" [url=https://www.instagram.com/adidasrunning/p/DbDKXpTjKdr/]
+- link [ref=e1]:
+  - img "Instagram"
+- link [ref=e2]:
+  - img "홈"
+- link [ref=e3]:
+  - img "릴스"
+- link [ref=e4]:
+  - img "메시지"
+- link [ref=e5]:
+  - img "검색"
+- link [ref=e6]:
+  - img "알림"
+- link [ref=e7]:
+  - img "새로운 게시물"
+- link [ref=e8]:
+  - img "프로페셔널 대시보드"
+- link [ref=e9]:
+  - link "huddlingclub님의 프로필 사진" [ref=e10]:
+    - image "huddlingclub님의 프로필 사진"
+- link [ref=e11]:
+  - img "설정"
+- link [ref=e12]:
+  - img "Meta의 다른 앱"
+- region:
+  - main:
+    - generic [ref=e13] [scrollable]:
+      - list:
+        - listitem
+        - listitem
+        - listitem:
+          - group "Video player":
+            - slider "볼륨 조정" [ref=e15]:
+              - button "오디오 소리 꺼짐" [ref=e16]:
+                - img "오디오 소리 꺼짐"
+            - button [ref=e18]:
+              - img "태그"
+    - button "다음" [ref=e19]
+    - button "adidasrunning님의 프로필 사진" [ref=e20] [disabled]:
+      - canvas [ref=e21] [size=41x41]
+      - link "adidasrunning님의 프로필 사진" [ref=e22] [disabled]:
+        - image "adidasrunning님의 프로필 사진"
+    - link "adidasrunning" [ref=e23]
+    - img "인증됨"
+    - button "팔로우" [ref=e24]
+    - button [ref=e25]:
+      - img "옵션 더 보기"
+    - generic [ref=e26] [scrollable]:
+      - link "adidasrunning님의 프로필 사진" [ref=e27]:
+        - image "adidasrunning님의 프로필 사진"
+      - link [ref=e28]:
+        - text: "adidasrunning"
+        - img "인증됨"
+      - text: "수정됨•10주 Running post cards from LA 🫶​​ 💌 Hyperboost Edge: the first adidas non-plated super trainer for long runs, launching July 21st.​​💌 Hyperboost Run: a lightweight trainer for daily runs, launching August 1st.​​Availability depends on country."
+      - link "#HYPERBOOST" [ref=e29]
+      - button "번역 보기" [ref=e30]
+      - link "ameyaokamoto님의 프로필 사진" [ref=e31]:
+        - image "ameyaokamoto님의 프로필 사진"
+      - link "ameyaokamoto" [ref=e32]
+      - link "2026년 7월 21일" [ref=e33]: "10주"
+      - text: "🔥🔥🔥"
+      - button "좋아요 25개" [ref=e34]
+      - button "답글 달기" [ref=e35]
+      - button [ref=e37]:
+        - img "좋아요"
+      - button "답글 2개 모두 보기" [ref=e38]
+      - link "jenniferbachdim님의 프로필 사진" [ref=e39]:
+        - image "jenniferbachdim님의 프로필 사진"
+      - link [ref=e40]:
+        - text: "jenniferbachdim"
+        - img "인증됨"
+      - link "2026년 7월 21일" [ref=e41]: "10주"
+      - text: "CAN NOT WAITTTT ❤️"
+      - button "좋아요 11개" [ref=e42]
+      - button "답글 달기" [ref=e43]
+      - button "번역 보기" [ref=e44]
+      - button [ref=e46]:
+        - img "좋아요"
+      - button "답글 3개 모두 보기" [ref=e47]
+      - link "itsmaddiegreen님의 프로필 사진" [ref=e48]:
+        - image "itsmaddiegreen님의 프로필 사진"
+      - link [ref=e49]:
+        - text: "itsmaddiegreen"
+        - img "인증됨"
+      - link "2026년 7월 22일" [ref=e50]: "10주"
+      - text: "Go"
+      - link "@kennethpiercejr" [ref=e51]
+      - text: "👏"
+      - button "좋아요 1개" [ref=e52]
+      - button "답글 달기" [ref=e53]
+      - button [ref=e55]:
+        - img "좋아요"
+      - button "답글 1개 모두 보기" [ref=e56]
+      - link "lets_run_faster님의 프로필 사진" [ref=e57]:
+        - image "lets_run_faster님의 프로필 사진"
+      - link "lets_run_faster" [ref=e58]
+      - link "2026년 7월 21일" [ref=e59]: "10주"
+      - text: "Hyperboost Run 👀 🔥"
+      - button "좋아요 6개" [ref=e60]
+      - button "답글 달기" [ref=e61]
+      - button "번역 보기" [ref=e62]
+      - button [ref=e64]:
+        - img "좋아요"
+      - button "답글 1개 모두 보기" [ref=e65]
+      - link "kimkurniawan님의 프로필 사진" [ref=e66]:
+        - image "kimkurniawan님의 프로필 사진"
+      - link [ref=e67]:
+        - text: "kimkurniawan"
+        - img "인증됨"
+      - link "2026년 7월 22일" [ref=e68]: "9주"
+      - link "@jenniferbachdim" [ref=e69]
+      - text: "😍😍😍👏❤️"
+      - button "답글 달기" [ref=e70]
+      - button [ref=e72]:
+        - img "좋아요"
+      - button "답글 1개 모두 보기" [ref=e73]
+      - link "calcalamia님의 프로필 사진" [ref=e74]:
+        - image "calcalamia님의 프로필 사진"
+      - link [ref=e75]:
+        - text: "calcalamia"
+        - img "인증됨"
+      - link "2026년 7월 21일" [ref=e76]: "10주"
+      - link "@ameyaokamoto" [ref=e77]
+      - text: "🤩🤩🤩🤩💘"
+      - button "좋아요 12개" [ref=e78]
+      - button "답글 달기" [ref=e79]
+      - button [ref=e81]:
+        - img "좋아요"
+      - link "rvmongonz님의 프로필 사진" [ref=e82]:
+        - image "rvmongonz님의 프로필 사진"
+      - link "rvmongonz" [ref=e83]
+      - link "2026년 7월 21일" [ref=e84]: "10주"
+      - link "@kennethpiercejr" [ref=e85]
+      - text: "this is so dope, excited to see you succeed 🔥"
+      - button "좋아요 3개" [ref=e86]
+      - button "답글 달기" [ref=e87]
+      - button "번역 보기" [ref=e88]
+      - button [ref=e90]:
+        - img "좋아요"
+      - button "답글 1개 모두 보기" [ref=e91]
+      - link "brooke.lagana님의 프로필 사진" [ref=e92]:
+        - image "brooke.lagana님의 프로필 사진"
+      - link "brooke.lagana" [ref=e93]
+      - link "2026년 7월 22일" [ref=e94]: "10주"
+      - text: "🔥🔥🔥"
+      - button "좋아요 1개" [ref=e95]
+      - button "답글 달기" [ref=e96]
+      - button [ref=e98]:
+        - img "좋아요"
+      - link "run_shoe_bible님의 프로필 사진" [ref=e99]:
+        - image "run_shoe_bible님의 프로필 사진"
+      - link [ref=e100]:
+        - text: "run_shoe_bible"
+        - img "인증됨"
+      - link "2026년 7월 21일" [ref=e101]: "10주"
+      - text: "We smell something new 👀"
+      - button "좋아요 2개" [ref=e102]
+      - button "답글 달기" [ref=e103]
+      - button "번역 보기" [ref=e104]
+      - button [ref=e106]:
+        - img "좋아요"
+      - button "답글 1개 모두 보기" [ref=e107]
+      - link "yomafati님의 프로필 사진" [ref=e108]:
+        - image "yomafati님의 프로필 사진"
+      - link "yomafati" [ref=e109]
+      - link "2026년 7월 21일" [ref=e110]: "10주"
+      - text: "❤️‍🔥❤️‍🔥❤️‍🔥"
+      - button "좋아요 4개" [ref=e111]
+      - button "답글 달기" [ref=e112]
+      - button [ref=e114]:
+        - img "좋아요"
+      - button "답글 1개 모두 보기" [ref=e115]
+      - link "ellistaylor님의 프로필 사진" [ref=e116]:
+        - image "ellistaylor님의 프로필 사진"
+      - link [ref=e117]:
+        - text: "ellistaylor"
+        - img "인증됨"
+      - link "2026년 7월 21일" [ref=e118]: "10주"
+      - text: "The hyperboost is generational"
+      - button "좋아요 10개" [ref=e119]
+      - button "답글 달기" [ref=e120]
+      - button [ref=e122]:
+        - img "좋아요"
+      - button "답글 1개 모두 보기" [ref=e123]
+      - link "kennethpiercejr님의 프로필 사진" [ref=e124]:
+        - image "kennethpiercejr님의 프로필 사진"
+      - link "kennethpiercejr" [ref=e125]
+      - link "2026년 7월 21일" [ref=e126]: "10주"
+      - text: "HYPERBOOST!!!😎"
+      - button "좋아요 7개" [ref=e127]
+      - button "답글 달기" [ref=e128]
+      - button "번역 보기" [ref=e129]
+      - button [ref=e131]:
+        - img "좋아요"
+      - button "답글 2개 모두 보기" [ref=e132]
+      - link "nana_hoang님의 프로필 사진" [ref=e133]:
+        - image "nana_hoang님의 프로필 사진"
+      - link "nana_hoang" [ref=e134]
+      - link "2026년 7월 21일" [ref=e135]: "10주"
+      - text: "Woah there!!!!! 🤭👏🏼"
+      - link "@kennethpiercejr" [ref=e136]
+      - button "좋아요 1개" [ref=e137]
+      - button "답글 달기" [ref=e138]
+      - button "번역 보기" [ref=e139]
+      - button [ref=e141]:
+        - img "좋아요"
+      - button "답글 1개 모두 보기" [ref=e142]
+      - link "millercole23님의 프로필 사진" [ref=e143]:
+        - image "millercole23님의 프로필 사진"
+      - link "millercole23" [ref=e144]
+      - link "2026년 7월 22일" [ref=e145]: "10주"
+      - text: "That’s my dawg!!"
+      - link "@kennethpiercejr" [ref=e146]
+      - button "좋아요 1개" [ref=e147]
+      - button "답글 달기" [ref=e148]
+      - button "번역 보기" [ref=e149]
+      - button [ref=e151]:
+        - img "좋아요"
+      - button "답글 1개 모두 보기" [ref=e152]
+      - link "eli.discipline님의 프로필 사진" [ref=e153]:
+        - image "eli.discipline님의 프로필 사진"
+      - link [ref=e154]:
+        - text: "eli.discipline"
+        - img "인증됨"
+      - link "2026년 7월 22일" [ref=e155]: "10주"
+      - text: "Let’s goooo"
+      - link "@kennethpiercejr" [ref=e156]
+      - text: "🔥🔥"
+      - button "좋아요 1개" [ref=e157]
+      - button "답글 달기" [ref=e158]
+      - button "번역 보기" [ref=e159]
+      - button [ref=e161]:
+        - img "좋아요"
+      - button "답글 1개 모두 보기" [ref=e162]
+      - progressbar:
+        - img "읽어들이는 중..."
+    - region:
+      - button [ref=e164]:
+        - img "좋아요"
+      - button "8.4천" [ref=e165]
+      - button [ref=e166]:
+        - img "댓글 달기"
+      - button "125" [ref=e167]
+      - button "리포스트" [ref=e168]:
+        - img "리포스트"
+      - button "115" [ref=e169]
+      - button "공유하기" [ref=e170]:
+        - img "공유하기"
+      - button [ref=e171]:
+        - button [ref=e172]:
+          - img "저장"
+    - link "7월 21일" [ref=e173]
+    - region:
+      - link [ref=e174]
+      - form:
+        - button [ref=e175]:
+          - img "이모티콘"
+        - textbox "댓글 달기..." [ref=e176] [placeholder="댓글 달기..."]
+    - link "adidasrunning" [ref=e177]
+    - text: "님의 게시물 더 보기"
+    - link [ref=e178]:
+      - image "​ The Adizero Adios Pro 5 is here 😮‍💨​ ​ Introducing our new race-day super shoe built with the sa"
+      - img "슬라이드"
+    - link [ref=e179]:
+      - image "Fast approaching, quicker than ever... ​ ​ adidas Agravic Speed Ultra Evo is built to run trails fas"
+      - img "클립"
+    - link [ref=e180]:
+      - image "More than a super trainer, an award winning super trainer 🏆 adidas Hyperboost Edge is named the Run"
+      - img "슬라이드"
+    - link [ref=e181]:
+      - image "Berlin Marathon podium sweep for Adizero Adios Pro Evo 3. Innovation where it matters most 👉 The wo"
+      - img "슬라이드"
+    - link [ref=e182]:
+      - image "Bravery makes history. @tigist__assefa redefines fast at @berlinmarathon – again. #YouGotThis"
+      - img "슬라이드"
+    - link [ref=e183]:
+      - image "Clean sweep at @berlinmarathon 💪 🥇 Tigst Assefa CR 🥈 Bedatu Hirpa 🥉 Dera Dida 🥇 Guye Adola 🥈 G"
+      - img "슬라이드"
+  - contentinfo:
+    - link "Meta" [ref=e184]
+    - link "소개" [ref=e185]
+    - link "블로그" [ref=e186]
+    - link "채용 정보" [ref=e187]
+    - link "도움말" [ref=e188]
+    - link "API" [ref=e189]
+    - link "개인정보처리방침" [ref=e190]
+    - link "약관" [ref=e191]
+    - link "위치" [ref=e192]
+    - link "인기" [ref=e193]
+    - link "Instagram Lite" [ref=e194]
+    - link "Meta AI" [ref=e195]
+    - link "Muse" [ref=e196]
+    - link "Threads" [ref=e197]
+    - link "연락처 업로드 & 비사용자" [ref=e198]
+    - link "Meta Verified" [ref=e199]
+    - generic [ref=e200]:
+      - text: "한국어"
+      - img "아래쪽 V자형 아이콘"
+    - text: "© 2026 Instagram from Meta"
+- button [ref=e201]:
+  - tooltip: "3"
+- button "메시지" [ref=e202]:
+  - img "메시지"
+  - text: "메시지"
+  - button "사용자 아바타 피그마튜터 하이서님" [ref=e203]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 비비✨님" [ref=e204]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 𝒆𝒆𝒉𝒆𝒆𝒓𝒆𝒆 ║𝖼𝗁𝗋𝗂𝗌𝗍𝗂𝖺𝗇 • 𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝗋님" [ref=e205]:
+    - image "사용자 아바타"

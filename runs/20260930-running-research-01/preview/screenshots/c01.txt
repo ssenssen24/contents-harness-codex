@@ -1,0 +1,12 @@
+- title: "런메이트 · 내 페이스는 그대로" [url=http://127.0.0.1:8941/runs/20260930-running-research-01/preview/preview.html#c01]
+- banner:
+  - heading "함께 달려도, 내 페이스는 그대로" [level=1]
+  - text: "카드뉴스 5장 · 가상 브랜드 콘셉트 시안 · 각 카드 아래에서 확대할 수 있어요."
+  - link "전체 보기" [ref=e1]
+- main:
+  - region:
+    - article:
+      - image "나란히 달리는 두 사람의 뒷모습"
+      - image "runmate"
+      - heading "함께 달려도, 내 페이스는 그대로" [level=2]: "함께 달려도,\n내 페이스는 그대로"
+    - link "01 / 05 · 확대해서 보기" [ref=e2]

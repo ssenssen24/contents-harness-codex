@@ -1,0 +1,179 @@
+- title: "Instagram" [url=https://www.instagram.com/adidasrunning/p/DcdsVnXDLex/]
+- link [ref=e1]:
+  - img "Instagram"
+- link [ref=e2]:
+  - img "홈"
+- link [ref=e3]:
+  - img "릴스"
+- link [ref=e4]:
+  - img "메시지"
+- link [ref=e5]:
+  - img "검색"
+- link [ref=e6]:
+  - img "알림"
+- link [ref=e7]:
+  - img "새로운 게시물"
+- link [ref=e8]:
+  - img "프로페셔널 대시보드"
+- link [ref=e9]:
+  - link "huddlingclub님의 프로필 사진" [ref=e10]:
+    - image "huddlingclub님의 프로필 사진"
+- link [ref=e11]:
+  - img "설정"
+- link [ref=e12]:
+  - img "Meta의 다른 앱"
+- region:
+  - main:
+    - generic [ref=e13] [scrollable]:
+      - list:
+        - listitem
+        - listitem
+        - listitem:
+          - group "Video player":
+            - slider "볼륨 조정" [ref=e15]:
+              - button "오디오 소리 꺼짐" [ref=e16]:
+                - img "오디오 소리 꺼짐"
+    - button "다음" [ref=e17]
+    - button "adidasrunning님의 프로필 사진" [ref=e18] [disabled]:
+      - canvas [ref=e19] [size=41x41]
+      - link "adidasrunning님의 프로필 사진" [ref=e20] [disabled]:
+        - image "adidasrunning님의 프로필 사진"
+    - link "adidasrunning" [ref=e21]
+    - img "인증됨"
+    - button "팔로우" [ref=e22]
+    - button [ref=e23]:
+      - img "옵션 더 보기"
+    - generic [ref=e24] [scrollable]:
+      - link "adidasrunning님의 프로필 사진" [ref=e25]:
+        - image "adidasrunning님의 프로필 사진"
+      - link [ref=e26]:
+        - text: "adidasrunning"
+        - img "인증됨"
+      - text: "5주 It started as an obsession, a dare to dream.​The imagination to chase speed that had never been seen before amongst the trails, to revolutionise running through the dirt.​Then, it became a reality. From the minds of our best athletes, came our fastest trail-running shoe.​adidas Agravic Speed Ultra Evo.​Now available at UTMB in limited quantities.​"
+      - button "번역 보기" [ref=e27]
+      - link "gui_moises09님의 프로필 사진" [ref=e28]:
+        - image "gui_moises09님의 프로필 사진"
+      - link "gui_moises09" [ref=e29]
+      - link "2026년 8월 25일" [ref=e30]: "5주"
+      - text: "😍😍"
+      - button "좋아요 2개" [ref=e31]
+      - button "답글 달기" [ref=e32]
+      - button [ref=e34]:
+        - img "좋아요"
+      - link "run_shoe_bible님의 프로필 사진" [ref=e35]:
+        - image "run_shoe_bible님의 프로필 사진"
+      - link [ref=e36]:
+        - text: "run_shoe_bible"
+        - img "인증됨"
+      - link "2026년 8월 27일" [ref=e37]: "4주"
+      - text: "🔥🔥🔥"
+      - button "좋아요 1개" [ref=e38]
+      - button "답글 달기" [ref=e39]
+      - button [ref=e41]:
+        - img "좋아요"
+      - link "herbertkrabel님의 프로필 사진" [ref=e42]:
+        - image "herbertkrabel님의 프로필 사진"
+      - link "herbertkrabel" [ref=e43]
+      - link "2026년 8월 26일" [ref=e44]: "5주"
+      - text: "At €500 - who is the customer?  Says this guy who has a ton of Adidas Terrex shoes"
+      - button "좋아요 1개" [ref=e45]
+      - button "답글 달기" [ref=e46]
+      - button "번역 보기" [ref=e47]
+      - button [ref=e49]:
+        - img "좋아요"
+      - link "myname_issam님의 프로필 사진" [ref=e50]:
+        - image "myname_issam님의 프로필 사진"
+      - link "myname_issam" [ref=e51]
+      - link "2026년 8월 25일" [ref=e52]: "5주"
+      - text: "Release the new Evo SL, we need to buy new shoes."
+      - button "좋아요 3개" [ref=e53]
+      - button "답글 달기" [ref=e54]
+      - button "번역 보기" [ref=e55]
+      - button [ref=e57]:
+        - img "좋아요"
+      - link "roby.cane님의 프로필 사진" [ref=e58]:
+        - image "roby.cane님의 프로필 사진"
+      - link "roby.cane" [ref=e59]
+      - link "2026년 8월 26일" [ref=e60]: "4주"
+      - text: "You have been too shy. Next time price them 999 euro 🤡"
+      - button "좋아요 2개" [ref=e61]
+      - button "답글 달기" [ref=e62]
+      - button "번역 보기" [ref=e63]
+      - button [ref=e65]:
+        - img "좋아요"
+      - progressbar:
+        - img "읽어들이는 중..."
+    - region:
+      - button [ref=e67]:
+        - img "좋아요"
+      - button "9.8천" [ref=e68]
+      - button [ref=e69]:
+        - img "댓글 달기"
+      - button "48" [ref=e70]
+      - button "리포스트" [ref=e71]:
+        - img "리포스트"
+      - button "147" [ref=e72]
+      - button "공유하기" [ref=e73]:
+        - img "공유하기"
+      - button [ref=e74]:
+        - button [ref=e75]:
+          - img "저장"
+    - link "8월 25일" [ref=e76]
+    - region:
+      - link [ref=e77]
+      - form:
+        - button [ref=e78]:
+          - img "이모티콘"
+        - textbox "댓글 달기..." [ref=e79] [placeholder="댓글 달기..."]
+    - link "adidasrunning" [ref=e80]
+    - text: "님의 게시물 더 보기"
+    - link [ref=e81]:
+      - image "​ The Adizero Adios Pro 5 is here 😮‍💨​ ​ Introducing our new race-day super shoe built with the sa"
+      - img "슬라이드"
+    - link [ref=e82]:
+      - image "Fast approaching, quicker than ever... ​ ​ adidas Agravic Speed Ultra Evo is built to run trails fas"
+      - img "클립"
+    - link [ref=e83]:
+      - image "More than a super trainer, an award winning super trainer 🏆 adidas Hyperboost Edge is named the Run"
+      - img "슬라이드"
+    - link [ref=e84]:
+      - image "Berlin Marathon podium sweep for Adizero Adios Pro Evo 3. Innovation where it matters most 👉 The wo"
+      - img "슬라이드"
+    - link [ref=e85]:
+      - image "Bravery makes history. @tigist__assefa redefines fast at @berlinmarathon – again. #YouGotThis"
+      - img "슬라이드"
+    - link [ref=e86]:
+      - image "Clean sweep at @berlinmarathon 💪 🥇 Tigst Assefa CR 🥈 Bedatu Hirpa 🥉 Dera Dida 🥇 Guye Adola 🥈 G"
+      - img "슬라이드"
+  - contentinfo:
+    - link "Meta" [ref=e87]
+    - link "소개" [ref=e88]
+    - link "블로그" [ref=e89]
+    - link "채용 정보" [ref=e90]
+    - link "도움말" [ref=e91]
+    - link "API" [ref=e92]
+    - link "개인정보처리방침" [ref=e93]
+    - link "약관" [ref=e94]
+    - link "위치" [ref=e95]
+    - link "인기" [ref=e96]
+    - link "Instagram Lite" [ref=e97]
+    - link "Meta AI" [ref=e98]
+    - link "Muse" [ref=e99]
+    - link "Threads" [ref=e100]
+    - link "연락처 업로드 & 비사용자" [ref=e101]
+    - link "Meta Verified" [ref=e102]
+    - generic [ref=e103]:
+      - text: "한국어"
+      - img "아래쪽 V자형 아이콘"
+    - text: "© 2026 Instagram from Meta"
+- button [ref=e104]:
+  - tooltip: "3"
+- button "메시지" [ref=e105]:
+  - img "메시지"
+  - text: "메시지"
+  - button "사용자 아바타 피그마튜터 하이서님" [ref=e106]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 비비✨님" [ref=e107]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 𝒆𝒆𝒉𝒆𝒆𝒓𝒆𝒆 ║𝖼𝗁𝗋𝗂𝗌𝗍𝗂𝖺𝗇 • 𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝗋님" [ref=e108]:
+    - image "사용자 아바타"

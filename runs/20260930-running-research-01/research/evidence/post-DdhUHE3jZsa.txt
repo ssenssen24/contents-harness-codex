@@ -1,0 +1,268 @@
+- title: "Instagram" [url=https://www.instagram.com/adidasuk/p/DdhUHE3jZsa/]
+- link [ref=e1]:
+  - img "Instagram"
+- link [ref=e2]:
+  - img "홈"
+- link [ref=e3]:
+  - img "릴스"
+- link [ref=e4]:
+  - img "메시지"
+- link [ref=e5]:
+  - img "검색"
+- link [ref=e6]:
+  - img "알림"
+- link [ref=e7]:
+  - img "새로운 게시물"
+- link [ref=e8]:
+  - img "프로페셔널 대시보드"
+- link [ref=e9]:
+  - link "huddlingclub님의 프로필 사진" [ref=e10]:
+    - image "huddlingclub님의 프로필 사진"
+- link [ref=e11]:
+  - img "설정"
+- link [ref=e12]:
+  - img "Meta의 다른 앱"
+- region:
+  - main:
+    - generic [ref=e13] [scrollable]:
+      - list:
+        - listitem
+        - listitem:
+          - generic [ref=e14]:
+            - button [ref=e15]
+            - button [ref=e16]:
+              - img "태그"
+        - listitem
+    - button "다음" [ref=e17]
+    - link "adidasrunning님의 프로필 사진" [ref=e18]:
+      - image "adidasrunning님의 프로필 사진"
+    - link "adidasuk님의 프로필 사진" [ref=e19]:
+      - image "adidasuk님의 프로필 사진"
+    - link "adidasuk" [ref=e20]
+    - img "인증됨"
+    - text: "및"
+    - link "외 2명" [ref=e21]
+    - button [ref=e22]:
+      - img "옵션 더 보기"
+    - generic [ref=e23] [scrollable]:
+      - link "adidasuk님의 프로필 사진" [ref=e24]:
+        - image "adidasuk님의 프로필 사진"
+      - link [ref=e25]:
+        - text: "adidasuk"
+        - img "인증됨"
+      - text: "1주 The latest adidas x LABRUM London running collection, presented in London.Celebrating movement, heritage and the stories we carry with us."
+      - link "@daryllneita" [ref=e26]
+      - link "@sam_reardon07" [ref=e27]
+      - text: "ADIZERO Evo SL LABRUM, available 1st October"
+      - button "번역 보기" [ref=e28]
+      - link "jazminsawyers님의 프로필 사진" [ref=e29]:
+        - image "jazminsawyers님의 프로필 사진"
+      - link [ref=e30]:
+        - text: "jazminsawyers"
+        - img "인증됨"
+      - link "2026년 9월 22일" [ref=e31]: "1주"
+      - text: "Absolutely yes!!"
+      - button "좋아요 4개" [ref=e32]
+      - button "답글 달기" [ref=e33]
+      - button "번역 보기" [ref=e34]
+      - button [ref=e36]:
+        - img "좋아요"
+      - link "daryllneita님의 프로필 사진" [ref=e37]:
+        - image "daryllneita님의 프로필 사진"
+      - link [ref=e38]:
+        - text: "daryllneita"
+        - img "인증됨"
+      - link "2026년 9월 21일" [ref=e39]: "1주"
+      - text: "🔥"
+      - button "좋아요 8개" [ref=e40]
+      - button "답글 달기" [ref=e41]
+      - button [ref=e43]:
+        - img "좋아요"
+      - button "답글 2개 모두 보기" [ref=e44]
+      - link "runningshoesworld님의 프로필 사진" [ref=e45]:
+        - image "runningshoesworld님의 프로필 사진"
+      - link "runningshoesworld" [ref=e46]
+      - link "2026년 9월 21일" [ref=e47]: "1주"
+      - text: "///AFRO Vibes 🫶🏾✨"
+      - button "좋아요 1개" [ref=e48]
+      - button "답글 달기" [ref=e49]
+      - button [ref=e51]:
+        - img "좋아요"
+      - link "inji_som님의 프로필 사진" [ref=e52]:
+        - image "inji_som님의 프로필 사진"
+      - link "inji_som" [ref=e53]
+      - link "2026년 9월 21일" [ref=e54]: "1주"
+      - text: "😍 INSANEEEEE 👏"
+      - button "좋아요 1개" [ref=e55]
+      - button "답글 달기" [ref=e56]
+      - button [ref=e58]:
+        - img "좋아요"
+      - link "iamfods님의 프로필 사진" [ref=e59]:
+        - image "iamfods님의 프로필 사진"
+      - link [ref=e60]:
+        - text: "iamfods"
+        - img "인증됨"
+      - link "2026년 9월 21일" [ref=e61]: "1주"
+      - text: "🙏🏿🙏🏿😍"
+      - button "좋아요 5개" [ref=e62]
+      - button "답글 달기" [ref=e63]
+      - button [ref=e65]:
+        - img "좋아요"
+      - button "답글 1개 모두 보기" [ref=e66]
+      - link "lionheartfelt님의 프로필 사진" [ref=e67]:
+        - image "lionheartfelt님의 프로필 사진"
+      - link [ref=e68]:
+        - text: "lionheartfelt"
+        - img "인증됨"
+      - link "2026년 9월 21일" [ref=e69]: "1주"
+      - text: "🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥"
+      - button "좋아요 1개" [ref=e70]
+      - button "답글 달기" [ref=e71]
+      - button [ref=e73]:
+        - img "좋아요"
+      - link "jeffersonpazini님의 프로필 사진" [ref=e74]:
+        - image "jeffersonpazini님의 프로필 사진"
+      - link "jeffersonpazini" [ref=e75]
+      - link "2026년 9월 21일" [ref=e76]: "1주"
+      - text: "😍😍😍😍😍"
+      - button "좋아요 1개" [ref=e77]
+      - button "답글 달기" [ref=e78]
+      - button [ref=e80]:
+        - img "좋아요"
+      - link "markyrodge_running님의 프로필 사진" [ref=e81]:
+        - image "markyrodge_running님의 프로필 사진"
+      - link "markyrodge_running" [ref=e82]
+      - link "2026년 9월 21일" [ref=e83]: "1주"
+      - text: "Yeah these are so good"
+      - button "좋아요 1개" [ref=e84]
+      - button "답글 달기" [ref=e85]
+      - button "번역 보기" [ref=e86]
+      - button [ref=e88]:
+        - img "좋아요"
+      - link "kristalawuah님의 프로필 사진" [ref=e89]:
+        - image "kristalawuah님의 프로필 사진"
+      - link [ref=e90]:
+        - text: "kristalawuah"
+        - img "인증됨"
+      - link "2026년 9월 21일" [ref=e91]: "1주"
+      - text: "😍😍😍"
+      - button "좋아요 2개" [ref=e92]
+      - button "답글 달기" [ref=e93]
+      - button [ref=e95]:
+        - img "좋아요"
+      - link "tayler_willson님의 프로필 사진" [ref=e96]:
+        - image "tayler_willson님의 프로필 사진"
+      - link [ref=e97]:
+        - text: "tayler_willson"
+        - img "인증됨"
+      - link "2026년 9월 21일" [ref=e98]: "1주"
+      - text: "👑"
+      - link "@iamfods" [ref=e99]
+      - button "좋아요 1개" [ref=e100]
+      - button "답글 달기" [ref=e101]
+      - button [ref=e103]:
+        - img "좋아요"
+      - link "rodolfosna님의 프로필 사진" [ref=e104]:
+        - image "rodolfosna님의 프로필 사진"
+      - link "rodolfosna" [ref=e105]
+      - link "2026년 9월 21일" [ref=e106]: "1주"
+      - text: "👏👏👏"
+      - button "좋아요 2개" [ref=e107]
+      - button "답글 달기" [ref=e108]
+      - button [ref=e110]:
+        - img "좋아요"
+      - link "callme.air.ron님의 프로필 사진" [ref=e111]:
+        - image "callme.air.ron님의 프로필 사진"
+      - link [ref=e112]:
+        - text: "callme.air.ron"
+        - img "인증됨"
+      - link "2026년 9월 21일" [ref=e113]: "1주"
+      - text: "Damn!! Another necessary purchase🔥"
+      - button "좋아요 1개" [ref=e114]
+      - button "답글 달기" [ref=e115]
+      - button "번역 보기" [ref=e116]
+      - button [ref=e118]:
+        - img "좋아요"
+      - link "_smxrtin님의 프로필 사진" [ref=e119]:
+        - image "_smxrtin님의 프로필 사진"
+      - link "_smxrtin" [ref=e120]
+      - link "2026년 9월 21일" [ref=e121]: "1주"
+      - text: "Toughhh 😮‍💨🔥"
+      - button "좋아요 1개" [ref=e122]
+      - button "답글 달기" [ref=e123]
+      - button [ref=e125]:
+        - img "좋아요"
+      - link "kevin_morris3님의 프로필 사진" [ref=e126]:
+        - image "kevin_morris3님의 프로필 사진"
+      - link "kevin_morris3" [ref=e127]
+      - link "2026년 9월 22일" [ref=e128]: "1주"
+      - text: "🔥🔥"
+      - button "좋아요 1개" [ref=e129]
+      - button "답글 달기" [ref=e130]
+      - button [ref=e132]:
+        - img "좋아요"
+      - link "homegirlane님의 프로필 사진" [ref=e133]:
+        - image "homegirlane님의 프로필 사진"
+      - link "homegirlane" [ref=e134]
+      - link "2026년 9월 21일" [ref=e135]: "1주"
+      - text: "💥💥💥💥"
+      - button "좋아요 3개" [ref=e136]
+      - button "답글 달기" [ref=e137]
+      - button [ref=e139]:
+        - img "좋아요"
+      - progressbar:
+        - img "읽어들이는 중..."
+    - region:
+      - button [ref=e141]:
+        - img "좋아요"
+      - button "6.3천" [ref=e142]
+      - button [ref=e143]:
+        - img "댓글 달기"
+      - button "65" [ref=e144]
+      - button "리포스트" [ref=e145]:
+        - img "리포스트"
+      - button "98" [ref=e146]
+      - button "공유하기" [ref=e147]:
+        - img "공유하기"
+      - button [ref=e148]:
+        - button [ref=e149]:
+          - img "저장"
+    - link "9월 21일" [ref=e150]
+    - region:
+      - link [ref=e151]
+      - form:
+        - button [ref=e152]:
+          - img "이모티콘"
+        - textbox "댓글 달기..." [ref=e153] [placeholder="댓글 달기..."]
+    - link "adidasuk" [ref=e154]
+    - text: "님의 게시물 더 보기"
+  - contentinfo:
+    - link "Meta" [ref=e155]
+    - link "소개" [ref=e156]
+    - link "블로그" [ref=e157]
+    - link "채용 정보" [ref=e158]
+    - link "도움말" [ref=e159]
+    - link "API" [ref=e160]
+    - link "개인정보처리방침" [ref=e161]
+    - link "약관" [ref=e162]
+    - link "위치" [ref=e163]
+    - link "인기" [ref=e164]
+    - link "Instagram Lite" [ref=e165]
+    - link "Meta AI" [ref=e166]
+    - link "Muse" [ref=e167]
+    - link "Threads" [ref=e168]
+    - link "연락처 업로드 & 비사용자" [ref=e169]
+    - link "Meta Verified" [ref=e170]
+    - generic [ref=e171]:
+      - text: "한국어"
+      - img "아래쪽 V자형 아이콘"
+    - text: "© 2026 Instagram from Meta"
+- button "메시지" [ref=e172]:
+  - img "메시지"
+  - text: "메시지"
+  - button "사용자 아바타 피그마튜터 하이서님" [ref=e173]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 비비✨님" [ref=e174]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 𝒆𝒆𝒉𝒆𝒆𝒓𝒆𝒆 ║𝖼𝗁𝗋𝗂𝗌𝗍𝗂𝖺𝗇 • 𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝗋님" [ref=e175]:
+    - image "사용자 아바타"

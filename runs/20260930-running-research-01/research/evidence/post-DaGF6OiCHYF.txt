@@ -1,0 +1,268 @@
+- title: "Instagram" [url=https://www.instagram.com/nikerunning/reel/DaGF6OiCHYF/]
+- link [ref=e1]:
+  - img "Instagram"
+- link [ref=e2]:
+  - img "홈"
+- link [ref=e3]:
+  - img "릴스"
+- link [ref=e4]:
+  - img "메시지"
+- link [ref=e5]:
+  - img "검색"
+- link [ref=e6]:
+  - img "알림"
+- link [ref=e7]:
+  - img "새로운 게시물"
+- link [ref=e8]:
+  - img "프로페셔널 대시보드"
+- link [ref=e9]:
+  - link "huddlingclub님의 프로필 사진" [ref=e10]:
+    - image "huddlingclub님의 프로필 사진"
+- link [ref=e11]:
+  - img "설정"
+- link [ref=e12]:
+  - img "Meta의 다른 앱"
+- region:
+  - main:
+    - group "Video player":
+      - slider "볼륨 조정" [ref=e14]:
+        - button "오디오 소리 꺼짐" [ref=e15]:
+          - img "오디오 소리 꺼짐"
+      - button [ref=e17]:
+        - img "태그"
+    - button "nikerunning님의 프로필 사진" [ref=e18] [disabled]:
+      - canvas [ref=e19] [size=41x41]
+      - link "nikerunning님의 프로필 사진" [ref=e20] [disabled]:
+        - image "nikerunning님의 프로필 사진"
+    - link "nikerunning" [ref=e21]
+    - img "인증됨"
+    - link "오리지널 오디오" [ref=e22]
+    - button "팔로우" [ref=e23]
+    - button [ref=e24]:
+      - img "옵션 더 보기"
+    - generic [ref=e25] [scrollable]:
+      - link "nikerunning님의 프로필 사진" [ref=e26]:
+        - image "nikerunning님의 프로필 사진"
+      - link [ref=e27]:
+        - text: "nikerunning"
+        - img "인증됨"
+      - text: "수정됨•13주"
+      - link "@itsshacarri" [ref=e28]
+      - text: "and"
+      - link "@_taarra_" [ref=e29]
+      - text: "make the ultimate hype squad.Shot in Los Angeles for the After Dark Tour."
+      - button "번역 보기" [ref=e30]
+      - link "lovelenaocean님의 프로필 사진" [ref=e31]:
+        - image "lovelenaocean님의 프로필 사진"
+      - link "lovelenaocean" [ref=e32]
+      - link "2026년 6월 28일" [ref=e33]: "13주"
+      - text: "Fabulous 🔥🙌🏾"
+      - button "좋아요 3개" [ref=e34]
+      - button "답글 달기" [ref=e35]
+      - button [ref=e37]:
+        - img "좋아요"
+      - link "emilyabbate님의 프로필 사진" [ref=e38]:
+        - image "emilyabbate님의 프로필 사진"
+      - link [ref=e39]:
+        - text: "emilyabbate"
+        - img "인증됨"
+      - link "2026년 6월 28일" [ref=e40]: "13주"
+      - text: "🔥🔥🔥"
+      - button "좋아요 1개" [ref=e41]
+      - button "답글 달기" [ref=e42]
+      - button [ref=e44]:
+        - img "좋아요"
+      - link "diaryofabusybee님의 프로필 사진" [ref=e45]:
+        - image "diaryofabusybee님의 프로필 사진"
+      - link "diaryofabusybee" [ref=e46]
+      - link "2026년 6월 28일" [ref=e47]: "13주"
+      - text: "Dream team 🙌🔥 so happy to be running LA!"
+      - button "좋아요 60개" [ref=e48]
+      - button "답글 달기" [ref=e49]
+      - button [ref=e51]:
+        - img "좋아요"
+      - button "답글 1개 모두 보기" [ref=e52]
+      - link "hunterwoodhall님의 프로필 사진" [ref=e53]:
+        - image "hunterwoodhall님의 프로필 사진"
+      - link [ref=e54]:
+        - text: "hunterwoodhall"
+        - img "인증됨"
+      - link "2026년 6월 28일" [ref=e55]: "13주"
+      - text: "This so sick!!!"
+      - button "좋아요 162개" [ref=e56]
+      - button "답글 달기" [ref=e57]
+      - button "번역 보기" [ref=e58]
+      - button [ref=e60]:
+        - img "좋아요"
+      - link "tawney_soiree님의 프로필 사진" [ref=e61]:
+        - image "tawney_soiree님의 프로필 사진"
+      - link "tawney_soiree" [ref=e62]
+      - link "2026년 6월 28일" [ref=e63]: "13주"
+      - text: "Love this! 👯‍♀️"
+      - button "좋아요 3개" [ref=e64]
+      - button "답글 달기" [ref=e65]
+      - button "번역 보기" [ref=e66]
+      - button [ref=e68]:
+        - img "좋아요"
+      - link "esme_brise님의 프로필 사진" [ref=e69]:
+        - image "esme_brise님의 프로필 사진"
+      - link "esme_brise" [ref=e70]
+      - link "2026년 6월 28일" [ref=e71]: "13주"
+      - text: "🔝🔝🔝🔝🔝"
+      - button "좋아요 2개" [ref=e72]
+      - button "답글 달기" [ref=e73]
+      - button [ref=e75]:
+        - img "좋아요"
+      - link "mindbodyandhustle님의 프로필 사진" [ref=e76]:
+        - image "mindbodyandhustle님의 프로필 사진"
+      - link "mindbodyandhustle" [ref=e77]
+      - link "2026년 6월 28일" [ref=e78]: "13주"
+      - text: "🔥🔥🔥🔥🔥"
+      - button "좋아요 2개" [ref=e79]
+      - button "답글 달기" [ref=e80]
+      - button [ref=e82]:
+        - img "좋아요"
+      - link "createdxshar님의 프로필 사진" [ref=e83]:
+        - image "createdxshar님의 프로필 사진"
+      - link "createdxshar" [ref=e84]
+      - link "2026년 6월 28일" [ref=e85]: "13주"
+      - text: "Just WOW 😍"
+      - button "좋아요 3개" [ref=e86]
+      - button "답글 달기" [ref=e87]
+      - button "번역 보기" [ref=e88]
+      - button [ref=e90]:
+        - img "좋아요"
+      - link "kilobfit님의 프로필 사진" [ref=e91]:
+        - image "kilobfit님의 프로필 사진"
+      - link "kilobfit" [ref=e92]
+      - link "2026년 6월 29일" [ref=e93]: "13주"
+      - text: "😍😍"
+      - button "좋아요 1개" [ref=e94]
+      - button "답글 달기" [ref=e95]
+      - button [ref=e97]:
+        - img "좋아요"
+      - link "builtbyjani님의 프로필 사진" [ref=e98]:
+        - image "builtbyjani님의 프로필 사진"
+      - link [ref=e99]:
+        - text: "builtbyjani"
+        - img "인증됨"
+      - link "2026년 6월 28일" [ref=e100]: "13주"
+      - text: "🔥🔥"
+      - button "좋아요 2개" [ref=e101]
+      - button "답글 달기" [ref=e102]
+      - button [ref=e104]:
+        - img "좋아요"
+      - link "iamthebatman___님의 프로필 사진" [ref=e105]:
+        - image "iamthebatman___님의 프로필 사진"
+      - link [ref=e106]:
+        - text: "iamthebatman___"
+        - img "인증됨"
+      - link "2026년 6월 28일" [ref=e107]: "13주"
+      - text: "What a team😍🔥"
+      - button "좋아요 3개" [ref=e108]
+      - button "답글 달기" [ref=e109]
+      - button [ref=e111]:
+        - img "좋아요"
+      - link "joannaresendiz님의 프로필 사진" [ref=e112]:
+        - image "joannaresendiz님의 프로필 사진"
+      - link "joannaresendiz" [ref=e113]
+      - link "2026년 6월 28일" [ref=e114]: "13주"
+      - text: "😍"
+      - button "좋아요 1개" [ref=e115]
+      - button "답글 달기" [ref=e116]
+      - button [ref=e118]:
+        - img "좋아요"
+      - link "ms.bash8.20님의 프로필 사진" [ref=e119]:
+        - image "ms.bash8.20님의 프로필 사진"
+      - link "ms.bash8.20" [ref=e120]
+      - link "2026년 6월 28일" [ref=e121]: "13주"
+      - text: "🔥🔥🔥"
+      - button "좋아요 1개" [ref=e122]
+      - button "답글 달기" [ref=e123]
+      - button [ref=e125]:
+        - img "좋아요"
+      - link "gobigredtrack_xc님의 프로필 사진" [ref=e126]:
+        - image "gobigredtrack_xc님의 프로필 사진"
+      - link "gobigredtrack_xc" [ref=e127]
+      - link "2026년 6월 28일" [ref=e128]: "13주"
+      - text: "👑🤟🏾"
+      - button "좋아요 2개" [ref=e129]
+      - button "답글 달기" [ref=e130]
+      - button [ref=e132]:
+        - img "좋아요"
+      - progressbar:
+        - img "읽어들이는 중..."
+    - region:
+      - button [ref=e134]:
+        - img "좋아요"
+      - button "2.5만" [ref=e135]
+      - button [ref=e136]:
+        - img "댓글 달기"
+      - button "246" [ref=e137]
+      - button "리포스트" [ref=e138]:
+        - img "리포스트"
+      - button "731" [ref=e139]
+      - button "공유하기" [ref=e140]:
+        - img "공유하기"
+      - button [ref=e141]:
+        - button [ref=e142]:
+          - img "저장"
+    - link "6월 28일" [ref=e143]
+    - region:
+      - link [ref=e144]
+      - form:
+        - button [ref=e145]:
+          - img "이모티콘"
+        - textbox "댓글 달기..." [ref=e146] [placeholder="댓글 달기..."]
+    - link "nikerunning" [ref=e147]
+    - text: "님의 게시물 더 보기"
+    - link [ref=e148]:
+      - image "What makes running After Dark Tour Sydney so electric? Let us count the ways... Mexico City, we’re e"
+      - img "슬라이드"
+    - link [ref=e149]:
+      - image "The starting line brought us together. The finish line at Sydney After Dark Tour showed us what we’r"
+      - img "클립"
+    - link [ref=e150]:
+      - image "See you tonight under the stars at Tumbalong Park, Sydney."
+      - img "슬라이드"
+    - link [ref=e151]:
+      - image "Speed isn’t just for raceday. It’s for Tuesday — or Wednesday, or Thursday — too. Introducing Pegasu"
+      - img "클립"
+    - link [ref=e152]:
+      - image "More athletes. More moments. More coverage. This is @swoosh.racing. Stay tapped in."
+      - img "클립"
+    - link [ref=e153]:
+      - image "Push your limits in a head-to-toe collection curated for speed and mid-race euphoria. The After Dark"
+      - img "슬라이드"
+  - contentinfo:
+    - link "Meta" [ref=e154]
+    - link "소개" [ref=e155]
+    - link "블로그" [ref=e156]
+    - link "채용 정보" [ref=e157]
+    - link "도움말" [ref=e158]
+    - link "API" [ref=e159]
+    - link "개인정보처리방침" [ref=e160]
+    - link "약관" [ref=e161]
+    - link "위치" [ref=e162]
+    - link "인기" [ref=e163]
+    - link "Instagram Lite" [ref=e164]
+    - link "Meta AI" [ref=e165]
+    - link "Muse" [ref=e166]
+    - link "Threads" [ref=e167]
+    - link "연락처 업로드 & 비사용자" [ref=e168]
+    - link "Meta Verified" [ref=e169]
+    - generic [ref=e170]:
+      - text: "한국어"
+      - img "아래쪽 V자형 아이콘"
+    - text: "© 2026 Instagram from Meta"
+- button [ref=e171]:
+  - tooltip: "3"
+- button "메시지" [ref=e172]:
+  - img "메시지"
+  - text: "메시지"
+  - button "사용자 아바타 피그마튜터 하이서님" [ref=e173]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 비비✨님" [ref=e174]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 𝒆𝒆𝒉𝒆𝒆𝒓𝒆𝒆 ║𝖼𝗁𝗋𝗂𝗌𝗍𝗂𝖺𝗇 • 𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝗋님" [ref=e175]:
+    - image "사용자 아바타"

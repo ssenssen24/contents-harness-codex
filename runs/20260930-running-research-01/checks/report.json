@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "run_id": "20260930-running-research-01",
+  "stage": "final",
+  "automatic_pass": true,
+  "passed": [
+    "state",
+    "research",
+    "plan",
+    "preview",
+    "final"
+  ],
+  "errors": [],
+  "warnings": [
+    "확인한 게시물 중 순위. 전체 Top 6가 아님."
+  ],
+  "limits": [
+    "Offline evidence consistency only; no live Figma/Aside verification.",
+    "Approval authenticity, factual accuracy and visual quality require review."
+  ]
+}

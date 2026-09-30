@@ -1,0 +1,252 @@
+{
+  "file_key": "1D7Jqr9ku3boaa7GVbeAUm",
+  "url": "https://www.figma.com/design/1D7Jqr9ku3boaa7GVbeAUm/?node-id=293-271",
+  "created_at": "2026-09-30T00:51:46.941Z",
+  "read_at": "2026-09-30T01:32:28.473Z",
+  "preview_digest": "e009fedde063c8f8e5c4a19dec74a96f6ade726482b9f42a8f8ec4a1400ca269",
+  "section_id": "293:271",
+  "cards": [
+    {
+      "id": "c01",
+      "node_id": "293:273",
+      "width": 1080,
+      "height": 1350,
+      "copy": [
+        "함께 달려도,\n내 페이스는 그대로"
+      ],
+      "text_nodes": [
+        {
+          "id": "293:285",
+          "type": "TEXT",
+          "characters": "함께 달려도,\n내 페이스는 그대로",
+          "x": 80,
+          "y": 1026.800048828125,
+          "width": 930,
+          "height": 100,
+          "font": {
+            "family": "Pretendard",
+            "style": "Bold"
+          }
+        }
+      ],
+      "image_node_ids": [
+        "293:274"
+      ],
+      "vector_node_ids": [
+        "293:278",
+        "293:279",
+        "293:280",
+        "293:281",
+        "293:282",
+        "293:283",
+        "293:284"
+      ],
+      "screenshot": "final/png/c01.png"
+    },
+    {
+      "id": "c02",
+      "node_id": "293:286",
+      "width": 1080,
+      "height": 1350,
+      "copy": [
+        "따라가야 할까,\n걱정되는 날",
+        "누군가와 달리고 싶어도\n속도가 신경 쓰일 수 있어요."
+      ],
+      "text_nodes": [
+        {
+          "id": "293:296",
+          "type": "TEXT",
+          "characters": "따라가야 할까,\n걱정되는 날",
+          "x": 104,
+          "y": 360,
+          "width": 890,
+          "height": 100,
+          "font": {
+            "family": "Pretendard",
+            "style": "Bold"
+          }
+        },
+        {
+          "id": "293:297",
+          "type": "TEXT",
+          "characters": "누군가와 달리고 싶어도\n속도가 신경 쓰일 수 있어요.",
+          "x": 104,
+          "y": 660,
+          "width": 865,
+          "height": 100,
+          "font": {
+            "family": "Pretendard",
+            "style": "Regular"
+          }
+        }
+      ],
+      "image_node_ids": [],
+      "vector_node_ids": [
+        "293:289",
+        "293:290",
+        "293:291",
+        "293:292",
+        "293:293",
+        "293:294",
+        "293:295"
+      ],
+      "screenshot": "final/png/c02.png"
+    },
+    {
+      "id": "c03",
+      "node_id": "293:300",
+      "width": 1080,
+      "height": 1350,
+      "copy": [
+        "나와 맞는 페이스로",
+        "비슷한 속도로 달리는 사람과\n나란히 달리는 시간."
+      ],
+      "text_nodes": [
+        {
+          "id": "293:311",
+          "type": "TEXT",
+          "characters": "나와 맞는 페이스로",
+          "x": 100,
+          "y": 226,
+          "width": 900,
+          "height": 100,
+          "font": {
+            "family": "Pretendard",
+            "style": "Bold"
+          }
+        },
+        {
+          "id": "293:312",
+          "type": "TEXT",
+          "characters": "비슷한 속도로 달리는 사람과\n나란히 달리는 시간.",
+          "x": 100,
+          "y": 350,
+          "width": 900,
+          "height": 100,
+          "font": {
+            "family": "Pretendard",
+            "style": "Regular"
+          }
+        }
+      ],
+      "image_node_ids": [
+        "293:301"
+      ],
+      "vector_node_ids": [
+        "293:304",
+        "293:305",
+        "293:306",
+        "293:307",
+        "293:308",
+        "293:309",
+        "293:310"
+      ],
+      "screenshot": "final/png/c03.png"
+    },
+    {
+      "id": "c04",
+      "node_id": "293:313",
+      "width": 1080,
+      "height": 1350,
+      "copy": [
+        "가까운 곳에서,\n맞는 모임을",
+        "런메이트에서 지역과 페이스로\n모임을 직접 검색할 수 있어요."
+      ],
+      "text_nodes": [
+        {
+          "id": "293:325",
+          "type": "TEXT",
+          "characters": "가까운 곳에서,\n맞는 모임을",
+          "x": 88,
+          "y": 222,
+          "width": 900,
+          "height": 100,
+          "font": {
+            "family": "Pretendard",
+            "style": "Bold"
+          }
+        },
+        {
+          "id": "293:326",
+          "type": "TEXT",
+          "characters": "런메이트에서 지역과 페이스로\n모임을 직접 검색할 수 있어요.",
+          "x": 88,
+          "y": 475,
+          "width": 900,
+          "height": 100,
+          "font": {
+            "family": "Pretendard",
+            "style": "Regular"
+          }
+        }
+      ],
+      "image_node_ids": [
+        "293:314"
+      ],
+      "vector_node_ids": [
+        "293:318",
+        "293:319",
+        "293:320",
+        "293:321",
+        "293:322",
+        "293:323",
+        "293:324"
+      ],
+      "screenshot": "final/png/c04.png"
+    },
+    {
+      "id": "c05",
+      "node_id": "293:328",
+      "width": 1080,
+      "height": 1350,
+      "copy": [
+        "내 페이스로,\n함께 달리는 시작",
+        "프로필 링크에서 내 주변 러닝 모임을 찾아요."
+      ],
+      "text_nodes": [
+        {
+          "id": "293:338",
+          "type": "TEXT",
+          "characters": "내 페이스로,\n함께 달리는 시작",
+          "x": 104,
+          "y": 338,
+          "width": 900,
+          "height": 100,
+          "font": {
+            "family": "Pretendard",
+            "style": "Bold"
+          }
+        },
+        {
+          "id": "293:340",
+          "type": "TEXT",
+          "characters": "프로필 링크에서 내 주변 러닝 모임을 찾아요.",
+          "x": 139,
+          "y": 678,
+          "width": 788,
+          "height": 100,
+          "font": {
+            "family": "Pretendard",
+            "style": "Bold"
+          }
+        }
+      ],
+      "image_node_ids": [],
+      "vector_node_ids": [
+        "293:331",
+        "293:332",
+        "293:333",
+        "293:334",
+        "293:335",
+        "293:336",
+        "293:337",
+        "293:343",
+        "293:344",
+        "293:345",
+        "293:346",
+        "293:347"
+      ],
+      "screenshot": "final/png/c05.png"
+    }
+  ]
+}

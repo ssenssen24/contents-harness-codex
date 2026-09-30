@@ -1,0 +1,272 @@
+- title: "Instagram" [url=https://www.instagram.com/nikerunning/p/DcpCxdKvaGA/]
+- link [ref=e1]:
+  - img "Instagram"
+- link [ref=e2]:
+  - img "홈"
+- link [ref=e3]:
+  - img "릴스"
+- link [ref=e4]:
+  - img "메시지"
+- link [ref=e5]:
+  - img "검색"
+- link [ref=e6]:
+  - img "알림"
+- link [ref=e7]:
+  - img "새로운 게시물"
+- link [ref=e8]:
+  - img "프로페셔널 대시보드"
+- link [ref=e9]:
+  - link "huddlingclub님의 프로필 사진" [ref=e10]:
+    - image "huddlingclub님의 프로필 사진"
+- link [ref=e11]:
+  - img "설정"
+- link [ref=e12]:
+  - img "Meta의 다른 앱"
+- region:
+  - main:
+    - button "nikerunning님의 프로필 사진" [ref=e13] [disabled]:
+      - canvas [ref=e14] [size=41x41]
+      - link "nikerunning님의 프로필 사진" [ref=e15] [disabled]:
+        - image "nikerunning님의 프로필 사진"
+    - link "nikerunning" [ref=e16]
+    - img "인증됨"
+    - link "시드니" [ref=e17]
+    - button "팔로우" [ref=e18]
+    - button [ref=e19]:
+      - img "옵션 더 보기"
+    - generic [ref=e20] [scrollable]:
+      - link "nikerunning님의 프로필 사진" [ref=e21]:
+        - image "nikerunning님의 프로필 사진"
+      - link [ref=e22]:
+        - text: "nikerunning"
+        - img "인증됨"
+      - text: "수정됨•4주 You were right to be worried about Addisu Gobena. The 21-year-old just bagged his first major marathon win in Sydney."
+      - button "번역 보기" [ref=e23]
+      - link "lozhannaford님의 프로필 사진" [ref=e24]:
+        - image "lozhannaford님의 프로필 사진"
+      - link [ref=e25]:
+        - text: "lozhannaford"
+        - img "인증됨"
+      - link "2026년 8월 30일" [ref=e26]: "4주"
+      - text: "🙌🙌🙌 Legendary!!!"
+      - button "좋아요 6개" [ref=e27]
+      - button "답글 달기" [ref=e28]
+      - button "번역 보기" [ref=e29]
+      - button [ref=e31]:
+        - img "좋아요"
+      - link "christinemarinho21님의 프로필 사진" [ref=e32]:
+        - image "christinemarinho21님의 프로필 사진"
+      - link [ref=e33]:
+        - text: "christinemarinho21"
+        - img "인증됨"
+      - link "2026년 8월 30일" [ref=e34]: "4주"
+      - text: "🙌🙌🙌"
+      - button "좋아요 1개" [ref=e35]
+      - button "답글 달기" [ref=e36]
+      - button [ref=e38]:
+        - img "좋아요"
+      - link "runner_life_style_님의 프로필 사진" [ref=e39]:
+        - image "runner_life_style_님의 프로필 사진"
+      - link "runner_life_style_" [ref=e40]
+      - link "2026년 8월 30일" [ref=e41]: "4주"
+      - text: "🔥🔥🔥🔥"
+      - button "좋아요 1개" [ref=e42]
+      - button "답글 달기" [ref=e43]
+      - button [ref=e45]:
+        - img "좋아요"
+      - link "ephenmo_님의 프로필 사진" [ref=e46]:
+        - image "ephenmo_님의 프로필 사진"
+      - link "ephenmo_" [ref=e47]
+      - link "2026년 8월 31일" [ref=e48]: "4주"
+      - text: "🔥🔥🔥"
+      - button "좋아요 1개" [ref=e49]
+      - button "답글 달기" [ref=e50]
+      - button [ref=e52]:
+        - img "좋아요"
+      - link "liv.suman님의 프로필 사진" [ref=e53]:
+        - image "liv.suman님의 프로필 사진"
+      - link [ref=e54]:
+        - text: "liv.suman"
+        - img "인증됨"
+      - link "2026년 8월 30일" [ref=e55]: "4주"
+      - text: "🔥🔥"
+      - button "좋아요 1개" [ref=e56]
+      - button "답글 달기" [ref=e57]
+      - button [ref=e59]:
+        - img "좋아요"
+      - link "_agustinafiona님의 프로필 사진" [ref=e60]:
+        - image "_agustinafiona님의 프로필 사진"
+      - link [ref=e61]:
+        - text: "_agustinafiona"
+        - img "인증됨"
+      - link "2026년 8월 30일" [ref=e62]: "4주"
+      - text: "Epic ❤️‍🔥❤️‍🔥"
+      - button "좋아요 1개" [ref=e63]
+      - button "답글 달기" [ref=e64]
+      - button [ref=e66]:
+        - img "좋아요"
+      - link "jenyayurin님의 프로필 사진" [ref=e67]:
+        - image "jenyayurin님의 프로필 사진"
+      - link "jenyayurin" [ref=e68]
+      - link "2026년 9월 1일" [ref=e69]: "4주"
+      - text: "👏👏👏"
+      - button "좋아요 1개" [ref=e70]
+      - button "답글 달기" [ref=e71]
+      - button [ref=e73]:
+        - img "좋아요"
+      - link "alex.weslyyyy님의 프로필 사진" [ref=e74]:
+        - image "alex.weslyyyy님의 프로필 사진"
+      - link "alex.weslyyyy" [ref=e75]
+      - link "2026년 8월 31일" [ref=e76]: "4주"
+      - text: "legendary 🔥🔥🔥🔥"
+      - button "좋아요 1개" [ref=e77]
+      - button "답글 달기" [ref=e78]
+      - button "번역 보기" [ref=e79]
+      - button [ref=e81]:
+        - img "좋아요"
+      - link "evakonings님의 프로필 사진" [ref=e82]:
+        - image "evakonings님의 프로필 사진"
+      - link [ref=e83]:
+        - text: "evakonings"
+        - img "인증됨"
+      - link "2026년 8월 30일" [ref=e84]: "4주"
+      - text: "Wieeehh🔥"
+      - button "좋아요 1개" [ref=e85]
+      - button "답글 달기" [ref=e86]
+      - button [ref=e88]:
+        - img "좋아요"
+      - link "becwilcock님의 프로필 사진" [ref=e89]:
+        - image "becwilcock님의 프로필 사진"
+      - link [ref=e90]:
+        - text: "becwilcock"
+        - img "인증됨"
+      - link "2026년 8월 30일" [ref=e91]: "4주"
+      - text: "😍😍😍"
+      - button "좋아요 4개" [ref=e92]
+      - button "답글 달기" [ref=e93]
+      - button [ref=e95]:
+        - img "좋아요"
+      - link "zoeklein님의 프로필 사진" [ref=e96]:
+        - image "zoeklein님의 프로필 사진"
+      - link "zoeklein" [ref=e97]
+      - link "2026년 8월 30일" [ref=e98]: "4주"
+      - text: "Huge 🙌"
+      - button "좋아요 2개" [ref=e99]
+      - button "답글 달기" [ref=e100]
+      - button "번역 보기" [ref=e101]
+      - button [ref=e103]:
+        - img "좋아요"
+      - link "achraf_runs님의 프로필 사진" [ref=e104]:
+        - image "achraf_runs님의 프로필 사진"
+      - link "achraf_runs" [ref=e105]
+      - link "2026년 8월 30일" [ref=e106]: "4주"
+      - text: "👏👏"
+      - button "좋아요 1개" [ref=e107]
+      - button "답글 달기" [ref=e108]
+      - button [ref=e110]:
+        - img "좋아요"
+      - link "roselop_z님의 프로필 사진" [ref=e111]:
+        - image "roselop_z님의 프로필 사진"
+      - link "roselop_z" [ref=e112]
+      - link "2026년 8월 30일" [ref=e113]: "4주"
+      - text: "AYYYEE🔥"
+      - button "좋아요 1개" [ref=e114]
+      - button "답글 달기" [ref=e115]
+      - button [ref=e117]:
+        - img "좋아요"
+      - link "thatrunningscot님의 프로필 사진" [ref=e118]:
+        - image "thatrunningscot님의 프로필 사진"
+      - link "thatrunningscot" [ref=e119]
+      - link "2026년 8월 30일" [ref=e120]: "4주"
+      - text: "Congrats 🔥"
+      - button "좋아요 2개" [ref=e121]
+      - button "답글 달기" [ref=e122]
+      - button "번역 보기" [ref=e123]
+      - button [ref=e125]:
+        - img "좋아요"
+      - link "gracepane님의 프로필 사진" [ref=e126]:
+        - image "gracepane님의 프로필 사진"
+      - link "gracepane" [ref=e127]
+      - link "2026년 8월 30일" [ref=e128]: "4주"
+      - text: "welcome marathon season ✔️"
+      - button "좋아요 4개" [ref=e129]
+      - button "답글 달기" [ref=e130]
+      - button "번역 보기" [ref=e131]
+      - button [ref=e133]:
+        - img "좋아요"
+      - progressbar:
+        - img "읽어들이는 중..."
+    - region:
+      - button [ref=e135]:
+        - img "좋아요"
+      - button "1.5만" [ref=e136]
+      - button [ref=e137]:
+        - img "댓글 달기"
+      - button "78" [ref=e138]
+      - button "리포스트" [ref=e139]:
+        - img "리포스트"
+      - button "160" [ref=e140]
+      - button "공유하기" [ref=e141]:
+        - img "공유하기"
+      - button [ref=e142]:
+        - button [ref=e143]:
+          - img "저장"
+    - link "8월 30일" [ref=e144]
+    - region:
+      - link [ref=e145]
+      - form:
+        - button [ref=e146]:
+          - img "이모티콘"
+        - textbox "댓글 달기..." [ref=e147] [placeholder="댓글 달기..."]
+    - link "nikerunning" [ref=e148]
+    - text: "님의 게시물 더 보기"
+    - link [ref=e149]:
+      - image "What makes running After Dark Tour Sydney so electric? Let us count the ways... Mexico City, we’re e"
+      - img "슬라이드"
+    - link [ref=e150]:
+      - image "The starting line brought us together. The finish line at Sydney After Dark Tour showed us what we’r"
+      - img "클립"
+    - link [ref=e151]:
+      - image "See you tonight under the stars at Tumbalong Park, Sydney."
+      - img "슬라이드"
+    - link [ref=e152]:
+      - image "Speed isn’t just for raceday. It’s for Tuesday — or Wednesday, or Thursday — too. Introducing Pegasu"
+      - img "클립"
+    - link [ref=e153]:
+      - image "More athletes. More moments. More coverage. This is @swoosh.racing. Stay tapped in."
+      - img "클립"
+    - link [ref=e154]:
+      - image "Push your limits in a head-to-toe collection curated for speed and mid-race euphoria. The After Dark"
+      - img "슬라이드"
+  - contentinfo:
+    - link "Meta" [ref=e155]
+    - link "소개" [ref=e156]
+    - link "블로그" [ref=e157]
+    - link "채용 정보" [ref=e158]
+    - link "도움말" [ref=e159]
+    - link "API" [ref=e160]
+    - link "개인정보처리방침" [ref=e161]
+    - link "약관" [ref=e162]
+    - link "위치" [ref=e163]
+    - link "인기" [ref=e164]
+    - link "Instagram Lite" [ref=e165]
+    - link "Meta AI" [ref=e166]
+    - link "Muse" [ref=e167]
+    - link "Threads" [ref=e168]
+    - link "연락처 업로드 & 비사용자" [ref=e169]
+    - link "Meta Verified" [ref=e170]
+    - generic [ref=e171]:
+      - text: "한국어"
+      - img "아래쪽 V자형 아이콘"
+    - text: "© 2026 Instagram from Meta"
+- button [ref=e172]:
+  - tooltip: "3"
+- button "메시지" [ref=e173]:
+  - img "메시지"
+  - text: "메시지"
+  - button "사용자 아바타 피그마튜터 하이서님" [ref=e174]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 비비✨님" [ref=e175]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 𝒆𝒆𝒉𝒆𝒆𝒓𝒆𝒆 ║𝖼𝗁𝗋𝗂𝗌𝗍𝗂𝖺𝗇 • 𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝗋님" [ref=e176]:
+    - image "사용자 아바타"

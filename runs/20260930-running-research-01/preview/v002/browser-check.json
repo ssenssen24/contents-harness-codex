@@ -1,0 +1,63 @@
+{
+  "fonts_loaded": true,
+  "images_loaded": true,
+  "overflow_card_ids": [],
+  "cards": [
+    {
+      "id": "c01",
+      "width": 1080,
+      "height": 1350,
+      "copy": [
+        "함께 달려도,\n내 페이스는 그대로"
+      ]
+    },
+    {
+      "id": "c02",
+      "width": 1080,
+      "height": 1350,
+      "copy": [
+        "따라가야 할까,\n걱정되는 날",
+        "누군가와 달리고 싶어도\n속도가 신경 쓰일 수 있어요."
+      ]
+    },
+    {
+      "id": "c03",
+      "width": 1080,
+      "height": 1350,
+      "copy": [
+        "나와 맞는 페이스로",
+        "비슷한 속도로 달리는 사람과\n나란히 달리는 시간."
+      ]
+    },
+    {
+      "id": "c04",
+      "width": 1080,
+      "height": 1350,
+      "copy": [
+        "가까운 곳에서,\n맞는 모임을",
+        "런메이트에서 지역과 페이스로\n모임을 직접 검색할 수 있어요."
+      ]
+    },
+    {
+      "id": "c05",
+      "width": 1080,
+      "height": 1350,
+      "copy": [
+        "내 페이스로,\n함께 달리는 시작",
+        "프로필 링크에서 내 주변 러닝 모임을 찾아요."
+      ]
+    }
+  ],
+  "checked_at": "2026-09-30T00:45:23.612Z",
+  "tool": "Aside repl",
+  "html_sha256": "055c2fef73631f8da7385e72bf7b7fb614908350039551a8f56ca00fe3daf369",
+  "preview_digest": "e009fedde063c8f8e5c4a19dec74a96f6ade726482b9f42a8f8ec4a1400ca269",
+  "screenshots": [
+    "preview/v002/screenshots/overview.png",
+    "preview/v002/screenshots/c01.png",
+    "preview/v002/screenshots/c02.png",
+    "preview/v002/screenshots/c03.png",
+    "preview/v002/screenshots/c04.png",
+    "preview/v002/screenshots/c05.png"
+  ]
+}

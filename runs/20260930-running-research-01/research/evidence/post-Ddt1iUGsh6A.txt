@@ -1,0 +1,277 @@
+- title: "Instagram" [url=https://www.instagram.com/adidasrunning/reel/Ddt1iUGsh6A/]
+- link [ref=e1]:
+  - img "Instagram"
+- link [ref=e2]:
+  - img "홈"
+- link [ref=e3]:
+  - img "릴스"
+- link [ref=e4]:
+  - img "메시지"
+- link [ref=e5]:
+  - img "검색"
+- link [ref=e6]:
+  - img "알림"
+- link [ref=e7]:
+  - img "새로운 게시물"
+- link [ref=e8]:
+  - img "프로페셔널 대시보드"
+- link [ref=e9]:
+  - link "huddlingclub님의 프로필 사진" [ref=e10]:
+    - image "huddlingclub님의 프로필 사진"
+- link [ref=e11]:
+  - img "설정"
+- link [ref=e12]:
+  - img "Meta의 다른 앱"
+- region:
+  - main:
+    - group "Video player":
+      - slider "볼륨 조정" [ref=e14]:
+        - button "오디오 소리 꺼짐" [ref=e15]:
+          - img "오디오 소리 꺼짐"
+      - button [ref=e17]:
+        - img "태그"
+    - link "tigist__assefa님의 프로필 사진" [ref=e18]:
+      - image "tigist__assefa님의 프로필 사진"
+    - link "adidasrunning님의 프로필 사진" [ref=e19]:
+      - image "adidasrunning님의 프로필 사진"
+    - link "adidasrunning" [ref=e20]
+    - img "인증됨"
+    - text: "및"
+    - link "외 2명" [ref=e21]
+    - link "오리지널 오디오" [ref=e22]
+    - button [ref=e23]:
+      - img "옵션 더 보기"
+    - generic [ref=e24] [scrollable]:
+      - link "adidasrunning님의 프로필 사진" [ref=e25]:
+        - image "adidasrunning님의 프로필 사진"
+      - link [ref=e26]:
+        - text: "adidasrunning"
+        - img "인증됨"
+      - text: "4일 The world sees what she’s done."
+      - link "@tigist__assefa" [ref=e27]
+      - text: "sees what’s still hers to claim.​​"
+      - link "@berlinmarathon" [ref=e28]
+      - text: "loading ⏳​​"
+      - link "#YouGotThis" [ref=e29]
+      - text: "​"
+      - button "번역 보기" [ref=e30]
+      - link "running_resilience님의 프로필 사진" [ref=e31]:
+        - image "running_resilience님의 프로필 사진"
+      - link "running_resilience" [ref=e32]
+      - link "2026년 9월 26일" [ref=e33]: "3일"
+      - text: "WR incoming..."
+      - button "좋아요 1개" [ref=e34]
+      - button "답글 달기" [ref=e35]
+      - button "번역 보기" [ref=e36]
+      - button [ref=e38]:
+        - img "좋아요"
+      - button "답글 2개 모두 보기" [ref=e39]
+      - link "kennethpiercejr님의 프로필 사진" [ref=e40]:
+        - image "kennethpiercejr님의 프로필 사진"
+      - link "kennethpiercejr" [ref=e41]
+      - link "2026년 9월 26일" [ref=e42]: "4일"
+      - text: "shhhhh my favorite show is on 🍿"
+      - button "좋아요 9개" [ref=e43]
+      - button "답글 달기" [ref=e44]
+      - button "번역 보기" [ref=e45]
+      - button [ref=e47]:
+        - img "좋아요"
+      - link "mandymacht님의 프로필 사진" [ref=e48]:
+        - image "mandymacht님의 프로필 사진"
+      - link "mandymacht" [ref=e49]
+      - link "2026년 9월 27일" [ref=e50]: "2일"
+      - text: "The Best 🏃‍♀️🤝"
+      - button "답글 달기" [ref=e51]
+      - button "번역 보기" [ref=e52]
+      - button [ref=e54]:
+        - img "좋아요"
+      - link "cococuenco님의 프로필 사진" [ref=e55]:
+        - image "cococuenco님의 프로필 사진"
+      - link [ref=e56]:
+        - text: "cococuenco"
+        - img "인증됨"
+      - link "2026년 9월 26일" [ref=e57]: "4일"
+      - text: "Need to get my hands on these 🔥"
+      - button "좋아요 3개" [ref=e58]
+      - button "답글 달기" [ref=e59]
+      - button "번역 보기" [ref=e60]
+      - button [ref=e62]:
+        - img "좋아요"
+      - link "yanvictor_oficial님의 프로필 사진" [ref=e63]:
+        - image "yanvictor_oficial님의 프로필 사진"
+      - link [ref=e64]:
+        - text: "yanvictor_oficial"
+        - img "인증됨"
+      - link "2026년 9월 26일" [ref=e65]: "4일"
+      - text: "Coming soon... 🔥"
+      - button "좋아요 2개" [ref=e66]
+      - button "답글 달기" [ref=e67]
+      - button "번역 보기" [ref=e68]
+      - button [ref=e70]:
+        - img "좋아요"
+      - link "helara_tesfaye님의 프로필 사진" [ref=e71]:
+        - image "helara_tesfaye님의 프로필 사진"
+      - link [ref=e72]:
+        - text: "helara_tesfaye"
+        - img "인증됨"
+      - link "2026년 9월 27일" [ref=e73]: "3일"
+      - text: "🔥🔥🔥"
+      - button "좋아요 1개" [ref=e74]
+      - button "답글 달기" [ref=e75]
+      - button [ref=e77]:
+        - img "좋아요"
+      - link "rundemri님의 프로필 사진" [ref=e78]:
+        - image "rundemri님의 프로필 사진"
+      - link [ref=e79]:
+        - text: "rundemri"
+        - img "인증됨"
+      - link "2026년 9월 27일" [ref=e80]: "3일"
+      - text: "🔥🔥🔥"
+      - button "좋아요 1개" [ref=e81]
+      - button "답글 달기" [ref=e82]
+      - button [ref=e84]:
+        - img "좋아요"
+      - link "aleksandramariarus님의 프로필 사진" [ref=e85]:
+        - image "aleksandramariarus님의 프로필 사진"
+      - link [ref=e86]:
+        - text: "aleksandramariarus"
+        - img "인증됨"
+      - link "2026년 9월 26일" [ref=e87]: "4일"
+      - text: "❤️❤️❤️"
+      - button "좋아요 1개" [ref=e88]
+      - button "답글 달기" [ref=e89]
+      - button [ref=e91]:
+        - img "좋아요"
+      - link "marivankatooni님의 프로필 사진" [ref=e92]:
+        - image "marivankatooni님의 프로필 사진"
+      - link "marivankatooni" [ref=e93]
+      - link "2026년 9월 26일" [ref=e94]: "4일"
+      - text: "😍😍😍"
+      - button "답글 달기" [ref=e95]
+      - button [ref=e97]:
+        - img "좋아요"
+      - link "tonys_running님의 프로필 사진" [ref=e98]:
+        - image "tonys_running님의 프로필 사진"
+      - link "tonys_running" [ref=e99]
+      - link "2026년 9월 26일" [ref=e100]: "4일"
+      - text: "👏🔥🔥🔥"
+      - button "좋아요 1개" [ref=e101]
+      - button "답글 달기" [ref=e102]
+      - button [ref=e104]:
+        - img "좋아요"
+      - link "kuku_fearlessflame님의 프로필 사진" [ref=e105]:
+        - image "kuku_fearlessflame님의 프로필 사진"
+      - link "kuku_fearlessflame" [ref=e106]
+      - link "2026년 9월 28일" [ref=e107]: "2일"
+      - text: "🔥🔥👏"
+      - button "답글 달기" [ref=e108]
+      - button [ref=e110]:
+        - img "좋아요"
+      - link "orangevisuals.hq님의 프로필 사진" [ref=e111]:
+        - image "orangevisuals.hq님의 프로필 사진"
+      - link "orangevisuals.hq" [ref=e112]
+      - link "2026년 9월 28일" [ref=e113]: "1일"
+      - text: "Yes"
+      - button "답글 달기" [ref=e114]
+      - button [ref=e116]:
+        - img "좋아요"
+      - link "daytonick님의 프로필 사진" [ref=e117]:
+        - image "daytonick님의 프로필 사진"
+      - link "daytonick" [ref=e118]
+      - link "2026년 9월 26일" [ref=e119]: "3일"
+      - text: "🙌🙌🙌😍"
+      - button "답글 달기" [ref=e120]
+      - button [ref=e122]:
+        - img "좋아요"
+      - link "derejegebreselassie3000님의 프로필 사진" [ref=e123]:
+        - image "derejegebreselassie3000님의 프로필 사진"
+      - link "derejegebreselassie3000" [ref=e124]
+      - link "2026년 9월 27일" [ref=e125]: "3일"
+      - text: "❤️❤️❤️"
+      - button "답글 달기" [ref=e126]
+      - button [ref=e128]:
+        - img "좋아요"
+      - link "samirajafar909님의 프로필 사진" [ref=e129]:
+        - image "samirajafar909님의 프로필 사진"
+      - link "samirajafar909" [ref=e130]
+      - link "2026년 9월 29일" [ref=e131]: "1일"
+      - text: "🔥❤️❤️👏"
+      - button "답글 달기" [ref=e132]
+      - button [ref=e134]:
+        - img "좋아요"
+      - progressbar:
+        - img "읽어들이는 중..."
+    - region:
+      - button [ref=e136]:
+        - img "좋아요"
+      - button "4.4천" [ref=e137]
+      - button [ref=e138]:
+        - img "댓글 달기"
+      - button "35" [ref=e139]
+      - button "리포스트" [ref=e140]:
+        - img "리포스트"
+      - button "117" [ref=e141]
+      - button "공유하기" [ref=e142]:
+        - img "공유하기"
+      - button [ref=e143]:
+        - button [ref=e144]:
+          - img "저장"
+    - link "4일 전" [ref=e145]
+    - region:
+      - link [ref=e146]
+      - form:
+        - button [ref=e147]:
+          - img "이모티콘"
+        - textbox "댓글 달기..." [ref=e148] [placeholder="댓글 달기..."]
+    - link "adidasrunning" [ref=e149]
+    - text: "님의 게시물 더 보기"
+    - link [ref=e150]:
+      - image "​ The Adizero Adios Pro 5 is here 😮‍💨​ ​ Introducing our new race-day super shoe built with the sa"
+      - img "슬라이드"
+    - link [ref=e151]:
+      - image "Fast approaching, quicker than ever... ​ ​ adidas Agravic Speed Ultra Evo is built to run trails fas"
+      - img "클립"
+    - link [ref=e152]:
+      - image "More than a super trainer, an award winning super trainer 🏆 adidas Hyperboost Edge is named the Run"
+      - img "슬라이드"
+    - link [ref=e153]:
+      - image "Berlin Marathon podium sweep for Adizero Adios Pro Evo 3. Innovation where it matters most 👉 The wo"
+      - img "슬라이드"
+    - link [ref=e154]:
+      - image "Bravery makes history. @tigist__assefa redefines fast at @berlinmarathon – again. #YouGotThis"
+      - img "슬라이드"
+    - link [ref=e155]:
+      - image "Clean sweep at @berlinmarathon 💪 🥇 Tigst Assefa CR 🥈 Bedatu Hirpa 🥉 Dera Dida 🥇 Guye Adola 🥈 G"
+      - img "슬라이드"
+  - contentinfo:
+    - link "Meta" [ref=e156]
+    - link "소개" [ref=e157]
+    - link "블로그" [ref=e158]
+    - link "채용 정보" [ref=e159]
+    - link "도움말" [ref=e160]
+    - link "API" [ref=e161]
+    - link "개인정보처리방침" [ref=e162]
+    - link "약관" [ref=e163]
+    - link "위치" [ref=e164]
+    - link "인기" [ref=e165]
+    - link "Instagram Lite" [ref=e166]
+    - link "Meta AI" [ref=e167]
+    - link "Muse" [ref=e168]
+    - link "Threads" [ref=e169]
+    - link "연락처 업로드 & 비사용자" [ref=e170]
+    - link "Meta Verified" [ref=e171]
+    - generic [ref=e172]:
+      - text: "한국어"
+      - img "아래쪽 V자형 아이콘"
+    - text: "© 2026 Instagram from Meta"
+- button [ref=e173]:
+  - tooltip: "3"
+- button "메시지" [ref=e174]:
+  - img "메시지"
+  - text: "메시지"
+  - button "사용자 아바타 피그마튜터 하이서님" [ref=e175]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 비비✨님" [ref=e176]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 𝒆𝒆𝒉𝒆𝒆𝒓𝒆𝒆 ║𝖼𝗁𝗋𝗂𝗌𝗍𝗂𝖺𝗇 • 𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝗋님" [ref=e177]:
+    - image "사용자 아바타"

@@ -1,0 +1,150 @@
+- title: "Instagram" [url=https://www.instagram.com/adidasrunning/]
+- form
+- link [ref=e1]:
+  - img "Instagram"
+- link [ref=e2]:
+  - img "홈"
+- link [ref=e3]:
+  - img "릴스"
+- link [ref=e4]:
+  - img "메시지"
+- link [ref=e5]:
+  - img "검색"
+- link [ref=e6]:
+  - img "알림"
+- link [ref=e7]:
+  - img "새로운 게시물"
+- link [ref=e8]:
+  - img "프로페셔널 대시보드"
+- link [ref=e9]:
+  - link "huddlingclub님의 프로필 사진" [ref=e10]:
+    - image "huddlingclub님의 프로필 사진"
+- link [ref=e11]:
+  - img "설정"
+- link [ref=e12]:
+  - img "Meta의 다른 앱"
+- region:
+  - main:
+    - banner:
+      - region
+      - region:
+        - button [ref=e15]:
+          - img "옵션"
+        - text: "adidas Running 게시물  1241"
+        - link "팔로워 339만" [ref=e16]
+        - link "팔로우 683" [ref=e17]
+      - region:
+        - button "팔로우" [ref=e20]
+        - button [ref=e22]:
+          - img "비슷한 계정"
+      - region
+      - region:
+        - menu
+      - region
+    - tablist:
+      - link [ref=e32]:
+        - img "게시물"
+      - link [ref=e33]:
+        - img "릴스"
+      - link [ref=e34]:
+        - img "리포스트"
+      - link [ref=e35]:
+        - img "태그됨"
+    - tabpanel
+    - link [ref=e36]:
+      - img "고정 게시물"
+    - link [ref=e37]:
+      - img "고정 게시물"
+    - link [ref=e38]:
+      - img "고정 게시물"
+    - link [ref=e39]:
+      - img "슬라이드"
+    - link [ref=e40]:
+      - img "슬라이드"
+    - link [ref=e41]:
+      - img "슬라이드"
+    - link [ref=e42]:
+      - image "Back where it all began 👑 Three-time @berlinmarathon champion. New course record. The third-fastest"
+      - img "슬라이드"
+    - link [ref=e43]:
+      - image "Guye Adola reigns again with a new PB at @berlinmarathon – five years after his first win on the str"
+      - img "슬라이드"
+    - link [ref=e44]:
+      - image "Everyone checked in to the Home of Fast. Whether you are a world record holder or share your running"
+      - img "슬라이드"
+    - link [ref=e45]:
+      - image "Running is actually all about the race-day fit 😮‍💨 #ADIZERO"
+      - img "클립"
+    - link [ref=e46]:
+      - image "Speed never slows down, it keeps evolving. This is the Home of Fast, where history-making technology"
+      - img "슬라이드"
+    - link [ref=e47]:
+      - image "📍 Home of Fast, Berlin. House to the adidas ADIZERO Adios Pro 5, a new evolution in speed. Bringing"
+      - img "슬라이드"
+    - link [ref=e70]:
+      - image "The world sees what she’s done. @tigist__assefa sees what’s still hers to claim.​ ​ @berlinmarathon "
+      - img "클립"
+    - link [ref=e71]:
+      - image "Built for this. Berlin awaits. @tigist__assefa #YouGotThis"
+      - img "슬라이드"
+    - link [ref=e72]:
+      - img "슬라이드"
+      - list:
+        - listitem: "1.6만"
+        - listitem: "153"
+    - link [ref=e73]:
+      - image "Every detail designed with your fastest in mind. ​ ​ #ADIZERO Adios Pro 5 ​"
+      - img "클립"
+    - link [ref=e74]:
+      - img "슬라이드"
+    - link [ref=e75]:
+      - image "We’ve been waiting to show you this one 👀​ ​ Every component reimagined. The Adizero Adios Pro 5 is"
+      - img "클립"
+    - link [ref=e76]:
+      - image "You don’t follow history – you build on it ⚡️​ ​ The Adizero Adios Pro 5 takes forward the record-br"
+      - img "클립"
+    - link [ref=e77]:
+      - image "Your new race day super shoe is here 💨​ ​ Featuring record-breaking innovation from our sub-two mar"
+      - img "슬라이드"
+    - link [ref=e78]:
+      - image "Once you make history, the only way forward is to reinvent it.​ ​ Designed to adapt to any course & "
+    - link [ref=e79]:
+      - img "슬라이드"
+    - link [ref=e80]:
+      - image "A STORY BOOK FINISH. ANOTHER RECORD-BOOK TIME. Already the 10k world record holder, @agnesjngetich a"
+      - img "슬라이드"
+    - link [ref=e81]:
+      - image "​ A collection built around every step of the running journey.​ No one runs alone. No one runs the s"
+      - img "슬라이드"
+  - contentinfo:
+    - link "Meta" [ref=e48]
+    - link "소개" [ref=e49]
+    - link "블로그" [ref=e50]
+    - link "채용 정보" [ref=e51]
+    - link "도움말" [ref=e52]
+    - link "API" [ref=e53]
+    - link "개인정보처리방침" [ref=e54]
+    - link "약관" [ref=e55]
+    - link "위치" [ref=e56]
+    - link "인기" [ref=e57]
+    - link "Instagram Lite" [ref=e58]
+    - link "Meta AI" [ref=e59]
+    - link "Muse" [ref=e60]
+    - link "Threads" [ref=e61]
+    - link "연락처 업로드 & 비사용자" [ref=e62]
+    - link "Meta Verified" [ref=e63]
+    - generic [ref=e64]:
+      - text: "한국어"
+      - img "아래쪽 V자형 아이콘"
+    - text: "© 2026 Instagram from Meta"
+- button [ref=e65]:
+  - tooltip: "3"
+- button "메시지" [ref=e66]:
+  - img "메시지"
+  - text: "메시지"
+  - button "사용자 아바타 피그마튜터 하이서님" [ref=e67]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 비비✨님" [ref=e68]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 𝒆𝒆𝒉𝒆𝒆𝒓𝒆𝒆 ║𝖼𝗁𝗋𝗂𝗌𝗍𝗂𝖺𝗇 • 𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝗋님" [ref=e69]:
+    - image "사용자 아바타"

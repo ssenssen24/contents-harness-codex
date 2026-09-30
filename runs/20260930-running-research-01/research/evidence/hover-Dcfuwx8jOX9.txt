@@ -1,0 +1,188 @@
+- title: "Instagram" [url=https://www.instagram.com/adidasrunning/]
+- form
+- link [ref=e1]:
+  - img "Instagram"
+- link [ref=e2]:
+  - img "홈"
+- link [ref=e3]:
+  - img "릴스"
+- link [ref=e4]:
+  - img "메시지"
+- link [ref=e5]:
+  - img "검색"
+- link [ref=e6]:
+  - img "알림"
+- link [ref=e7]:
+  - img "새로운 게시물"
+- link [ref=e8]:
+  - img "프로페셔널 대시보드"
+- link [ref=e9]:
+  - link "huddlingclub님의 프로필 사진" [ref=e10]:
+    - image "huddlingclub님의 프로필 사진"
+- link [ref=e11]:
+  - img "설정"
+- link [ref=e12]:
+  - img "Meta의 다른 앱"
+- region:
+  - main:
+    - banner:
+      - region
+      - region:
+        - button [ref=e15]:
+          - img "옵션"
+        - text: "adidas Running 게시물  1241"
+        - link "팔로워 339만" [ref=e16]
+        - link "팔로우 683" [ref=e17]
+      - region:
+        - button "팔로우" [ref=e20]
+        - button [ref=e22]:
+          - img "비슷한 계정"
+      - region
+      - region:
+        - menu
+      - region
+    - tablist:
+      - link [ref=e32]:
+        - img "게시물"
+      - link [ref=e33]:
+        - img "릴스"
+      - link [ref=e34]:
+        - img "리포스트"
+      - link [ref=e35]:
+        - img "태그됨"
+    - tabpanel
+    - link [ref=e42]:
+      - img "슬라이드"
+    - link [ref=e43]:
+      - img "슬라이드"
+    - link [ref=e44]:
+      - img "슬라이드"
+    - link [ref=e45]:
+      - img "클립"
+    - link [ref=e46]:
+      - img "슬라이드"
+    - link [ref=e47]:
+      - img "슬라이드"
+    - link [ref=e70]:
+      - img "클립"
+    - link [ref=e71]:
+      - img "슬라이드"
+    - link [ref=e72]:
+      - img "슬라이드"
+    - link [ref=e73]:
+      - img "클립"
+    - link [ref=e74]:
+      - img "슬라이드"
+    - link [ref=e75]:
+      - img "클립"
+    - link [ref=e76]:
+      - img "클립"
+    - link [ref=e77]:
+      - img "슬라이드"
+    - link [ref=e78]
+    - link [ref=e79]:
+      - img "슬라이드"
+    - link [ref=e80]:
+      - img "슬라이드"
+    - link [ref=e81]:
+      - img "슬라이드"
+    - link [ref=e82]:
+      - img "슬라이드"
+    - link [ref=e83]:
+      - img "슬라이드"
+    - link [ref=e84]:
+      - img "슬라이드"
+    - link [ref=e85]:
+      - img "슬라이드"
+    - link [ref=e86]:
+      - img "슬라이드"
+    - link [ref=e87]:
+      - img "슬라이드"
+    - link [ref=e88]:
+      - image "One teaches. One evolves. Both keep moving.​ Inspired by the unity between mentor and student, the c"
+      - img "슬라이드"
+    - link [ref=e89]:
+      - image "Made to shine 💎 Celebrating the athletes who brought their brilliance to Brussels. 💎 @marileidy_pa"
+      - img "슬라이드"
+    - link [ref=e90]:
+      - image "Can we talk about what just happened in Chamonix? #adidasRunners"
+      - img "슬라이드"
+    - link [ref=e91]:
+      - image "Running royalty reigns again 👑 World champion @peresjepchirchirngeno runs 2:18:31 in Sydney to add "
+      - img "슬라이드"
+    - link [ref=e92]:
+      - image "A FIGHT FOR THE FINISH 🇳🇴⚡ @yngsen goes where no woman has gone before, becoming the first to clai"
+      - img "슬라이드"
+    - link [ref=e93]:
+      - image "THE RECORD WAS THE ONLY HURDLE LEFT 🤯 Zurich witnessed 400m hurdles history as @alisonsantos01_ ran"
+      - img "슬라이드"
+    - link [ref=e94]:
+      - image "NEXT STOP FOR THE TEAM: UTMB ⛰️ Training miles behind them. Race miles ahead. Our athletes are ready"
+      - img "슬라이드"
+      - list:
+        - listitem: "2800"
+        - listitem: "20"
+    - link [ref=e95]:
+      - image "It started as an obsession, a dare to dream.​ The imagination to chase speed that had never been see"
+      - img "슬라이드"
+    - link [ref=e96]:
+      - image "adidas Agravic Speed Ultra Evo​ Our fastest trail-running shoe yet.​ Lighter, quicker and ready to b"
+      - img "슬라이드"
+    - link [ref=e97]:
+      - image "Welcome to the new era of fast. ⏱️56:51 Half marathon world record by @yomif_kejelcha 👟The #Adizero"
+    - link [ref=e98]:
+      - image "World record breakers & history makers. @yomif_kejelcha, @sabastiansawe and @tigist__assefa have rew"
+      - img "슬라이드"
+    - link [ref=e99]:
+      - image "RECLAIMING THE THRONE 👑 @yomif_kejelcha rises to the top again, taking back the half marathon world"
+      - img "슬라이드"
+    - link [ref=e100]:
+      - image "Speed isn’t just a movement – it’s a feeling of shared joy, new goals and positive momentum. ​ ​ The"
+      - img "슬라이드"
+    - link [ref=e101]:
+      - image "The latest adidas Running x @songforthemute features:​ ​ 〰️ The Adizero EVO SL, woven with the feeli"
+      - img "슬라이드"
+    - link [ref=e102]:
+      - image "adidas Running x @songforthemute. Style for all occasions, speed for all distances.​ ​ Every detail "
+      - img "슬라이드"
+    - link [ref=e103]:
+      - image "adidas Running x @songforthemute, part two. Where speed becomes something you feel, not chase. ​ Whe"
+      - img "슬라이드"
+    - link [ref=e104]:
+      - image "Where potential became proof 🥇🥈🥉 Here’s to our U20 world medalists: 🥇 Emmanuel Kiprono 🥇 Frankl"
+      - img "슬라이드"
+    - link [ref=e105]:
+      - image "The full spectrum of success 🥇🥈🥉​ Celebrating the athletes who made every medal count on the big "
+      - img "슬라이드"
+  - contentinfo:
+    - link "Meta" [ref=e48]
+    - link "소개" [ref=e49]
+    - link "블로그" [ref=e50]
+    - link "채용 정보" [ref=e51]
+    - link "도움말" [ref=e52]
+    - link "API" [ref=e53]
+    - link "개인정보처리방침" [ref=e54]
+    - link "약관" [ref=e55]
+    - link "위치" [ref=e56]
+    - link "인기" [ref=e57]
+    - link "Instagram Lite" [ref=e58]
+    - link "Meta AI" [ref=e59]
+    - link "Muse" [ref=e60]
+    - link "Threads" [ref=e61]
+    - link "연락처 업로드 & 비사용자" [ref=e62]
+    - link "Meta Verified" [ref=e63]
+    - generic [ref=e64]:
+      - text: "한국어"
+      - img "아래쪽 V자형 아이콘"
+    - text: "© 2026 Instagram from Meta"
+- button [ref=e65]:
+  - tooltip: "3"
+- button "메시지" [ref=e66]:
+  - img "메시지"
+  - text: "메시지"
+  - button "사용자 아바타 피그마튜터 하이서님" [ref=e67]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 비비✨님" [ref=e68]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 𝒆𝒆𝒉𝒆𝒆𝒓𝒆𝒆 ║𝖼𝗁𝗋𝗂𝗌𝗍𝗂𝖺𝗇 • 𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝗋님" [ref=e69]:
+    - image "사용자 아바타"

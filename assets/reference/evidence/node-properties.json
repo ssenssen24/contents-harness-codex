@@ -1,0 +1,729 @@
+{
+  "checkedAt": "2026-09-30",
+  "fileKey": "1D7Jqr9ku3boaa7GVbeAUm",
+  "section": "229:248",
+  "readOnly": true,
+  "nodes": [
+    {
+      "id": "229:250",
+      "name": "A1 · 브랜드 표지 · 풀 이미지",
+      "type": "FRAME",
+      "width": 1080,
+      "height": 1350,
+      "x": 0,
+      "y": 0,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.0784313753247261,
+            "g": 0.09019608050584793,
+            "b": 0.07450980693101883
+          },
+          "boundVariables": {}
+        }
+      ],
+      "opacity": 1,
+      "cornerRadius": 0
+    },
+    {
+      "id": "229:254",
+      "name": "Title",
+      "type": "TEXT",
+      "width": 936,
+      "height": 212,
+      "x": 72,
+      "y": 0,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1
+          },
+          "boundVariables": {}
+        }
+      ],
+      "opacity": 1,
+      "typography": [
+        {
+          "characters": "혼자 뛰기 심심한 날\n런메이트를 찾아요",
+          "start": 0,
+          "end": 21,
+          "fontSize": 88,
+          "fontName": {
+            "family": "Pretendard",
+            "style": "Bold"
+          },
+          "lineHeight": {
+            "unit": "PERCENT",
+            "value": 120.00000476837158
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": -2
+          }
+        }
+      ]
+    },
+    {
+      "id": "229:255",
+      "name": "Subtitle",
+      "type": "TEXT",
+      "width": 936,
+      "height": 46,
+      "x": 72,
+      "y": 240,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.7607843279838562,
+            "g": 0.7843137383460999,
+            "b": 0.7450980544090271
+          },
+          "boundVariables": {}
+        }
+      ],
+      "opacity": 1,
+      "typography": [
+        {
+          "characters": "내 페이스에 맞는 사람들과 함께.",
+          "start": 0,
+          "end": 18,
+          "fontSize": 40,
+          "fontName": {
+            "family": "Pretendard",
+            "style": "Regular"
+          },
+          "lineHeight": {
+            "unit": "PERCENT",
+            "value": 115.99999666213989
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": -2
+          }
+        }
+      ]
+    },
+    {
+      "id": "229:257",
+      "name": "logo",
+      "type": "INSTANCE",
+      "width": 184,
+      "height": 32,
+      "x": 72,
+      "y": 72,
+      "fills": [],
+      "opacity": 1,
+      "cornerRadius": 0,
+      "mainComponent": {
+        "id": "225:436",
+        "name": "logo"
+      }
+    },
+    {
+      "id": "229:258",
+      "name": "Star 3",
+      "type": "VECTOR",
+      "width": 77,
+      "height": 98,
+      "x": 63,
+      "y": 372,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.8999999761581421,
+            "g": 1,
+            "b": 0.38999998569488525
+          },
+          "boundVariables": {}
+        }
+      ],
+      "opacity": 1,
+      "cornerRadius": 0
+    },
+    {
+      "id": "229:261",
+      "name": "Location section",
+      "type": "FRAME",
+      "width": 839,
+      "height": 159,
+      "x": 0,
+      "y": 0,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.20553448796272278,
+            "g": 0.21120041608810425,
+            "b": 0.17720480263233185
+          },
+          "boundVariables": {}
+        }
+      ],
+      "opacity": 1,
+      "cornerRadius": 30
+    },
+    {
+      "id": "229:262",
+      "name": "Location label",
+      "type": "TEXT",
+      "width": 86,
+      "height": 39,
+      "x": 80,
+      "y": 60,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9019607901573181,
+            "g": 1,
+            "b": 0.3960784375667572
+          },
+          "boundVariables": {}
+        }
+      ],
+      "opacity": 1,
+      "typography": [
+        {
+          "characters": "어디서",
+          "start": 0,
+          "end": 3,
+          "fontSize": 34,
+          "fontName": {
+            "family": "Pretendard",
+            "style": "Medium"
+          },
+          "lineHeight": {
+            "unit": "PERCENT",
+            "value": 115.99999666213989
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": -4
+          }
+        }
+      ]
+    },
+    {
+      "id": "229:274",
+      "name": "Application method heading",
+      "type": "TEXT",
+      "width": 840,
+      "height": 42,
+      "x": 0,
+      "y": 0,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9019607901573181,
+            "g": 1,
+            "b": 0.3960784375667572
+          },
+          "boundVariables": {}
+        }
+      ],
+      "opacity": 1,
+      "typography": [
+        {
+          "characters": "가까운 러닝",
+          "start": 0,
+          "end": 6,
+          "fontSize": 36,
+          "fontName": {
+            "family": "Pretendard",
+            "style": "Medium"
+          },
+          "lineHeight": {
+            "unit": "PERCENT",
+            "value": 115.99999666213989
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": -2
+          }
+        }
+      ]
+    },
+    {
+      "id": "229:275",
+      "name": "Meeting location details",
+      "type": "TEXT",
+      "width": 840,
+      "height": 192,
+      "x": 0,
+      "y": 70,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1
+          },
+          "boundVariables": {}
+        }
+      ],
+      "opacity": 1,
+      "typography": [
+        {
+          "characters": "우리 동네에서\n가볍게 시작해요",
+          "start": 0,
+          "end": 16,
+          "fontSize": 80,
+          "fontName": {
+            "family": "Pretendard",
+            "style": "Bold"
+          },
+          "lineHeight": {
+            "unit": "PERCENT",
+            "value": 120.00000476837158
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": -2
+          }
+        }
+      ]
+    },
+    {
+      "id": "229:299",
+      "name": "Image Placeholder",
+      "type": "FRAME",
+      "width": 1080,
+      "height": 896,
+      "x": 0,
+      "y": 454,
+      "fills": [
+        {
+          "type": "IMAGE",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "scaleMode": "CROP",
+          "scalingFactor": 1,
+          "filters": {
+            "exposure": 0,
+            "contrast": 0,
+            "saturation": 0,
+            "temperature": 0,
+            "tint": 0,
+            "highlights": 0,
+            "shadows": 0
+          },
+          "imageTransform": [
+            [
+              1,
+              0,
+              8.881784197001252e-16
+            ],
+            [
+              0,
+              0.6639404296875,
+              0.33616355061531067
+            ]
+          ],
+          "imageHash": "4382570dc2e694f72be74eeddf9afb505baba828"
+        }
+      ],
+      "opacity": 1,
+      "cornerRadius": 0
+    },
+    {
+      "id": "229:314",
+      "name": "Main text",
+      "type": "TEXT",
+      "width": 952,
+      "height": 204,
+      "x": 64,
+      "y": 320,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9607843160629272,
+            "g": 0.9607843160629272,
+            "b": 0.9372549057006836
+          },
+          "boundVariables": {}
+        }
+      ],
+      "opacity": 1,
+      "typography": [
+        {
+          "characters": "다음 러닝은,\n함께해요.",
+          "start": 0,
+          "end": 13,
+          "fontSize": 88,
+          "fontName": {
+            "family": "Pretendard",
+            "style": "Bold"
+          },
+          "lineHeight": {
+            "unit": "PERCENT",
+            "value": 115.99999666213989
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": -2
+          }
+        }
+      ]
+    },
+    {
+      "id": "229:315",
+      "name": "Button container",
+      "type": "FRAME",
+      "width": 378,
+      "height": 85,
+      "x": 351,
+      "y": 572,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9019607901573181,
+            "g": 1,
+            "b": 0.3960784375667572
+          },
+          "boundVariables": {}
+        }
+      ],
+      "opacity": 1,
+      "cornerRadius": 32
+    },
+    {
+      "id": "229:316",
+      "name": "Button text",
+      "type": "TEXT",
+      "width": 314,
+      "height": 45,
+      "x": 32,
+      "y": 20,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.0784313753247261,
+            "g": 0.09019608050584793,
+            "b": 0.07450980693101883
+          },
+          "boundVariables": {}
+        }
+      ],
+      "opacity": 1,
+      "typography": [
+        {
+          "characters": "내 주변 러닝 모임 찾기  ↗",
+          "start": 0,
+          "end": 16,
+          "fontSize": 32,
+          "fontName": {
+            "family": "Pretendard",
+            "style": "Bold"
+          },
+          "lineHeight": {
+            "unit": "PERCENT",
+            "value": 139.9999976158142
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": -2
+          }
+        }
+      ]
+    },
+    {
+      "id": "229:318",
+      "name": "Group",
+      "type": "GROUP",
+      "width": 1340,
+      "height": 620,
+      "x": 0,
+      "y": 45,
+      "opacity": 0.6499999761581421
+    },
+    {
+      "id": "229:340",
+      "name": "제목",
+      "type": "TEXT",
+      "width": 780,
+      "height": 208,
+      "x": 0,
+      "y": 71,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9686274528503418,
+            "g": 0.9725490212440491,
+            "b": 0.9529411792755127
+          },
+          "boundVariables": {}
+        }
+      ],
+      "opacity": 1,
+      "typography": [
+        {
+          "characters": "다음 러닝은,\n함께해요.",
+          "start": 0,
+          "end": 13,
+          "fontSize": 92,
+          "fontName": {
+            "family": "Pretendard",
+            "style": "Bold"
+          },
+          "lineHeight": {
+            "unit": "PERCENT",
+            "value": 112.99999952316284
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": -4
+          }
+        }
+      ]
+    },
+    {
+      "id": "229:341",
+      "name": "설명",
+      "type": "TEXT",
+      "width": 620,
+      "height": 44,
+      "x": 0,
+      "y": 317,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.7607843279838562,
+            "g": 0.7843137383460999,
+            "b": 0.7450980544090271
+          },
+          "boundVariables": {}
+        }
+      ],
+      "opacity": 1,
+      "typography": [
+        {
+          "characters": "가까운 곳에서, 나와 비슷한 페이스로.",
+          "start": 0,
+          "end": 21,
+          "fontSize": 34,
+          "fontName": {
+            "family": "Pretendard",
+            "style": "Regular"
+          },
+          "lineHeight": {
+            "unit": "PERCENT",
+            "value": 129.99999523162842
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": -2
+          }
+        }
+      ]
+    },
+    {
+      "id": "229:362",
+      "name": "제목",
+      "type": "TEXT",
+      "width": 500,
+      "height": 246,
+      "x": 0,
+      "y": 64,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9686274528503418,
+            "g": 0.9725490212440491,
+            "b": 0.9529411792755127
+          },
+          "boundVariables": {}
+        }
+      ],
+      "opacity": 1,
+      "typography": [
+        {
+          "characters": "속도가 맞으면,\n함께 달리기\n쉬워요",
+          "start": 0,
+          "end": 19,
+          "fontSize": 72,
+          "fontName": {
+            "family": "Pretendard",
+            "style": "Bold"
+          },
+          "lineHeight": {
+            "unit": "PERCENT",
+            "value": 113.99999856948853
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": -3
+          }
+        }
+      ]
+    },
+    {
+      "id": "229:392",
+      "name": "제목",
+      "type": "TEXT",
+      "width": 840,
+      "height": 186,
+      "x": 0,
+      "y": 0,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9686274528503418,
+            "g": 0.9725490212440491,
+            "b": 0.9529411792755127
+          },
+          "boundVariables": {}
+        }
+      ],
+      "opacity": 1,
+      "typography": [
+        {
+          "characters": "우리 동네에서\n가볍게 시작해요",
+          "start": 0,
+          "end": 16,
+          "fontSize": 80,
+          "fontName": {
+            "family": "Pretendard",
+            "style": "Bold"
+          },
+          "lineHeight": {
+            "unit": "PERCENT",
+            "value": 115.99999666213989
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": -3
+          }
+        }
+      ]
+    },
+    {
+      "id": "229:401",
+      "name": "제목 패널",
+      "type": "FRAME",
+      "width": 1080,
+      "height": 590,
+      "x": 0,
+      "y": 760,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9019607901573181,
+            "g": 1,
+            "b": 0.3960784375667572
+          },
+          "boundVariables": {}
+        }
+      ],
+      "opacity": 1
+    },
+    {
+      "id": "229:403",
+      "name": "제목",
+      "type": "TEXT",
+      "width": 968,
+      "height": 178,
+      "x": 56,
+      "y": 111,
+      "fills": [
+        {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.06666667014360428,
+            "g": 0.08235294371843338,
+            "b": 0.05882352963089943
+          },
+          "boundVariables": {}
+        }
+      ],
+      "opacity": 1,
+      "typography": [
+        {
+          "characters": "혼자 뛰기 심심한 날\n런메이트를 찾아요",
+          "start": 0,
+          "end": 21,
+          "fontSize": 78,
+          "fontName": {
+            "family": "Pretendard",
+            "style": "Bold"
+          },
+          "lineHeight": {
+            "unit": "PERCENT",
+            "value": 113.99999856948853
+          },
+          "letterSpacing": {
+            "unit": "PERCENT",
+            "value": -3
+          }
+        }
+      ]
+    }
+  ]
+}

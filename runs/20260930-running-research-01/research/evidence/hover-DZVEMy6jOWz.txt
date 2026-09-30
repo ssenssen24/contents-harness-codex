@@ -1,0 +1,179 @@
+- title: "Instagram" [url=https://www.instagram.com/adidasrunning/]
+- form
+- link [ref=e1]:
+  - img "Instagram"
+- link [ref=e2]:
+  - img "홈"
+- link [ref=e3]:
+  - img "릴스"
+- link [ref=e4]:
+  - img "메시지"
+- link [ref=e5]:
+  - img "검색"
+- link [ref=e6]:
+  - img "알림"
+- link [ref=e7]:
+  - img "새로운 게시물"
+- link [ref=e8]:
+  - img "프로페셔널 대시보드"
+- link [ref=e9]:
+  - link "huddlingclub님의 프로필 사진" [ref=e10]:
+    - image "huddlingclub님의 프로필 사진"
+- link [ref=e11]:
+  - img "설정"
+- link [ref=e12]:
+  - img "Meta의 다른 앱"
+- region:
+  - main:
+    - banner:
+      - region
+      - region:
+        - button [ref=e15]:
+          - img "옵션"
+        - text: "adidas Running 게시물  1241"
+        - link "팔로워 339만" [ref=e16]
+        - link "팔로우 683" [ref=e17]
+      - region:
+        - button "팔로우" [ref=e20]
+        - button [ref=e22]:
+          - img "비슷한 계정"
+      - region
+      - region:
+        - menu
+      - region
+    - tablist:
+      - link [ref=e32]:
+        - img "게시물"
+      - link [ref=e33]:
+        - img "릴스"
+      - link [ref=e34]:
+        - img "리포스트"
+      - link [ref=e35]:
+        - img "태그됨"
+    - tabpanel
+    - link [ref=e112]:
+      - img "슬라이드"
+    - link [ref=e113]:
+      - img "슬라이드"
+    - link [ref=e114]:
+      - img "슬라이드"
+    - link [ref=e115]:
+      - img "슬라이드"
+    - link [ref=e116]:
+      - img "슬라이드"
+    - link [ref=e117]:
+      - img "슬라이드"
+    - link [ref=e118]:
+      - img "슬라이드"
+    - link [ref=e119]
+    - link [ref=e120]:
+      - img "슬라이드"
+    - link [ref=e121]:
+      - img "슬라이드"
+    - link [ref=e122]:
+      - img "슬라이드"
+    - link [ref=e123]:
+      - img "클립"
+    - link [ref=e124]:
+      - img "슬라이드"
+    - link [ref=e125]:
+      - img "슬라이드"
+    - link [ref=e126]:
+      - img "슬라이드"
+    - link [ref=e127]:
+      - img "슬라이드"
+    - link [ref=e128]:
+      - img "슬라이드"
+    - link [ref=e129]:
+      - img "슬라이드"
+    - link [ref=e130]:
+      - img "슬라이드"
+    - link [ref=e131]:
+      - img "슬라이드"
+    - link [ref=e132]:
+      - img "슬라이드"
+    - link [ref=e133]:
+      - img "슬라이드"
+    - link [ref=e134]:
+      - img "클립"
+    - link [ref=e135]:
+      - img "슬라이드"
+    - link [ref=e136]:
+      - image "NYC EVO SL EXO TRILOGY — ACT I 🗽🎞️🗽🎞️🗽🎞️🗽🎞️🗽🎞️🗽🎞️🗽🎞️ Set against the pace of New York "
+      - img "클립"
+    - link [ref=e137]:
+      - image "Rituals are essential to the running experience. This is how the EVO SL crew connects to their feeli"
+      - img "슬라이드"
+    - link [ref=e138]:
+      - image "Ten hurdles. 12.75 seconds. One World Record. @jthurdles put the Adizero Prime SP3 Strung into the h"
+    - link [ref=e139]:
+      - image "WORLD RECORD 🤯 @jthurdles storms into the history books with 12.75 in the 110m hurdles. The fastest"
+      - img "슬라이드"
+    - link [ref=e140]:
+      - image "For decades, Africa’s runners have graced the streets of Tokyo, Boston, London, Sydney, Berlin, Chic"
+      - img "클립"
+    - link [ref=e141]:
+      - image "Bold style. Precision support. Dynamic #ADIZERO Evo SL EXO"
+      - img "슬라이드"
+    - link [ref=e142]:
+      - img "슬라이드"
+      - list:
+        - listitem: "2.4만"
+        - listitem: "63"
+    - link [ref=e143]:
+      - image "HYPERBOOST EDGE unlocked in London @barrycantswim 🔓❤️"
+      - img "슬라이드"
+    - link [ref=e144]:
+      - image "Feel Fast. Look Fast. 🌪️​ #ADIZERO Evo SL"
+      - img "슬라이드"
+    - link [ref=e145]:
+      - img "슬라이드"
+    - link [ref=e146]:
+      - image "Fast. It’s a shared obsession. 🔋 #ADIZERO Evo SL"
+      - img "클립"
+    - link [ref=e147]:
+      - img "슬라이드"
+    - link [ref=e148]:
+      - image "Fast feels different in the #ADIZERO EVO SL.. 🔋"
+      - img "슬라이드"
+    - link [ref=e149]:
+      - image "Choose your runner 🕹️ New season #ADIZERO Evo SL Exo now available on adidas.com"
+      - img "클립"
+    - link [ref=e150]:
+      - img "슬라이드"
+    - link [ref=e151]:
+      - img "슬라이드"
+    - link [ref=e152]:
+      - img "슬라이드"
+    - link [ref=e153]:
+      - img "슬라이드"
+  - contentinfo:
+    - link "Meta" [ref=e48]
+    - link "소개" [ref=e49]
+    - link "블로그" [ref=e50]
+    - link "채용 정보" [ref=e51]
+    - link "도움말" [ref=e52]
+    - link "API" [ref=e53]
+    - link "개인정보처리방침" [ref=e54]
+    - link "약관" [ref=e55]
+    - link "위치" [ref=e56]
+    - link "인기" [ref=e57]
+    - link "Instagram Lite" [ref=e58]
+    - link "Meta AI" [ref=e59]
+    - link "Muse" [ref=e60]
+    - link "Threads" [ref=e61]
+    - link "연락처 업로드 & 비사용자" [ref=e62]
+    - link "Meta Verified" [ref=e63]
+    - generic [ref=e64]:
+      - text: "한국어"
+      - img "아래쪽 V자형 아이콘"
+    - text: "© 2026 Instagram from Meta"
+- button "메시지" [ref=e66]:
+  - img "메시지"
+  - text: "메시지"
+  - button "사용자 아바타 피그마튜터 하이서님" [ref=e67]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 비비✨님" [ref=e68]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 𝒆𝒆𝒉𝒆𝒆𝒓𝒆𝒆 ║𝖼𝗁𝗋𝗂𝗌𝗍𝗂𝖺𝗇 • 𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝗋님" [ref=e69]:
+    - image "사용자 아바타"

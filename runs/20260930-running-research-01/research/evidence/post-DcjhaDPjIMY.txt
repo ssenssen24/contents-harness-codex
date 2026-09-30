@@ -1,0 +1,306 @@
+- title: "Instagram" [url=https://www.instagram.com/adidasrunning/p/DcjhaDPjIMY/]
+- link [ref=e1]:
+  - img "Instagram"
+- link [ref=e2]:
+  - img "홈"
+- link [ref=e3]:
+  - img "릴스"
+- link [ref=e4]:
+  - img "메시지"
+- link [ref=e5]:
+  - img "검색"
+- link [ref=e6]:
+  - img "알림"
+- link [ref=e7]:
+  - img "새로운 게시물"
+- link [ref=e8]:
+  - img "프로페셔널 대시보드"
+- link [ref=e9]:
+  - link "huddlingclub님의 프로필 사진" [ref=e10]:
+    - image "huddlingclub님의 프로필 사진"
+- link [ref=e11]:
+  - img "설정"
+- link [ref=e12]:
+  - img "Meta의 다른 앱"
+- region:
+  - main:
+    - generic [ref=e13] [scrollable]:
+      - list:
+        - listitem
+        - listitem:
+          - generic [ref=e14]:
+            - button [ref=e15]
+            - button [ref=e16]:
+              - img "태그"
+        - listitem
+    - button "다음" [ref=e17]
+    - link "alisonsantos01_님의 프로필 사진" [ref=e18]:
+      - image "alisonsantos01_님의 프로필 사진"
+    - link "adidasrunning님의 프로필 사진" [ref=e19]:
+      - image "adidasrunning님의 프로필 사진"
+    - link "adidasrunning" [ref=e20]
+    - img "인증됨"
+    - text: "및"
+    - link "외 3명" [ref=e21]
+    - button [ref=e22]:
+      - img "옵션 더 보기"
+    - generic [ref=e23] [scrollable]:
+      - link "adidasrunning님의 프로필 사진" [ref=e24]:
+        - image "adidasrunning님의 프로필 사진"
+      - link [ref=e25]:
+        - text: "adidasrunning"
+        - img "인증됨"
+      - text: "수정됨•4주 THE RECORD WAS THE ONLY HURDLE LEFT 🤯Zurich witnessed 400m hurdles history as"
+      - link "@alisonsantos01_" [ref=e26]
+      - text: "ran a world record 45.80."
+      - link "#Adizero" [ref=e27]
+      - link "#YouGotThis" [ref=e28]
+      - text: "O RECORDE ERA O ÚNICO OBSTÁCULO QUE RESTAVA 🤯 Zurique testemunhou a história dos 400m com barreiras com"
+      - link "@alisonsantos01_" [ref=e29]
+      - text: "correndo para o recorde mundial de 45.80."
+      - link "#Adizero" [ref=e30]
+      - link "#VaiQueÉSua" [ref=e31]
+      - button "번역 보기" [ref=e32]
+      - link "adidasbrasil님의 프로필 사진" [ref=e33]:
+        - image "adidasbrasil님의 프로필 사진"
+      - link [ref=e34]:
+        - text: "adidasbrasil"
+        - img "인증됨"
+      - link "2026년 8월 28일" [ref=e35]: "4주"
+      - text: "Piu fazendo história de novo! ✍️"
+      - button "좋아요 731개" [ref=e36]
+      - button "답글 달기" [ref=e37]
+      - button "번역 보기" [ref=e38]
+      - button [ref=e40]:
+        - img "좋아요"
+      - button "답글 10개 모두 보기" [ref=e41]
+      - link "djongador님의 프로필 사진" [ref=e42]:
+        - image "djongador님의 프로필 사진"
+      - link [ref=e43]:
+        - text: "djongador"
+        - img "인증됨"
+      - link "2026년 8월 28일" [ref=e44]: "4주"
+      - text: "Vc é o melhor negão"
+      - button "좋아요 228개" [ref=e45]
+      - button "답글 달기" [ref=e46]
+      - button "번역 보기" [ref=e47]
+      - button [ref=e49]:
+        - img "좋아요"
+      - button "답글 1개 모두 보기" [ref=e50]
+      - link "timebrasil님의 프로필 사진" [ref=e51]:
+        - image "timebrasil님의 프로필 사진"
+      - link [ref=e52]:
+        - text: "timebrasil"
+        - img "인증됨"
+      - link "2026년 8월 28일" [ref=e53]: "4주"
+      - text: "🇧🇷🇧🇷🇧🇷🇧🇷"
+      - button "좋아요 220개" [ref=e54]
+      - button "답글 달기" [ref=e55]
+      - button [ref=e57]:
+        - img "좋아요"
+      - button "답글 1개 모두 보기" [ref=e58]
+      - link "le_teixeira님의 프로필 사진" [ref=e59]:
+        - image "le_teixeira님의 프로필 사진"
+      - link [ref=e60]:
+        - text: "le_teixeira"
+        - img "인증됨"
+      - link "2026년 8월 28일" [ref=e61]: "4주"
+      - text: "Brabooooo🚀"
+      - button "좋아요 3개" [ref=e62]
+      - button "답글 달기" [ref=e63]
+      - button [ref=e65]:
+        - img "좋아요"
+      - link "ecpinheiros님의 프로필 사진" [ref=e66]:
+        - image "ecpinheiros님의 프로필 사진"
+      - link [ref=e67]:
+        - text: "ecpinheiros"
+        - img "인증됨"
+      - link "2026년 8월 29일" [ref=e68]: "4주"
+      - text: "👏👏👏"
+      - button "좋아요 4개" [ref=e69]
+      - button "답글 달기" [ref=e70]
+      - button [ref=e72]:
+        - img "좋아요"
+      - link "daryllneita님의 프로필 사진" [ref=e73]:
+        - image "daryllneita님의 프로필 사진"
+      - link [ref=e74]:
+        - text: "daryllneita"
+        - img "인증됨"
+      - link "2026년 8월 28일" [ref=e75]: "4주"
+      - text: "wow!!"
+      - button "좋아요 19개" [ref=e76]
+      - button "답글 달기" [ref=e77]
+      - button [ref=e79]:
+        - img "좋아요"
+      - link "lucasfresno님의 프로필 사진" [ref=e80]:
+        - image "lucasfresno님의 프로필 사진"
+      - link [ref=e81]:
+        - text: "lucasfresno"
+        - img "인증됨"
+      - link "2026년 8월 28일" [ref=e82]: "4주"
+      - text: "🇧🇷"
+      - button "좋아요 13개" [ref=e83]
+      - button "답글 달기" [ref=e84]
+      - button [ref=e86]:
+        - img "좋아요"
+      - link "umtenispordia님의 프로필 사진" [ref=e87]:
+        - image "umtenispordia님의 프로필 사진"
+      - link [ref=e88]:
+        - text: "umtenispordia"
+        - img "인증됨"
+      - link "2026년 8월 28일" [ref=e89]: "4주"
+      - text: "👏🙌🇧🇷"
+      - button "좋아요 1개" [ref=e90]
+      - button "답글 달기" [ref=e91]
+      - button [ref=e93]:
+        - img "좋아요"
+      - link "mckeulz님의 프로필 사진" [ref=e94]:
+        - image "mckeulz님의 프로필 사진"
+      - link [ref=e95]:
+        - text: "mckeulz"
+        - img "인증됨"
+      - link "2026년 8월 28일" [ref=e96]: "4주"
+      - text: "Yessirrr 🔥🔥🔥"
+      - button "좋아요 3개" [ref=e97]
+      - button "답글 달기" [ref=e98]
+      - button [ref=e100]:
+        - img "좋아요"
+      - link "akani_simbine님의 프로필 사진" [ref=e101]:
+        - image "akani_simbine님의 프로필 사진"
+      - link [ref=e102]:
+        - text: "akani_simbine"
+        - img "인증됨"
+      - link "2026년 8월 28일" [ref=e103]: "4주"
+      - text: "BIG!🔥"
+      - button "좋아요 10개" [ref=e104]
+      - button "답글 달기" [ref=e105]
+      - button [ref=e107]:
+        - img "좋아요"
+      - link "danielrunner01님의 프로필 사진" [ref=e108]:
+        - image "danielrunner01님의 프로필 사진"
+      - link "danielrunner01" [ref=e109]
+      - link "2026년 8월 28일" [ref=e110]: "4주"
+      - text: "É do BRASILLLLL 🇧🇷🔥🙌👏"
+      - button "좋아요 19개" [ref=e111]
+      - button "답글 달기" [ref=e112]
+      - button [ref=e114]:
+        - img "좋아요"
+      - link "alanfonteles님의 프로필 사진" [ref=e115]:
+        - image "alanfonteles님의 프로필 사진"
+      - link [ref=e116]:
+        - text: "alanfonteles"
+        - img "인증됨"
+      - link "2026년 8월 28일" [ref=e117]: "4주"
+      - text: "👏👏👏👏👏"
+      - button "좋아요 6개" [ref=e118]
+      - button "답글 달기" [ref=e119]
+      - button [ref=e121]:
+        - img "좋아요"
+      - link "sandroslima2018님의 프로필 사진" [ref=e122]:
+        - image "sandroslima2018님의 프로필 사진"
+      - link "sandroslima2018" [ref=e123]
+      - link "2026년 8월 28일" [ref=e124]: "4주"
+      - text: "Dá-lhe Brasil!!!!! 🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷"
+      - button "좋아요 73개" [ref=e125]
+      - button "답글 달기" [ref=e126]
+      - button "번역 보기" [ref=e127]
+      - button [ref=e129]:
+        - img "좋아요"
+      - link "rafaelzulu님의 프로필 사진" [ref=e130]:
+        - image "rafaelzulu님의 프로필 사진"
+      - link [ref=e131]:
+        - text: "rafaelzulu"
+        - img "인증됨"
+      - link "2026년 8월 28일" [ref=e132]: "4주"
+      - text: "Brabo 🔥"
+      - button "좋아요 17개" [ref=e133]
+      - button "답글 달기" [ref=e134]
+      - button [ref=e136]:
+        - img "좋아요"
+      - link "ssaltnpepperr님의 프로필 사진" [ref=e137]:
+        - image "ssaltnpepperr님의 프로필 사진"
+      - link "ssaltnpepperr" [ref=e138]
+      - link "2026년 8월 28일" [ref=e139]: "4주"
+      - link "@alisonsantos01_" [ref=e140]
+      - text: "brought the vibe and WR 🔥❤️"
+      - button "좋아요 2개" [ref=e141]
+      - button "답글 달기" [ref=e142]
+      - button "번역 보기" [ref=e143]
+      - button [ref=e145]:
+        - img "좋아요"
+      - progressbar:
+        - img "읽어들이는 중..."
+    - region:
+      - button [ref=e147]:
+        - img "좋아요"
+      - button "7.3만" [ref=e148]
+      - button [ref=e149]:
+        - img "댓글 달기"
+      - button "1.3천" [ref=e150]
+      - button "리포스트" [ref=e151]:
+        - img "리포스트"
+      - button "2.2천" [ref=e152]
+      - button "공유하기" [ref=e153]:
+        - img "공유하기"
+      - button [ref=e154]:
+        - button [ref=e155]:
+          - img "저장"
+    - link "8월 28일" [ref=e156]
+    - region:
+      - link [ref=e157]
+      - form:
+        - button [ref=e158]:
+          - img "이모티콘"
+        - textbox "댓글 달기..." [ref=e159] [placeholder="댓글 달기..."]
+    - link "adidasrunning" [ref=e160]
+    - text: "님의 게시물 더 보기"
+    - link [ref=e161]:
+      - image "​ The Adizero Adios Pro 5 is here 😮‍💨​ ​ Introducing our new race-day super shoe built with the sa"
+      - img "슬라이드"
+    - link [ref=e162]:
+      - image "Fast approaching, quicker than ever... ​ ​ adidas Agravic Speed Ultra Evo is built to run trails fas"
+      - img "클립"
+    - link [ref=e163]:
+      - image "More than a super trainer, an award winning super trainer 🏆 adidas Hyperboost Edge is named the Run"
+      - img "슬라이드"
+    - link [ref=e164]:
+      - image "Berlin Marathon podium sweep for Adizero Adios Pro Evo 3. Innovation where it matters most 👉 The wo"
+      - img "슬라이드"
+    - link [ref=e165]:
+      - image "Bravery makes history. @tigist__assefa redefines fast at @berlinmarathon – again. #YouGotThis"
+      - img "슬라이드"
+    - link [ref=e166]:
+      - image "Clean sweep at @berlinmarathon 💪 🥇 Tigst Assefa CR 🥈 Bedatu Hirpa 🥉 Dera Dida 🥇 Guye Adola 🥈 G"
+      - img "슬라이드"
+  - contentinfo:
+    - link "Meta" [ref=e167]
+    - link "소개" [ref=e168]
+    - link "블로그" [ref=e169]
+    - link "채용 정보" [ref=e170]
+    - link "도움말" [ref=e171]
+    - link "API" [ref=e172]
+    - link "개인정보처리방침" [ref=e173]
+    - link "약관" [ref=e174]
+    - link "위치" [ref=e175]
+    - link "인기" [ref=e176]
+    - link "Instagram Lite" [ref=e177]
+    - link "Meta AI" [ref=e178]
+    - link "Muse" [ref=e179]
+    - link "Threads" [ref=e180]
+    - link "연락처 업로드 & 비사용자" [ref=e181]
+    - link "Meta Verified" [ref=e182]
+    - generic [ref=e183]:
+      - text: "한국어"
+      - img "아래쪽 V자형 아이콘"
+    - text: "© 2026 Instagram from Meta"
+- button [ref=e184]:
+  - tooltip: "3"
+- button "메시지" [ref=e185]:
+  - img "메시지"
+  - text: "메시지"
+  - button "사용자 아바타 피그마튜터 하이서님" [ref=e186]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 비비✨님" [ref=e187]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 𝒆𝒆𝒉𝒆𝒆𝒓𝒆𝒆 ║𝖼𝗁𝗋𝗂𝗌𝗍𝗂𝖺𝗇 • 𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝗋님" [ref=e188]:
+    - image "사용자 아바타"

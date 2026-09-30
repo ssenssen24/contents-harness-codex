@@ -1,0 +1,264 @@
+- title: "Instagram" [url=https://www.instagram.com/nikerunning/p/Da2zs20FIOR/]
+- link [ref=e1]:
+  - img "Instagram"
+- link [ref=e2]:
+  - img "홈"
+- link [ref=e3]:
+  - img "릴스"
+- link [ref=e4]:
+  - img "메시지"
+- link [ref=e5]:
+  - img "검색"
+- link [ref=e6]:
+  - img "알림"
+- link [ref=e7]:
+  - img "새로운 게시물"
+- link [ref=e8]:
+  - img "프로페셔널 대시보드"
+- link [ref=e9]:
+  - link "huddlingclub님의 프로필 사진" [ref=e10]:
+    - image "huddlingclub님의 프로필 사진"
+- link [ref=e11]:
+  - img "설정"
+- link [ref=e12]:
+  - img "Meta의 다른 앱"
+- region:
+  - main:
+    - generic [ref=e13] [scrollable]:
+      - list:
+        - listitem
+        - listitem:
+          - generic [ref=e14]:
+            - button [ref=e15]
+            - button [ref=e16]:
+              - img "태그"
+        - listitem
+    - button "다음" [ref=e17]
+    - link "nikewomen님의 프로필 사진" [ref=e18]:
+      - image "nikewomen님의 프로필 사진"
+    - link "nikerunning님의 프로필 사진" [ref=e19]:
+      - image "nikerunning님의 프로필 사진"
+    - link "nikerunning" [ref=e20]
+    - img "인증됨"
+    - text: "및"
+    - link "nikewomen" [ref=e21]
+    - img "인증됨"
+    - button [ref=e22]:
+      - img "옵션 더 보기"
+    - generic [ref=e23] [scrollable]:
+      - link "nikerunning님의 프로필 사진" [ref=e24]:
+        - image "nikerunning님의 프로필 사진"
+      - link [ref=e25]:
+        - text: "nikerunning"
+        - img "인증됨"
+      - text: "10주 Gold isn’t a color, it’s a mindset.The Keely Hodgkinson Collection is here, built for runners who bring style to the start line."
+      - button "번역 보기" [ref=e26]
+      - link "keely.hodgkinson님의 프로필 사진" [ref=e27]:
+        - image "keely.hodgkinson님의 프로필 사진"
+      - link [ref=e28]:
+        - text: "keely.hodgkinson"
+        - img "인증됨"
+      - link "2026년 7월 17일" [ref=e29]: "10주"
+      - text: "❤️"
+      - button "좋아요 11개" [ref=e30]
+      - button "답글 달기" [ref=e31]
+      - button [ref=e33]:
+        - img "좋아요"
+      - link "emilyinfeld님의 프로필 사진" [ref=e34]:
+        - image "emilyinfeld님의 프로필 사진"
+      - link [ref=e35]:
+        - text: "emilyinfeld"
+        - img "인증됨"
+      - link "2026년 7월 17일" [ref=e36]: "10주"
+      - text: "Loveeee 😍"
+      - button "좋아요 2개" [ref=e37]
+      - button "답글 달기" [ref=e38]
+      - button [ref=e40]:
+        - img "좋아요"
+      - link "marcelagadelha님의 프로필 사진" [ref=e41]:
+        - image "marcelagadelha님의 프로필 사진"
+      - link "marcelagadelha" [ref=e42]
+      - link "2026년 7월 16일" [ref=e43]: "10주"
+      - text: "OMGGGGGGG ✨❤️‍🔥❤️‍🔥"
+      - button "좋아요 3개" [ref=e44]
+      - button "답글 달기" [ref=e45]
+      - button "번역 보기" [ref=e46]
+      - button [ref=e48]:
+        - img "좋아요"
+      - link "faithkipyegon님의 프로필 사진" [ref=e49]:
+        - image "faithkipyegon님의 프로필 사진"
+      - link [ref=e50]:
+        - text: "faithkipyegon"
+        - img "인증됨"
+      - link "2026년 7월 16일" [ref=e51]: "10주"
+      - text: "😍"
+      - button "좋아요 16개" [ref=e52]
+      - button "답글 달기" [ref=e53]
+      - button [ref=e55]:
+        - img "좋아요"
+      - link "elise.cranny님의 프로필 사진" [ref=e56]:
+        - image "elise.cranny님의 프로필 사진"
+      - link [ref=e57]:
+        - text: "elise.cranny"
+        - img "인증됨"
+      - link "2026년 7월 16일" [ref=e58]: "10주"
+      - text: "The GOLD 🔥🔥"
+      - button "좋아요 2개" [ref=e59]
+      - button "답글 달기" [ref=e60]
+      - button "번역 보기" [ref=e61]
+      - button [ref=e63]:
+        - img "좋아요"
+      - link "ginaaquinn님의 프로필 사진" [ref=e64]:
+        - image "ginaaquinn님의 프로필 사진"
+      - link "ginaaquinn" [ref=e65]
+      - link "2026년 7월 16일" [ref=e66]: "10주"
+      - text: "😍😍these would be perfect for my next half which just happens to be the"
+      - link "@nikerunning" [ref=e67]
+      - text: "after dark half in LA🔥 just sayinggggg🖤🖤🖤🖤🖤"
+      - button "좋아요 7개" [ref=e68]
+      - button "답글 달기" [ref=e69]
+      - button "번역 보기" [ref=e70]
+      - button [ref=e72]:
+        - img "좋아요"
+      - button "답글 2개 모두 보기" [ref=e73]
+      - link "pfewong님의 프로필 사진" [ref=e74]:
+        - image "pfewong님의 프로필 사진"
+      - link "pfewong" [ref=e75]
+      - link "2026년 7월 17일" [ref=e76]: "10주"
+      - link "@merilb" [ref=e77]
+      - text: "👩🏻‍🍳👏"
+      - button "좋아요 1개" [ref=e78]
+      - button "답글 달기" [ref=e79]
+      - button [ref=e81]:
+        - img "좋아요"
+      - link "nosoyuncampeon님의 프로필 사진" [ref=e82]:
+        - image "nosoyuncampeon님의 프로필 사진"
+      - link "nosoyuncampeon" [ref=e83]
+      - link "2026년 7월 16일" [ref=e84]: "10주"
+      - text: "🔥🔥🔥🔥"
+      - button "답글 달기" [ref=e85]
+      - button [ref=e87]:
+        - img "좋아요"
+      - link "micklela님의 프로필 사진" [ref=e88]:
+        - image "micklela님의 프로필 사진"
+      - link "micklela" [ref=e89]
+      - link "2026년 7월 17일" [ref=e90]: "10주"
+      - text: "🔥🔥🔥"
+      - button "좋아요 1개" [ref=e91]
+      - button "답글 달기" [ref=e92]
+      - button [ref=e94]:
+        - img "좋아요"
+      - link "skoda_book님의 프로필 사진" [ref=e95]:
+        - image "skoda_book님의 프로필 사진"
+      - link "skoda_book" [ref=e96]
+      - link "2026년 7월 19일" [ref=e97]: "10주"
+      - text: "❤️"
+      - button "좋아요 1개" [ref=e98]
+      - button "답글 달기" [ref=e99]
+      - button [ref=e101]:
+        - img "좋아요"
+      - link "skoda_book님의 프로필 사진" [ref=e102]:
+        - image "skoda_book님의 프로필 사진"
+      - link "skoda_book" [ref=e103]
+      - link "2026년 7월 19일" [ref=e104]: "10주"
+      - text: "Just do it!! ⚜️⚜️⚜️⚜️"
+      - button "좋아요 1개" [ref=e105]
+      - button "답글 달기" [ref=e106]
+      - button "번역 보기" [ref=e107]
+      - button [ref=e109]:
+        - img "좋아요"
+      - link "panther.6629584님의 프로필 사진" [ref=e110]:
+        - image "panther.6629584님의 프로필 사진"
+      - link "panther.6629584" [ref=e111]
+      - link "2026년 7월 24일" [ref=e112]: "9주"
+      - text: "🔥🔥"
+      - button "좋아요 2개" [ref=e113]
+      - button "답글 달기" [ref=e114]
+      - button [ref=e116]:
+        - img "좋아요"
+      - link "sanndeeptyagi님의 프로필 사진" [ref=e117]:
+        - image "sanndeeptyagi님의 프로필 사진"
+      - link "sanndeeptyagi" [ref=e118]
+      - link "2026년 7월 17일" [ref=e119]: "10주"
+      - text: "Just do it 🔥"
+      - button "좋아요 1개" [ref=e120]
+      - button "답글 달기" [ref=e121]
+      - button "번역 보기" [ref=e122]
+      - button [ref=e124]:
+        - img "좋아요"
+      - progressbar:
+        - img "읽어들이는 중..."
+    - region:
+      - button [ref=e126]:
+        - img "좋아요"
+      - button "1.8만" [ref=e127]
+      - button [ref=e128]:
+        - img "댓글 달기"
+      - button "145" [ref=e129]
+      - button "리포스트" [ref=e130]:
+        - img "리포스트"
+      - button "177" [ref=e131]
+      - button "공유하기" [ref=e132]:
+        - img "공유하기"
+      - button [ref=e133]:
+        - button [ref=e134]:
+          - img "저장"
+    - link "7월 16일" [ref=e135]
+    - region:
+      - link [ref=e136]
+      - form:
+        - button [ref=e137]:
+          - img "이모티콘"
+        - textbox "댓글 달기..." [ref=e138] [placeholder="댓글 달기..."]
+    - link "nikerunning" [ref=e139]
+    - text: "님의 게시물 더 보기"
+    - link [ref=e140]:
+      - image "What makes running After Dark Tour Sydney so electric? Let us count the ways... Mexico City, we’re e"
+      - img "슬라이드"
+    - link [ref=e141]:
+      - image "The starting line brought us together. The finish line at Sydney After Dark Tour showed us what we’r"
+      - img "클립"
+    - link [ref=e142]:
+      - image "See you tonight under the stars at Tumbalong Park, Sydney."
+      - img "슬라이드"
+    - link [ref=e143]:
+      - image "Speed isn’t just for raceday. It’s for Tuesday — or Wednesday, or Thursday — too. Introducing Pegasu"
+      - img "클립"
+    - link [ref=e144]:
+      - image "More athletes. More moments. More coverage. This is @swoosh.racing. Stay tapped in."
+      - img "클립"
+    - link [ref=e145]:
+      - image "Push your limits in a head-to-toe collection curated for speed and mid-race euphoria. The After Dark"
+      - img "슬라이드"
+  - contentinfo:
+    - link "Meta" [ref=e146]
+    - link "소개" [ref=e147]
+    - link "블로그" [ref=e148]
+    - link "채용 정보" [ref=e149]
+    - link "도움말" [ref=e150]
+    - link "API" [ref=e151]
+    - link "개인정보처리방침" [ref=e152]
+    - link "약관" [ref=e153]
+    - link "위치" [ref=e154]
+    - link "인기" [ref=e155]
+    - link "Instagram Lite" [ref=e156]
+    - link "Meta AI" [ref=e157]
+    - link "Muse" [ref=e158]
+    - link "Threads" [ref=e159]
+    - link "연락처 업로드 & 비사용자" [ref=e160]
+    - link "Meta Verified" [ref=e161]
+    - generic [ref=e162]:
+      - text: "한국어"
+      - img "아래쪽 V자형 아이콘"
+    - text: "© 2026 Instagram from Meta"
+- button [ref=e163]:
+  - tooltip: "3"
+- button "메시지" [ref=e164]:
+  - img "메시지"
+  - text: "메시지"
+  - button "사용자 아바타 피그마튜터 하이서님" [ref=e165]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 비비✨님" [ref=e166]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 𝒆𝒆𝒉𝒆𝒆𝒓𝒆𝒆 ║𝖼𝗁𝗋𝗂𝗌𝗍𝗂𝖺𝗇 • 𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝗋님" [ref=e167]:
+    - image "사용자 아바타"

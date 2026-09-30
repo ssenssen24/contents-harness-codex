@@ -1,0 +1,230 @@
+- title: "Instagram" [url=https://www.instagram.com/nikerunning/p/Dd3034xmy-z/]
+- link [ref=e1]:
+  - img "Instagram"
+- link [ref=e2]:
+  - img "홈"
+- link [ref=e3]:
+  - img "릴스"
+- link [ref=e4]:
+  - img "메시지"
+- link [ref=e5]:
+  - img "검색"
+- link [ref=e6]:
+  - img "알림"
+- link [ref=e7]:
+  - img "새로운 게시물"
+- link [ref=e8]:
+  - img "프로페셔널 대시보드"
+- link [ref=e9]:
+  - link "huddlingclub님의 프로필 사진" [ref=e10]:
+    - image "huddlingclub님의 프로필 사진"
+- link [ref=e11]:
+  - img "설정"
+- link [ref=e12]:
+  - img "Meta의 다른 앱"
+- region:
+  - main:
+    - generic [ref=e13] [scrollable]:
+      - list:
+        - listitem
+        - listitem:
+          - group "Video player":
+            - slider "볼륨 조정" [ref=e15]:
+              - button "오디오 소리 꺼짐" [ref=e16]:
+                - img "오디오 소리 꺼짐"
+        - listitem:
+          - group "Video player":
+            - slider "볼륨 조정" [ref=e18]:
+              - button "오디오 소리 꺼짐" [ref=e19]:
+                - img "오디오 소리 꺼짐"
+    - button "다음" [ref=e20]
+    - button "nikerunning님의 프로필 사진" [ref=e21] [disabled]:
+      - canvas [ref=e22] [size=41x41]
+      - link "nikerunning님의 프로필 사진" [ref=e23] [disabled]:
+        - image "nikerunning님의 프로필 사진"
+    - link "nikerunning" [ref=e24]
+    - img "인증됨"
+    - link "시드니" [ref=e25]
+    - button "팔로우" [ref=e26]
+    - button [ref=e27]:
+      - img "옵션 더 보기"
+    - generic [ref=e28] [scrollable]:
+      - link "nikerunning님의 프로필 사진" [ref=e29]:
+        - image "nikerunning님의 프로필 사진"
+      - link [ref=e30]:
+        - text: "nikerunning"
+        - img "인증됨"
+      - text: "10시간 What makes running After Dark Tour Sydney so electric? Let us count the ways...Mexico City, we’re excited to see you at the next start line."
+      - button "번역 보기" [ref=e31]
+      - link "sofiazunigaaa님의 프로필 사진" [ref=e32]:
+        - image "sofiazunigaaa님의 프로필 사진"
+      - link "sofiazunigaaa" [ref=e33]
+      - link "2026년 9월 29일" [ref=e34]: "9시간"
+      - link "@nikerunning" [ref=e35]
+      - link "@nikewomen" [ref=e36]
+      - text: "what is going on with Mexico City? The difference in the experience is honestly disappointing. Mexican influencers received exclusive merch, gifted shoes and gear, and even got to run parts of the route weeks before the race, while the actual runners were left waiting for basic information, with the route only being shared one week before race day.And the difference between the race kits in Mexico and other countries is honestly shocking.This isn’t about expecting free products. It’s about feeling valued, included, and treated fairly as the runners who actually registered, trained, and showed up.Mexican runners deserve the same level of effort, attention, and excitement. 🇲🇽"
+      - button "좋아요 217개" [ref=e37]
+      - button "답글 달기" [ref=e38]
+      - button "번역 보기" [ref=e39]
+      - button [ref=e41]:
+        - img "좋아요"
+      - button "답글 21개 모두 보기" [ref=e42]
+      - link "pinguinotorres님의 프로필 사진" [ref=e43]:
+        - image "pinguinotorres님의 프로필 사진"
+      - link "pinguinotorres" [ref=e44]
+      - link "2026년 9월 30일" [ref=e45]: "6시간"
+      - text: "It’d be cool if you’d focus on making Mexico’s experience awesome instead of just pushing your stuff on us 😢 what a disappointment..."
+      - button "좋아요 60개" [ref=e46]
+      - button "답글 달기" [ref=e47]
+      - button "번역 보기" [ref=e48]
+      - button [ref=e50]:
+        - img "좋아요"
+      - link "kika_garciao님의 프로필 사진" [ref=e51]:
+        - image "kika_garciao님의 프로필 사진"
+      - link "kika_garciao" [ref=e52]
+      - link "2026년 9월 30일" [ref=e53]: "5시간"
+      - text: "Nike es esa relación amorosa donde te regalan en el primer año flores, chocolates y citas románticas y el siguiente año una tarjeta de feliz navidad jajajaja te la turbo mamaste"
+      - link "@nikerunning" [ref=e54]
+      - text: "MÉXICO 🇲🇽"
+      - button "좋아요 47개" [ref=e55]
+      - button "답글 달기" [ref=e56]
+      - button "번역 보기" [ref=e57]
+      - button [ref=e59]:
+        - img "좋아요"
+      - button "답글 3개 모두 보기" [ref=e60]
+      - link "baileyyy_cook님의 프로필 사진" [ref=e61]:
+        - image "baileyyy_cook님의 프로필 사진"
+      - link [ref=e62]:
+        - text: "baileyyy_cook"
+        - img "인증됨"
+      - link "2026년 9월 29일" [ref=e63]: "10시간"
+      - text: "Can’t wait for Mexico City!!!"
+      - button "좋아요 5개" [ref=e64]
+      - button "답글 달기" [ref=e65]
+      - button "번역 보기" [ref=e66]
+      - button [ref=e68]:
+        - img "좋아요"
+      - button "답글 3개 모두 보기" [ref=e69]
+      - link "biancaswhereabouts님의 프로필 사진" [ref=e70]:
+        - image "biancaswhereabouts님의 프로필 사진"
+      - link [ref=e71]:
+        - text: "biancaswhereabouts"
+        - img "인증됨"
+      - link "2026년 9월 29일" [ref=e72]: "10시간"
+      - text: "Let’s go"
+      - link "@nazattempts_tricks" [ref=e73]
+      - text: "wohooo!!! 🥳😍"
+      - button "좋아요 3개" [ref=e74]
+      - button "답글 달기" [ref=e75]
+      - button "번역 보기" [ref=e76]
+      - button [ref=e78]:
+        - img "좋아요"
+      - button "답글 1개 모두 보기" [ref=e79]
+      - link "iziz_silva님의 프로필 사진" [ref=e80]:
+        - image "iziz_silva님의 프로필 사진"
+      - link "iziz_silva" [ref=e81]
+      - link "2026년 9월 30일" [ref=e82]: "3시간"
+      - text: "· 수정됨 A Nike México solo le importan las “embajadoras” e “influencers”"
+      - link "@nikerunning" [ref=e83]
+      - link "@nikewomen" [ref=e84]
+      - button "좋아요 19개" [ref=e85]
+      - button "답글 달기" [ref=e86]
+      - button [ref=e88]:
+        - img "좋아요"
+      - link "alice_runsamarathon님의 프로필 사진" [ref=e89]:
+        - image "alice_runsamarathon님의 프로필 사진"
+      - link "alice_runsamarathon" [ref=e90]
+      - link "2026년 9월 29일" [ref=e91]: "10시간"
+      - link "@nikerunning" [ref=e92]
+      - text: "fly me to Mexico… I want to do it all over again! ❤️🙌"
+      - button "답글 달기" [ref=e93]
+      - button "번역 보기" [ref=e94]
+      - button [ref=e96]:
+        - img "좋아요"
+      - button "답글 2개 모두 보기" [ref=e97]
+      - link "shaaki.ra님의 프로필 사진" [ref=e98]:
+        - image "shaaki.ra님의 프로필 사진"
+      - link "shaaki.ra" [ref=e99]
+      - link "2026년 9월 29일" [ref=e100]: "10시간"
+      - link "@marian.angelu" [ref=e101]
+      - text: "😍"
+      - button "좋아요 5개" [ref=e102]
+      - button "답글 달기" [ref=e103]
+      - button [ref=e105]:
+        - img "좋아요"
+      - progressbar:
+        - img "읽어들이는 중..."
+    - region:
+      - button [ref=e107]:
+        - img "좋아요"
+      - button "4.9천" [ref=e108]
+      - button [ref=e109]:
+        - img "댓글 달기"
+      - button "127" [ref=e110]
+      - button "리포스트" [ref=e111]:
+        - img "리포스트"
+      - button "93" [ref=e112]
+      - button "공유하기" [ref=e113]:
+        - img "공유하기"
+      - button [ref=e114]:
+        - button [ref=e115]:
+          - img "저장"
+    - link "10시간 전" [ref=e116]
+    - region:
+      - link [ref=e117]
+      - form:
+        - button [ref=e118]:
+          - img "이모티콘"
+        - textbox "댓글 달기..." [ref=e119] [placeholder="댓글 달기..."]
+    - link "nikerunning" [ref=e120]
+    - text: "님의 게시물 더 보기"
+    - link [ref=e121]:
+      - image "The starting line brought us together. The finish line at Sydney After Dark Tour showed us what we’r"
+      - img "클립"
+    - link [ref=e122]:
+      - image "See you tonight under the stars at Tumbalong Park, Sydney."
+      - img "슬라이드"
+    - link [ref=e123]:
+      - image "Speed isn’t just for raceday. It’s for Tuesday — or Wednesday, or Thursday — too. Introducing Pegasu"
+      - img "클립"
+    - link [ref=e124]:
+      - image "More athletes. More moments. More coverage. This is @swoosh.racing. Stay tapped in."
+      - img "클립"
+    - link [ref=e125]:
+      - image "Push your limits in a head-to-toe collection curated for speed and mid-race euphoria. The After Dark"
+      - img "슬라이드"
+    - link [ref=e126]:
+      - image "“This collection gives you the confidence you didn’t know you had.” — @_taarra_ A good run starts wi"
+      - img "슬라이드"
+  - contentinfo:
+    - link "Meta" [ref=e127]
+    - link "소개" [ref=e128]
+    - link "블로그" [ref=e129]
+    - link "채용 정보" [ref=e130]
+    - link "도움말" [ref=e131]
+    - link "API" [ref=e132]
+    - link "개인정보처리방침" [ref=e133]
+    - link "약관" [ref=e134]
+    - link "위치" [ref=e135]
+    - link "인기" [ref=e136]
+    - link "Instagram Lite" [ref=e137]
+    - link "Meta AI" [ref=e138]
+    - link "Muse" [ref=e139]
+    - link "Threads" [ref=e140]
+    - link "연락처 업로드 & 비사용자" [ref=e141]
+    - link "Meta Verified" [ref=e142]
+    - generic [ref=e143]:
+      - text: "한국어"
+      - img "아래쪽 V자형 아이콘"
+    - text: "© 2026 Instagram from Meta"
+- button [ref=e144]:
+  - tooltip: "3"
+- button "메시지" [ref=e145]:
+  - img "메시지"
+  - text: "메시지"
+  - button "사용자 아바타 피그마튜터 하이서님" [ref=e146]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 비비✨님" [ref=e147]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 𝒆𝒆𝒉𝒆𝒆𝒓𝒆𝒆 ║𝖼𝗁𝗋𝗂𝗌𝗍𝗂𝖺𝗇 • 𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝗋님" [ref=e148]:
+    - image "사용자 아바타"

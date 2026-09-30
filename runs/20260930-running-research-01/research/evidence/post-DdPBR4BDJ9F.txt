@@ -1,0 +1,235 @@
+- title: "Instagram" [url=https://www.instagram.com/adidasrunning/p/DdPBR4BDJ9F/]
+- link [ref=e1]:
+  - img "Instagram"
+- link [ref=e2]:
+  - img "홈"
+- link [ref=e3]:
+  - img "릴스"
+- link [ref=e4]:
+  - img "메시지"
+- link [ref=e5]:
+  - img "검색"
+- link [ref=e6]:
+  - img "알림"
+- link [ref=e7]:
+  - img "새로운 게시물"
+- link [ref=e8]:
+  - img "프로페셔널 대시보드"
+- link [ref=e9]:
+  - link "huddlingclub님의 프로필 사진" [ref=e10]:
+    - image "huddlingclub님의 프로필 사진"
+- link [ref=e11]:
+  - img "설정"
+- link [ref=e12]:
+  - img "Meta의 다른 앱"
+- region:
+  - main:
+    - generic [ref=e13] [scrollable]:
+      - list:
+        - listitem
+        - listitem:
+          - generic [ref=e14]:
+            - button [ref=e15]
+            - button [ref=e16]:
+              - img "태그"
+        - listitem
+    - button "다음" [ref=e17]
+    - link "adidasbrasil님의 프로필 사진" [ref=e18]:
+      - image "adidasbrasil님의 프로필 사진"
+    - link "adidasrunning님의 프로필 사진" [ref=e19]:
+      - image "adidasrunning님의 프로필 사진"
+    - link "adidasrunning" [ref=e20]
+    - img "인증됨"
+    - text: "및"
+    - link "adidasbrasil" [ref=e21]
+    - img "인증됨"
+    - button [ref=e22]:
+      - img "옵션 더 보기"
+    - generic [ref=e23] [scrollable]:
+      - link "adidasrunning님의 프로필 사진" [ref=e24]:
+        - image "adidasrunning님의 프로필 사진"
+      - link [ref=e25]:
+        - text: "adidasrunning"
+        - img "인증됨"
+      - text: "수정됨•2주 WHAT GOES AROUND COMES AROUND FIRST 🥇A 45.98 run saw World Record holder"
+      - link "@alisonsantos01_" [ref=e26]
+      - text: "come out on top in the men’s 400m hurdles.QUEM DÁ A VOLTA, CHEGA PRIMEIRO🥇Com um tempo de 45.98 o recordista mundial,"
+      - link "@alisonsantos01_" [ref=e27]
+      - text: "conquistou a vitória masculina nos 400m com barreiras"
+      - link "#Adizero" [ref=e28]
+      - link "#YouGotThis" [ref=e29]
+      - button "번역 보기" [ref=e30]
+      - link "maira_pimp님의 프로필 사진" [ref=e31]:
+        - image "maira_pimp님의 프로필 사진"
+      - link "maira_pimp" [ref=e32]
+      - link "2026년 9월 14일" [ref=e33]: "2주"
+      - text: "Brabíssimo 🇧🇷 🔥"
+      - button "좋아요 2개" [ref=e34]
+      - button "답글 달기" [ref=e35]
+      - button [ref=e37]:
+        - img "좋아요"
+      - link "nidgie_runner님의 프로필 사진" [ref=e38]:
+        - image "nidgie_runner님의 프로필 사진"
+      - link [ref=e39]:
+        - text: "nidgie_runner"
+        - img "인증됨"
+      - link "2026년 9월 14일" [ref=e40]: "2주"
+      - text: "Mais uma vez 🔥🎯🧠"
+      - button "좋아요 2개" [ref=e41]
+      - button "답글 달기" [ref=e42]
+      - button "번역 보기" [ref=e43]
+      - button [ref=e45]:
+        - img "좋아요"
+      - link "vitinho_gomez_님의 프로필 사진" [ref=e46]:
+        - image "vitinho_gomez_님의 프로필 사진"
+      - link "vitinho_gomez_" [ref=e47]
+      - link "2026년 9월 14일" [ref=e48]: "2주"
+      - text: "Best in the hurdles history!!🇧🇷🇧🇷"
+      - button "좋아요 7개" [ref=e49]
+      - button "답글 달기" [ref=e50]
+      - button "번역 보기" [ref=e51]
+      - button [ref=e53]:
+        - img "좋아요"
+      - link "lulu2inha님의 프로필 사진" [ref=e54]:
+        - image "lulu2inha님의 프로필 사진"
+      - link "lulu2inha" [ref=e55]
+      - link "2026년 9월 14일" [ref=e56]: "2주"
+      - text: "🇧🇷❤️"
+      - button "좋아요 1개" [ref=e57]
+      - button "답글 달기" [ref=e58]
+      - button [ref=e60]:
+        - img "좋아요"
+      - link "jones_mulato님의 프로필 사진" [ref=e61]:
+        - image "jones_mulato님의 프로필 사진"
+      - link "jones_mulato" [ref=e62]
+      - link "2026년 9월 15일" [ref=e63]: "2주"
+      - text: "🇧🇷🔥🔥🔥🔥🔥🔥🇧🇷"
+      - button "답글 달기" [ref=e64]
+      - button [ref=e66]:
+        - img "좋아요"
+      - link "edsonperuzzorangel님의 프로필 사진" [ref=e67]:
+        - image "edsonperuzzorangel님의 프로필 사진"
+      - link "edsonperuzzorangel" [ref=e68]
+      - link "2026년 9월 14일" [ref=e69]: "2주"
+      - text: "Pq ele tava trajado de Puma? 🧐"
+      - button "좋아요 7개" [ref=e70]
+      - button "답글 달기" [ref=e71]
+      - button "번역 보기" [ref=e72]
+      - button [ref=e74]:
+        - img "좋아요"
+      - button "답글 3개 모두 보기" [ref=e75]
+      - link "thaiiss_oliveiira님의 프로필 사진" [ref=e76]:
+        - image "thaiiss_oliveiira님의 프로필 사진"
+      - link "thaiiss_oliveiira" [ref=e77]
+      - link "2026년 9월 14일" [ref=e78]: "2주"
+      - text: "· 수정됨 Comprei um ADIZERO EVO SL Rio 2026 e em menos de 52k ele está descolando o solado todo🤬🤬🤬🤬"
+      - link "@adidasbrasil" [ref=e79]
+      - text: "me ajudaaaa"
+      - button "좋아요 1개" [ref=e80]
+      - button "답글 달기" [ref=e81]
+      - button "번역 보기" [ref=e82]
+      - button [ref=e84]:
+        - img "좋아요"
+      - link "dnznhp님의 프로필 사진" [ref=e85]:
+        - image "dnznhp님의 프로필 사진"
+      - link "dnznhp" [ref=e86]
+      - link "2026년 9월 14일" [ref=e87]: "2주"
+      - text: "Absurdo"
+      - button "답글 달기" [ref=e88]
+      - button [ref=e90]:
+        - img "좋아요"
+      - link "bravalumes님의 프로필 사진" [ref=e91]:
+        - image "bravalumes님의 프로필 사진"
+      - link "bravalumes" [ref=e92]
+      - link "2026년 9월 14일" [ref=e93]: "2주"
+      - text: "Monstro 🔥🇧🇷"
+      - button "좋아요 1개" [ref=e94]
+      - button "답글 달기" [ref=e95]
+      - button [ref=e97]:
+        - img "좋아요"
+      - link "vandunnen님의 프로필 사진" [ref=e98]:
+        - image "vandunnen님의 프로필 사진"
+      - link "vandunnen" [ref=e99]
+      - link "2026년 9월 14일" [ref=e100]: "2주"
+      - text: "Piu ta inspirado , tá ruim de segurar o menino"
+      - button "좋아요 14개" [ref=e101]
+      - button "답글 달기" [ref=e102]
+      - button "번역 보기" [ref=e103]
+      - button [ref=e105]:
+        - img "좋아요"
+      - progressbar:
+        - img "읽어들이는 중..."
+    - region:
+      - button [ref=e107]:
+        - img "좋아요"
+      - button "1.4만" [ref=e108]
+      - button [ref=e109]:
+        - img "댓글 달기"
+      - button "163" [ref=e110]
+      - button "리포스트" [ref=e111]:
+        - img "리포스트"
+      - button "281" [ref=e112]
+      - button "공유하기" [ref=e113]:
+        - img "공유하기"
+      - button [ref=e114]:
+        - button [ref=e115]:
+          - img "저장"
+    - link "9월 14일" [ref=e116]
+    - region:
+      - link [ref=e117]
+      - form:
+        - button [ref=e118]:
+          - img "이모티콘"
+        - textbox "댓글 달기..." [ref=e119] [placeholder="댓글 달기..."]
+    - link "adidasrunning" [ref=e120]
+    - text: "님의 게시물 더 보기"
+    - link [ref=e121]:
+      - image "​ The Adizero Adios Pro 5 is here 😮‍💨​ ​ Introducing our new race-day super shoe built with the sa"
+      - img "슬라이드"
+    - link [ref=e122]:
+      - image "Fast approaching, quicker than ever... ​ ​ adidas Agravic Speed Ultra Evo is built to run trails fas"
+      - img "클립"
+    - link [ref=e123]:
+      - image "More than a super trainer, an award winning super trainer 🏆 adidas Hyperboost Edge is named the Run"
+      - img "슬라이드"
+    - link [ref=e124]:
+      - image "Berlin Marathon podium sweep for Adizero Adios Pro Evo 3. Innovation where it matters most 👉 The wo"
+      - img "슬라이드"
+    - link [ref=e125]:
+      - image "Bravery makes history. @tigist__assefa redefines fast at @berlinmarathon – again. #YouGotThis"
+      - img "슬라이드"
+    - link [ref=e126]:
+      - image "Clean sweep at @berlinmarathon 💪 🥇 Tigst Assefa CR 🥈 Bedatu Hirpa 🥉 Dera Dida 🥇 Guye Adola 🥈 G"
+      - img "슬라이드"
+  - contentinfo:
+    - link "Meta" [ref=e127]
+    - link "소개" [ref=e128]
+    - link "블로그" [ref=e129]
+    - link "채용 정보" [ref=e130]
+    - link "도움말" [ref=e131]
+    - link "API" [ref=e132]
+    - link "개인정보처리방침" [ref=e133]
+    - link "약관" [ref=e134]
+    - link "위치" [ref=e135]
+    - link "인기" [ref=e136]
+    - link "Instagram Lite" [ref=e137]
+    - link "Meta AI" [ref=e138]
+    - link "Muse" [ref=e139]
+    - link "Threads" [ref=e140]
+    - link "연락처 업로드 & 비사용자" [ref=e141]
+    - link "Meta Verified" [ref=e142]
+    - generic [ref=e143]:
+      - text: "한국어"
+      - img "아래쪽 V자형 아이콘"
+    - text: "© 2026 Instagram from Meta"
+- button [ref=e144]:
+  - tooltip: "3"
+- button "메시지" [ref=e145]:
+  - img "메시지"
+  - text: "메시지"
+  - button "사용자 아바타 피그마튜터 하이서님" [ref=e146]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 비비✨님" [ref=e147]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 𝒆𝒆𝒉𝒆𝒆𝒓𝒆𝒆 ║𝖼𝗁𝗋𝗂𝗌𝗍𝗂𝖺𝗇 • 𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝗋님" [ref=e148]:
+    - image "사용자 아바타"

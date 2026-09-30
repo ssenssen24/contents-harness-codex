@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "run_id": "20260930-running-research-01",
+  "input": {
+    "topic": "함께 달려도, 내 페이스는 그대로",
+    "accounts": [
+      "nikerunning",
+      "adidasrunning"
+    ],
+    "size": [
+      1080,
+      1350
+    ],
+    "window": {
+      "start": "2026-07-02T08:42:47+09:00",
+      "end": "2026-09-30T08:42:47+09:00"
+    }
+  },
+  "reference_hashes": {
+    "brand.md": "78720958aeedd75411a8bb3f99a683261bcc501388e0c28144512d2f56f55ecf",
+    "content-design.md": "a8593014ad178e186ba9cb29d126bff534fb8df19cc772581fa2017c0720a737",
+    "assets/reference/manifest.json": "22eaa19555075b1210bab5e37925994e7e8e23c8e421a95cd7d5c8f587d0be51"
+  },
+  "stages": {
+    "research": {
+      "status": "complete",
+      "attempts": [
+        {
+          "status": "blocked",
+          "reason": "Aside 36개 상세 수집 도중 fetch failed: other side closed. 일괄 게시일 JSON 저장 전 연결 종료.",
+          "last_valid_artifact": "research/evidence/post-DacjGOIjLV6.png",
+          "recovery": "저장된 화면·DOM 보존. 게시일만 18개씩 나누어 재조회 중.",
+          "resolution": "18개씩 게시일 재확인 성공. 정상 결과만 sources.json에 반영."
+        }
+      ],
+      "completed_at": "2026-09-30T00:14:18.183349+00:00",
+      "ranking_scope": "observed_top6",
+      "limitations": "축약 좋아요 제외. 전체 인기 Top 6를 확정하지 못함. 기간 내 게시 시각 확인 94개 중 정확한 좋아요 확인 50개에서 6개 분석."
+    },
+    "plan": {
+      "status": "approved",
+      "version": "v001",
+      "validated_at": "2026-09-30T00:20:25.423619+00:00",
+      "pending_digest": "fa6641bb25d66526855b85295bc2f17372d037f478d1a09508d0371c7576c5b4",
+      "path": "plan/plan.md"
+    },
+    "preview": {
+      "status": "approved",
+      "version": "v002",
+      "path": "preview/v002/preview.html",
+      "pending_digest": "e009fedde063c8f8e5c4a19dec74a96f6ade726482b9f42a8f8ec4a1400ca269",
+      "validated_at": "2026-09-30T00:45:57.576947+00:00"
+    },
+    "final": {
+      "status": "complete",
+      "completed_at": "2026-09-30T01:38:43.783721+00:00",
+      "figma_url": "https://www.figma.com/design/1D7Jqr9ku3boaa7GVbeAUm/?node-id=293-271"
+    }
+  },
+  "paths": {
+    "plan": "plan/archive/v001.md",
+    "html": "preview/v002/preview.html",
+    "assets": "preview/v002/assets.json",
+    "browser": "preview/v002/browser-check.json",
+    "plan_presentation": "plan/plan.md"
+  },
+  "approvals": {
+    "plan": {
+      "actor": "user",
+      "quote": "진행해",
+      "at": "2026-09-30T00:28:42.615409+00:00",
+      "digest": "fa6641bb25d66526855b85295bc2f17372d037f478d1a09508d0371c7576c5b4"
+    },
+    "preview": {
+      "actor": "user",
+      "quote": "프리리뷰 승인",
+      "at": "2026-09-30T00:48:40.082623+00:00",
+      "digest": "e009fedde063c8f8e5c4a19dec74a96f6ade726482b9f42a8f8ec4a1400ca269"
+    }
+  },
+  "resume": {
+    "stage": "final",
+    "last_valid_stage": "final",
+    "reason": "Figma 제작·PNG 5장·캡션·최종 검사 완료",
+    "next_action": "완료"
+  },
+  "research_outputs": {
+    "research/research.md": "fa4e9fb08f00bbe4836ff7e072b9ac2b9d39b1b3d336ebc918d57f59ce71cf1b",
+    "research/research.pptx": "37a871c3b58253763b824952fdc5538c0c305b25e668082da0a29a56e588630c",
+    "research/sources.json": "2f33b5514d08927ccf9f94a21c4497138bc83a2e26ede579a114d8a548a0cd7c"
+  },
+  "topic_selection": {
+    "actor": "user",
+    "quote": "1번 주제로 해줘",
+    "recorded_at": "2026-09-30T00:19:58.530419+00:00",
+    "topic": "함께 달려도, 내 페이스는 그대로"
+  },
+  "history": [
+    {
+      "stage": "preview",
+      "record": {
+        "status": "awaiting_approval",
+        "version": "v001",
+        "validated_at": "2026-09-30T00:40:25.479888+00:00",
+        "pending_digest": "3eca751e10b4ecb945a58ba00ef4ce2cbf209d7785d314fe1a1586d556dceb1e",
+        "path": "preview/preview.html"
+      }
+    }
+  ],
+  "figma_destination_authorization": {
+    "actor": "user",
+    "quote": "https://www.figma.com/design/1D7Jqr9ku3boaa7GVbeAUm/-%25EC%25BD%2598%25ED%2585%2590%25EC%25B8%25A0--%25EC%259A%25B0%25EB%25A6%25AC-%25EB%25B8%258C%25EB%259E%259C%25EB%2593%259C-%25EC%25B9%25B4%25EB%2593%259C%25EB%2589%25B4%25EC%258A%25A4%25EB%25A5%25BC-AI%25EC%2599%2580-%25ED%2595%25A8%25EA%25BB%2598-%25EB%25A7%258C%25EB%2593%25A4%25EA%25B8%25B0?node-id=227-1258&t=YKPOSy4cdyeWVq3u-11 여기섹션  옆에 해줘",
+    "file_key": "1D7Jqr9ku3boaa7GVbeAUm",
+    "mode": "append_new_section",
+    "output_section_id": "293:271",
+    "existing_node_ids": [
+      "186:3867",
+      "182:1554",
+      "182:1637",
+      "182:2342",
+      "182:2375",
+      "182:2420",
+      "199:756",
+      "234:1260",
+      "234:1262",
+      "237:1526",
+      "284:4204",
+      "278:4090",
+      "278:4096",
+      "277:4068",
+      "227:1258",
+      "186:3692",
+      "254:1554",
+      "291:4252"
+    ],
+    "recorded_at": "2026-09-30T01:37:31.635Z"
+  },
+  "plan_document_format": "human-first-v1",
+  "reference_snapshots": {
+    "brand.md": "references/brand-at-approval.md"
+  }
+}

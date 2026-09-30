@@ -1,0 +1,79 @@
+{
+  "checked_at": "2026-09-30",
+  "file_key": "1D7Jqr9ku3boaa7GVbeAUm",
+  "source_section_id": "229:248",
+  "source_page_id": "273:4021",
+  "source_modified": false,
+  "brand_md_sha256": "78720958aeedd75411a8bb3f99a683261bcc501388e0c28144512d2f56f55ecf",
+  "assets": [
+    {
+      "file": "runmate-logo-lime.svg",
+      "kind": "reusable_vector",
+      "status": "verified_direct_export",
+      "source_node_id": "229:257",
+      "source_url": "https://www.figma.com/design/1D7Jqr9ku3boaa7GVbeAUm/?node-id=229-257",
+      "child_node_ids": [
+        "I229:257;225:437"
+      ],
+      "main_component_id": "225:436",
+      "main_component_url": "https://www.figma.com/design/1D7Jqr9ku3boaa7GVbeAUm/?node-id=225-436",
+      "viewBox": "0 0 182.4 32",
+      "bytes": 3069,
+      "sha256": "dd0783d3c954e28ca7206c209e3a2e59764a61548811d8b7de48287bb5ca00d5",
+      "modifications": "none"
+    },
+    {
+      "file": "sparkle-lime.svg",
+      "kind": "reusable_vector",
+      "status": "verified_direct_export",
+      "source_node_id": "229:258",
+      "source_url": "https://www.figma.com/design/1D7Jqr9ku3boaa7GVbeAUm/?node-id=229-258",
+      "child_node_ids": [],
+      "main_component_id": null,
+      "main_component_url": null,
+      "viewBox": "0 0 77 98",
+      "bytes": 709,
+      "sha256": "80dc3bcf542c2639b0f664dcf81341c9ded62fe0302c5869bf471448c5f3168f",
+      "modifications": "none"
+    },
+    {
+      "file": "running-track-lime.svg",
+      "kind": "reusable_vector",
+      "status": "verified_direct_export",
+      "source_node_id": "229:318",
+      "source_url": "https://www.figma.com/design/1D7Jqr9ku3boaa7GVbeAUm/?node-id=229-318",
+      "child_node_ids": [
+        "229:319",
+        "229:320",
+        "229:321",
+        "229:322",
+        "229:323"
+      ],
+      "main_component_id": null,
+      "main_component_url": null,
+      "viewBox": "0 0 1343 623",
+      "bytes": 1535,
+      "sha256": "a3448a2c72792a86b62ae0396ac8189e809179e2b48ed100b17f19341e545413",
+      "modifications": "none"
+    }
+  ],
+  "evidence": [
+    {
+      "file": "evidence/source-section-229-248.png",
+      "kind": "observation_only_not_reusable_content",
+      "source_node_id": "229:248",
+      "source_url": "https://www.figma.com/design/1D7Jqr9ku3boaa7GVbeAUm/?node-id=229-248",
+      "bytes": 3776136,
+      "sha256": "ad2a073efb7e3ac571ce78d06fa0b8a797a66b61ef7cfc73cf0ce8931426a180"
+    },
+    {
+      "file": "evidence/node-properties.json",
+      "kind": "observation_only_not_reusable_content",
+      "source_node_id": "229:248",
+      "source_url": "https://www.figma.com/design/1D7Jqr9ku3boaa7GVbeAUm/?node-id=229-248",
+      "bytes": 16125,
+      "sha256": "739a2c23ff8a028f7afa970a604f37a23c4216755598721268297881fce6e819"
+    }
+  ],
+  "photo_policy": "Create new photos for every content plan. Do not reuse photos extracted from source or previous plans."
+}

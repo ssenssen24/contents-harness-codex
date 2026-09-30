@@ -1,0 +1,292 @@
+- title: "Instagram" [url=https://www.instagram.com/adidasrunning/p/Ddyuj-rDBqP/]
+- link [ref=e1]:
+  - img "Instagram"
+- link [ref=e2]:
+  - img "홈"
+- link [ref=e3]:
+  - img "릴스"
+- link [ref=e4]:
+  - img "메시지"
+- link [ref=e5]:
+  - img "검색"
+- link [ref=e6]:
+  - img "알림"
+- link [ref=e7]:
+  - img "새로운 게시물"
+- link [ref=e8]:
+  - img "프로페셔널 대시보드"
+- link [ref=e9]:
+  - link "huddlingclub님의 프로필 사진" [ref=e10]:
+    - image "huddlingclub님의 프로필 사진"
+- link [ref=e11]:
+  - img "설정"
+- link [ref=e12]:
+  - img "Meta의 다른 앱"
+- region:
+  - main:
+    - generic [ref=e13] [scrollable]:
+      - list:
+        - listitem
+        - listitem:
+          - generic [ref=e14]:
+            - button [ref=e15]
+            - button [ref=e16]:
+              - img "태그"
+        - listitem
+    - button "다음" [ref=e17]
+    - link "tigist__assefa님의 프로필 사진" [ref=e18]:
+      - image "tigist__assefa님의 프로필 사진"
+    - link "adidasrunning님의 프로필 사진" [ref=e19]:
+      - image "adidasrunning님의 프로필 사진"
+    - link "adidasrunning" [ref=e20]
+    - img "인증됨"
+    - text: "및"
+    - link "외 3명" [ref=e21]
+    - link "베를린" [ref=e22]
+    - button [ref=e23]:
+      - img "옵션 더 보기"
+    - generic [ref=e24] [scrollable]:
+      - link "adidasrunning님의 프로필 사진" [ref=e25]:
+        - image "adidasrunning님의 프로필 사진"
+      - link [ref=e26]:
+        - text: "adidasrunning"
+        - img "인증됨"
+      - text: "2일 Bravery makes history."
+      - link "@tigist__assefa" [ref=e27]
+      - text: "redefines fast at"
+      - link "@berlinmarathon" [ref=e28]
+      - text: "– again."
+      - link "#YouGotThis" [ref=e29]
+      - button "번역 보기" [ref=e30]
+      - link "nicholas_sudoso님의 프로필 사진" [ref=e31]:
+        - image "nicholas_sudoso님의 프로필 사진"
+      - link "nicholas_sudoso" [ref=e32]
+      - link "2026년 9월 27일" [ref=e33]: "2일"
+      - text: "Icon ❤️❤️"
+      - button "좋아요 5개" [ref=e34]
+      - button "답글 달기" [ref=e35]
+      - button [ref=e37]:
+        - img "좋아요"
+      - button "답글 2개 모두 보기" [ref=e38]
+      - link "sirak_jr19님의 프로필 사진" [ref=e39]:
+        - image "sirak_jr19님의 프로필 사진"
+      - link "sirak_jr19" [ref=e40]
+      - link "2026년 9월 27일" [ref=e41]: "2일"
+      - text: "The world record was on right up until final 2k 🥹bravely She wrote a Huge history ♥️"
+      - button "좋아요 33개" [ref=e42]
+      - button "답글 달기" [ref=e43]
+      - button "번역 보기" [ref=e44]
+      - button [ref=e46]:
+        - img "좋아요"
+      - button "답글 2개 모두 보기" [ref=e47]
+      - link "cesarramirezv님의 프로필 사진" [ref=e48]:
+        - image "cesarramirezv님의 프로필 사진"
+      - link "cesarramirezv" [ref=e49]
+      - link "2026년 9월 27일" [ref=e50]: "2일"
+      - text: "Me encanta🔥🔥"
+      - button "좋아요 3개" [ref=e51]
+      - button "답글 달기" [ref=e52]
+      - button "번역 보기" [ref=e53]
+      - button [ref=e55]:
+        - img "좋아요"
+      - link "wehibrook님의 프로필 사진" [ref=e56]:
+        - image "wehibrook님의 프로필 사진"
+      - link "wehibrook" [ref=e57]
+      - link "2026년 9월 27일" [ref=e58]: "2일"
+      - link "@tigist__assefa" [ref=e59]
+      - text: "you made all of us proud Ma’am. Hope you’re doing okay."
+      - button "좋아요 32개" [ref=e60]
+      - button "답글 달기" [ref=e61]
+      - button "번역 보기" [ref=e62]
+      - button [ref=e64]:
+        - img "좋아요"
+      - link "andrepinard님의 프로필 사진" [ref=e65]:
+        - image "andrepinard님의 프로필 사진"
+      - link "andrepinard" [ref=e66]
+      - link "2026년 9월 28일" [ref=e67]: "2일"
+      - text: "🔥🔥🔥"
+      - button "좋아요 1개" [ref=e68]
+      - button "답글 달기" [ref=e69]
+      - button [ref=e71]:
+        - img "좋아요"
+      - link "alex_huss_art님의 프로필 사진" [ref=e72]:
+        - image "alex_huss_art님의 프로필 사진"
+      - link [ref=e73]:
+        - text: "alex_huss_art"
+        - img "인증됨"
+      - link "2026년 9월 27일" [ref=e74]: "2일"
+      - text: "Gute Besserung. Stolz. 🔥🙌❤️"
+      - button "좋아요 3개" [ref=e75]
+      - button "답글 달기" [ref=e76]
+      - button "번역 보기" [ref=e77]
+      - button [ref=e79]:
+        - img "좋아요"
+      - link "hihadnet님의 프로필 사진" [ref=e80]:
+        - image "hihadnet님의 프로필 사진"
+      - link [ref=e81]:
+        - text: "hihadnet"
+        - img "인증됨"
+      - link "2026년 9월 28일" [ref=e82]: "2일"
+      - text: "Next time champ! The record is yours - it’s only a matter of time! 🔥♥️🔥♥️🔥"
+      - button "좋아요 7개" [ref=e83]
+      - button "답글 달기" [ref=e84]
+      - button "번역 보기" [ref=e85]
+      - button [ref=e87]:
+        - img "좋아요"
+      - link "zairamos님의 프로필 사진" [ref=e88]:
+        - image "zairamos님의 프로필 사진"
+      - link "zairamos" [ref=e89]
+      - link "2026년 9월 27일" [ref=e90]: "2일"
+      - text: "· 수정됨 Thank you for supporting her through such a tough day."
+      - link "@gemedu.dedefo.5" [ref=e91]
+      - text: "🇪🇹🫶🏼We hope you’re okay."
+      - button "좋아요 5개" [ref=e92]
+      - button "답글 달기" [ref=e93]
+      - button "번역 보기" [ref=e94]
+      - button [ref=e96]:
+        - img "좋아요"
+      - link "pewnego_razu_w_teheranie님의 프로필 사진" [ref=e97]:
+        - image "pewnego_razu_w_teheranie님의 프로필 사진"
+      - link "pewnego_razu_w_teheranie" [ref=e98]
+      - link "2026년 9월 28일" [ref=e99]: "2일"
+      - text: "LEGEND 🔥🔥🔥🔥🔥🔥🔥🔥🔥"
+      - button "좋아요 2개" [ref=e100]
+      - button "답글 달기" [ref=e101]
+      - button [ref=e103]:
+        - img "좋아요"
+      - link "_diana.a.p님의 프로필 사진" [ref=e104]:
+        - image "_diana.a.p님의 프로필 사진"
+      - link "_diana.a.p" [ref=e105]
+      - link "2026년 9월 28일" [ref=e106]: "2일"
+      - text: "👑👑👑👑"
+      - button "좋아요 2개" [ref=e107]
+      - button "답글 달기" [ref=e108]
+      - button [ref=e110]:
+        - img "좋아요"
+      - link "nddomer99님의 프로필 사진" [ref=e111]:
+        - image "nddomer99님의 프로필 사진"
+      - link [ref=e112]:
+        - text: "nddomer99"
+        - img "인증됨"
+      - link "2026년 9월 28일" [ref=e113]: "2일"
+      - text: "Amazing!"
+      - button "답글 달기" [ref=e114]
+      - button [ref=e116]:
+        - img "좋아요"
+      - link "maria_gaun님의 프로필 사진" [ref=e117]:
+        - image "maria_gaun님의 프로필 사진"
+      - link "maria_gaun" [ref=e118]
+      - link "2026년 9월 27일" [ref=e119]: "2일"
+      - text: "Legend! She teaches all of us to fight for the dream! Thanks a lot🙏🏻🚀"
+      - button "좋아요 7개" [ref=e120]
+      - button "답글 달기" [ref=e121]
+      - button "번역 보기" [ref=e122]
+      - button [ref=e124]:
+        - img "좋아요"
+      - link "lsj110120119님의 프로필 사진" [ref=e125]:
+        - image "lsj110120119님의 프로필 사진"
+      - link "lsj110120119" [ref=e126]
+      - link "2026년 9월 27일" [ref=e127]: "2일"
+      - text: "🙌🙌🔥"
+      - button "좋아요 3개" [ref=e128]
+      - button "답글 달기" [ref=e129]
+      - button [ref=e131]:
+        - img "좋아요"
+      - link "marouen_bns님의 프로필 사진" [ref=e132]:
+        - image "marouen_bns님의 프로필 사진"
+      - link "marouen_bns" [ref=e133]
+      - link "2026년 9월 28일" [ref=e134]: "2일"
+      - text: "What a great performance 👏👏"
+      - button "좋아요 3개" [ref=e135]
+      - button "답글 달기" [ref=e136]
+      - button "번역 보기" [ref=e137]
+      - button [ref=e139]:
+        - img "좋아요"
+      - link "_anja_127님의 프로필 사진" [ref=e140]:
+        - image "_anja_127님의 프로필 사진"
+      - link "_anja_127" [ref=e141]
+      - link "2026년 9월 28일" [ref=e142]: "2일"
+      - text: "Respekt! Eine wahnsinnige Leistung! 🔥👏🏻 Ich habe so mitgefiebert.Alles Liebe"
+      - link "@tigist__assefa" [ref=e143]
+      - text: "und gute Besserung 🍀❤️‍🩹"
+      - button "좋아요 2개" [ref=e144]
+      - button "답글 달기" [ref=e145]
+      - button "번역 보기" [ref=e146]
+      - button [ref=e148]:
+        - img "좋아요"
+      - progressbar:
+        - img "읽어들이는 중..."
+    - region:
+      - button [ref=e150]:
+        - img "좋아요"
+      - button "1.3만" [ref=e151]
+      - button [ref=e152]:
+        - img "댓글 달기"
+      - button "153" [ref=e153]
+      - button "리포스트" [ref=e154]:
+        - img "리포스트"
+      - button "127" [ref=e155]
+      - button "공유하기" [ref=e156]:
+        - img "공유하기"
+      - button [ref=e157]:
+        - button [ref=e158]:
+          - img "저장"
+    - link "2일 전" [ref=e159]
+    - region:
+      - link [ref=e160]
+      - form:
+        - button [ref=e161]:
+          - img "이모티콘"
+        - textbox "댓글 달기..." [ref=e162] [placeholder="댓글 달기..."]
+    - link "adidasrunning" [ref=e163]
+    - text: "님의 게시물 더 보기"
+    - link [ref=e164]:
+      - image "​ The Adizero Adios Pro 5 is here 😮‍💨​ ​ Introducing our new race-day super shoe built with the sa"
+      - img "슬라이드"
+    - link [ref=e165]:
+      - image "Fast approaching, quicker than ever... ​ ​ adidas Agravic Speed Ultra Evo is built to run trails fas"
+      - img "클립"
+    - link [ref=e166]:
+      - image "More than a super trainer, an award winning super trainer 🏆 adidas Hyperboost Edge is named the Run"
+      - img "슬라이드"
+    - link [ref=e167]:
+      - image "Berlin Marathon podium sweep for Adizero Adios Pro Evo 3. Innovation where it matters most 👉 The wo"
+      - img "슬라이드"
+    - link [ref=e168]:
+      - image "Clean sweep at @berlinmarathon 💪 🥇 Tigst Assefa CR 🥈 Bedatu Hirpa 🥉 Dera Dida 🥇 Guye Adola 🥈 G"
+      - img "슬라이드"
+    - link [ref=e169]:
+      - image "Back where it all began 👑 Three-time @berlinmarathon champion. New course record. The third-fastest"
+      - img "슬라이드"
+  - contentinfo:
+    - link "Meta" [ref=e170]
+    - link "소개" [ref=e171]
+    - link "블로그" [ref=e172]
+    - link "채용 정보" [ref=e173]
+    - link "도움말" [ref=e174]
+    - link "API" [ref=e175]
+    - link "개인정보처리방침" [ref=e176]
+    - link "약관" [ref=e177]
+    - link "위치" [ref=e178]
+    - link "인기" [ref=e179]
+    - link "Instagram Lite" [ref=e180]
+    - link "Meta AI" [ref=e181]
+    - link "Muse" [ref=e182]
+    - link "Threads" [ref=e183]
+    - link "연락처 업로드 & 비사용자" [ref=e184]
+    - link "Meta Verified" [ref=e185]
+    - generic [ref=e186]:
+      - text: "한국어"
+      - img "아래쪽 V자형 아이콘"
+    - text: "© 2026 Instagram from Meta"
+- button [ref=e187]:
+  - tooltip: "3"
+- button "메시지" [ref=e188]:
+  - img "메시지"
+  - text: "메시지"
+  - button "사용자 아바타 피그마튜터 하이서님" [ref=e189]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 비비✨님" [ref=e190]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 𝒆𝒆𝒉𝒆𝒆𝒓𝒆𝒆 ║𝖼𝗁𝗋𝗂𝗌𝗍𝗂𝖺𝗇 • 𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝗋님" [ref=e191]:
+    - image "사용자 아바타"

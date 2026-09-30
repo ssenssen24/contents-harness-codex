@@ -1,0 +1,220 @@
+- title: "Instagram" [url=https://www.instagram.com/nikerunning/p/DbJYXUIj5zH/]
+- link [ref=e1]:
+  - img "Instagram"
+- link [ref=e2]:
+  - img "홈"
+- link [ref=e3]:
+  - img "릴스"
+- link [ref=e4]:
+  - img "메시지"
+- link [ref=e5]:
+  - img "검색"
+- link [ref=e6]:
+  - img "알림"
+- link [ref=e7]:
+  - img "새로운 게시물"
+- link [ref=e8]:
+  - img "프로페셔널 대시보드"
+- link [ref=e9]:
+  - link "huddlingclub님의 프로필 사진" [ref=e10]:
+    - image "huddlingclub님의 프로필 사진"
+- link [ref=e11]:
+  - img "설정"
+- link [ref=e12]:
+  - img "Meta의 다른 앱"
+- region:
+  - main:
+    - generic [ref=e13] [scrollable]:
+      - list:
+        - listitem
+        - listitem:
+          - generic [ref=e14]:
+            - button [ref=e15]
+            - button [ref=e16]:
+              - img "태그"
+        - listitem
+    - button "다음" [ref=e17]
+    - button "nikerunning님의 프로필 사진" [ref=e18] [disabled]:
+      - canvas [ref=e19] [size=41x41]
+      - link "nikerunning님의 프로필 사진" [ref=e20] [disabled]:
+        - image "nikerunning님의 프로필 사진"
+    - link "nikerunning" [ref=e21]
+    - img "인증됨"
+    - button "팔로우" [ref=e22]
+    - button [ref=e23]:
+      - img "옵션 더 보기"
+    - generic [ref=e24] [scrollable]:
+      - link "nikerunning님의 프로필 사진" [ref=e25]:
+        - image "nikerunning님의 프로필 사진"
+      - link [ref=e26]:
+        - text: "nikerunning"
+        - img "인증됨"
+      - text: "9주 Introducing air conditioning for athletes.Aero-FIT keeps 2x Olympic Medalist"
+      - link "@kenny_bednarek" [ref=e27]
+      - text: "and 100x Half-Marathon Champion Yin Xiaoyu cool, even at full speed. Available now."
+      - button "번역 보기" [ref=e28]
+      - link "kenny_bednarek님의 프로필 사진" [ref=e29]:
+        - image "kenny_bednarek님의 프로필 사진"
+      - link [ref=e30]:
+        - text: "kenny_bednarek"
+        - img "인증됨"
+      - link "2026년 7월 24일" [ref=e31]: "9주"
+      - text: "· 수정됨 Stay cool. Stay fast. Stay Steady 🥋💪🏾"
+      - link "@nikerunning" [ref=e32]
+      - button "좋아요 28개" [ref=e33]
+      - button "답글 달기" [ref=e34]
+      - button "번역 보기" [ref=e35]
+      - button [ref=e37]:
+        - img "좋아요"
+      - button "답글 2개 모두 보기" [ref=e38]
+      - link "itssarah.elizabeth님의 프로필 사진" [ref=e39]:
+        - image "itssarah.elizabeth님의 프로필 사진"
+      - link [ref=e40]:
+        - text: "itssarah.elizabeth"
+        - img "인증됨"
+      - link "2026년 7월 24일" [ref=e41]: "9주"
+      - text: "Love the green!"
+      - button "좋아요 2개" [ref=e42]
+      - button "답글 달기" [ref=e43]
+      - button "번역 보기" [ref=e44]
+      - button [ref=e46]:
+        - img "좋아요"
+      - link "_megannoel님의 프로필 사진" [ref=e47]:
+        - image "_megannoel님의 프로필 사진"
+      - link [ref=e48]:
+        - text: "_megannoel"
+        - img "인증됨"
+      - link "2026년 7월 24일" [ref=e49]: "9주"
+      - text: "imagine how cute we’d all be running around in these at afterdark LA 🥹🥹🤍"
+      - button "좋아요 20개" [ref=e50]
+      - button "답글 달기" [ref=e51]
+      - button "번역 보기" [ref=e52]
+      - button [ref=e54]:
+        - img "좋아요"
+      - button "답글 3개 모두 보기" [ref=e55]
+      - link "nutri.luizfelipe님의 프로필 사진" [ref=e56]:
+        - image "nutri.luizfelipe님의 프로필 사진"
+      - link [ref=e57]:
+        - text: "nutri.luizfelipe"
+        - img "인증됨"
+      - link "2026년 7월 24일" [ref=e58]: "9주"
+      - text: "🙌"
+      - button "좋아요 2개" [ref=e59]
+      - button "답글 달기" [ref=e60]
+      - button [ref=e62]:
+        - img "좋아요"
+      - link "mike_on.the.run님의 프로필 사진" [ref=e63]:
+        - image "mike_on.the.run님의 프로필 사진"
+      - link "mike_on.the.run" [ref=e64]
+      - link "2026년 7월 24일" [ref=e65]: "9주"
+      - text: "Cool for the summer 🥶 😮‍💨"
+      - button "좋아요 5개" [ref=e66]
+      - button "답글 달기" [ref=e67]
+      - button "번역 보기" [ref=e68]
+      - button [ref=e70]:
+        - img "좋아요"
+      - link "alexa.javens님의 프로필 사진" [ref=e71]:
+        - image "alexa.javens님의 프로필 사진"
+      - link "alexa.javens" [ref=e72]
+      - link "2026년 7월 24일" [ref=e73]: "9주"
+      - text: "toooo good"
+      - button "좋아요 1개" [ref=e74]
+      - button "답글 달기" [ref=e75]
+      - button "번역 보기" [ref=e76]
+      - button [ref=e78]:
+        - img "좋아요"
+      - link "neelonoory님의 프로필 사진" [ref=e79]:
+        - image "neelonoory님의 프로필 사진"
+      - link "neelonoory" [ref=e80]
+      - link "2026년 7월 24일" [ref=e81]: "9주"
+      - text: "🔥!!!"
+      - button "좋아요 2개" [ref=e82]
+      - button "답글 달기" [ref=e83]
+      - button [ref=e85]:
+        - img "좋아요"
+      - link "runversusrun님의 프로필 사진" [ref=e86]:
+        - image "runversusrun님의 프로필 사진"
+      - link "runversusrun" [ref=e87]
+      - link "2026년 7월 24일" [ref=e88]: "9주"
+      - text: "Looks so refreshing! 💨🌬️"
+      - button "좋아요 2개" [ref=e89]
+      - button "답글 달기" [ref=e90]
+      - button "번역 보기" [ref=e91]
+      - button [ref=e93]:
+        - img "좋아요"
+      - progressbar:
+        - img "읽어들이는 중..."
+    - region:
+      - button [ref=e95]:
+        - img "좋아요"
+      - button "1.1만" [ref=e96]
+      - button [ref=e97]:
+        - img "댓글 달기"
+      - button "99" [ref=e98]
+      - button "리포스트" [ref=e99]:
+        - img "리포스트"
+      - button "105" [ref=e100]
+      - button "공유하기" [ref=e101]:
+        - img "공유하기"
+      - button [ref=e102]:
+        - button [ref=e103]:
+          - img "저장"
+    - link "7월 24일" [ref=e104]
+    - region:
+      - link [ref=e105]
+      - form:
+        - button [ref=e106]:
+          - img "이모티콘"
+        - textbox "댓글 달기..." [ref=e107] [placeholder="댓글 달기..."]
+    - link "nikerunning" [ref=e108]
+    - text: "님의 게시물 더 보기"
+    - link [ref=e109]:
+      - image "What makes running After Dark Tour Sydney so electric? Let us count the ways... Mexico City, we’re e"
+      - img "슬라이드"
+    - link [ref=e110]:
+      - image "The starting line brought us together. The finish line at Sydney After Dark Tour showed us what we’r"
+      - img "클립"
+    - link [ref=e111]:
+      - image "See you tonight under the stars at Tumbalong Park, Sydney."
+      - img "슬라이드"
+    - link [ref=e112]:
+      - image "Speed isn’t just for raceday. It’s for Tuesday — or Wednesday, or Thursday — too. Introducing Pegasu"
+      - img "클립"
+    - link [ref=e113]:
+      - image "More athletes. More moments. More coverage. This is @swoosh.racing. Stay tapped in."
+      - img "클립"
+    - link [ref=e114]:
+      - image "Push your limits in a head-to-toe collection curated for speed and mid-race euphoria. The After Dark"
+      - img "슬라이드"
+  - contentinfo:
+    - link "Meta" [ref=e115]
+    - link "소개" [ref=e116]
+    - link "블로그" [ref=e117]
+    - link "채용 정보" [ref=e118]
+    - link "도움말" [ref=e119]
+    - link "API" [ref=e120]
+    - link "개인정보처리방침" [ref=e121]
+    - link "약관" [ref=e122]
+    - link "위치" [ref=e123]
+    - link "인기" [ref=e124]
+    - link "Instagram Lite" [ref=e125]
+    - link "Meta AI" [ref=e126]
+    - link "Muse" [ref=e127]
+    - link "Threads" [ref=e128]
+    - link "연락처 업로드 & 비사용자" [ref=e129]
+    - link "Meta Verified" [ref=e130]
+    - generic [ref=e131]:
+      - text: "한국어"
+      - img "아래쪽 V자형 아이콘"
+    - text: "© 2026 Instagram from Meta"
+- button [ref=e132]:
+  - tooltip: "3"
+- button "메시지" [ref=e133]:
+  - img "메시지"
+  - text: "메시지"
+  - button "사용자 아바타 피그마튜터 하이서님" [ref=e134]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 비비✨님" [ref=e135]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 𝒆𝒆𝒉𝒆𝒆𝒓𝒆𝒆 ║𝖼𝗁𝗋𝗂𝗌𝗍𝗂𝖺𝗇 • 𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝗋님" [ref=e136]:
+    - image "사용자 아바타"

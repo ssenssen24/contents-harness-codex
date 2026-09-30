@@ -1,0 +1,292 @@
+- title: "Instagram" [url=https://www.instagram.com/adidasrunning/p/DcdKjrNjDzn/]
+- link [ref=e1]:
+  - img "Instagram"
+- link [ref=e2]:
+  - img "홈"
+- link [ref=e3]:
+  - img "릴스"
+- link [ref=e4]:
+  - img "메시지"
+- link [ref=e5]:
+  - img "검색"
+- link [ref=e6]:
+  - img "알림"
+- link [ref=e7]:
+  - img "새로운 게시물"
+- link [ref=e8]:
+  - img "프로페셔널 대시보드"
+- link [ref=e9]:
+  - link "huddlingclub님의 프로필 사진" [ref=e10]:
+    - image "huddlingclub님의 프로필 사진"
+- link [ref=e11]:
+  - img "설정"
+- link [ref=e12]:
+  - img "Meta의 다른 앱"
+- region:
+  - main:
+    - generic [ref=e13] [scrollable]:
+      - list:
+        - listitem
+        - listitem:
+          - group "Video player":
+            - slider "볼륨 조정" [ref=e15]:
+              - button "오디오 소리 꺼짐" [ref=e16]:
+                - img "오디오 소리 꺼짐"
+        - listitem
+    - button "다음" [ref=e17]
+    - button "adidasrunning님의 프로필 사진" [ref=e18] [disabled]:
+      - canvas [ref=e19] [size=41x41]
+      - link "adidasrunning님의 프로필 사진" [ref=e20] [disabled]:
+        - image "adidasrunning님의 프로필 사진"
+    - link "adidasrunning" [ref=e21]
+    - img "인증됨"
+    - button "팔로우" [ref=e22]
+    - button [ref=e23]:
+      - img "옵션 더 보기"
+    - generic [ref=e24] [scrollable]:
+      - link "adidasrunning님의 프로필 사진" [ref=e25]:
+        - image "adidasrunning님의 프로필 사진"
+      - link [ref=e26]:
+        - text: "adidasrunning"
+        - img "인증됨"
+      - text: "5주 adidas Agravic Speed Ultra Evo​Our fastest trail-running shoe yet.​Lighter, quicker and ready to be dirtier than ever. Built to tackle the longest and toughest of trails.​It didn’t get this fast to take things slowly.Now available at UTMB in limited quantities."
+      - button "번역 보기" [ref=e27]
+      - link "sauloarruda.run님의 프로필 사진" [ref=e28]:
+        - image "sauloarruda.run님의 프로필 사진"
+      - link "sauloarruda.run" [ref=e29]
+      - link "2026년 8월 25일" [ref=e30]: "5주"
+      - text: "Fantástico!!!!!! 💚💚💚💚"
+      - button "좋아요 1개" [ref=e31]
+      - button "답글 달기" [ref=e32]
+      - button [ref=e34]:
+        - img "좋아요"
+      - link "mityaev.dmitry님의 프로필 사진" [ref=e35]:
+        - image "mityaev.dmitry님의 프로필 사진"
+      - link [ref=e36]:
+        - text: "mityaev.dmitry"
+        - img "인증됨"
+      - link "2026년 8월 25일" [ref=e37]: "5주"
+      - text: "🔥🔥🔥"
+      - button "좋아요 10개" [ref=e38]
+      - button "답글 달기" [ref=e39]
+      - button [ref=e41]:
+        - img "좋아요"
+      - link "lazarosouto님의 프로필 사진" [ref=e42]:
+        - image "lazarosouto님의 프로필 사진"
+      - link [ref=e43]:
+        - text: "lazarosouto"
+        - img "인증됨"
+      - link "2026년 8월 25일" [ref=e44]: "5주"
+      - text: "🙌🙌"
+      - button "좋아요 1개" [ref=e45]
+      - button "답글 달기" [ref=e46]
+      - button [ref=e48]:
+        - img "좋아요"
+      - link "aubrey.running님의 프로필 사진" [ref=e49]:
+        - image "aubrey.running님의 프로필 사진"
+      - link "aubrey.running" [ref=e50]
+      - link "2026년 8월 25일" [ref=e51]: "5주"
+      - link "@adidasrunning" [ref=e52]
+      - text: "shut up and take my money… I’m in my trail running era!!!"
+      - button "좋아요 74개" [ref=e53]
+      - button "답글 달기" [ref=e54]
+      - button "번역 보기" [ref=e55]
+      - button [ref=e57]:
+        - img "좋아요"
+      - button "답글 3개 모두 보기" [ref=e58]
+      - link "alastair.running님의 프로필 사진" [ref=e59]:
+        - image "alastair.running님의 프로필 사진"
+      - link "alastair.running" [ref=e60]
+      - link "2026년 8월 25일" [ref=e61]: "5주"
+      - text: "Saucy! Can’t wait to test them out!"
+      - button "좋아요 5개" [ref=e62]
+      - button "답글 달기" [ref=e63]
+      - button "번역 보기" [ref=e64]
+      - button [ref=e66]:
+        - img "좋아요"
+      - link "madsincolour님의 프로필 사진" [ref=e67]:
+        - image "madsincolour님의 프로필 사진"
+      - link "madsincolour" [ref=e68]
+      - link "2026년 8월 25일" [ref=e69]: "5주"
+      - link "@_indiarobinson" [ref=e70]
+      - text: "😍😍😍"
+      - button "좋아요 2개" [ref=e71]
+      - button "답글 달기" [ref=e72]
+      - button [ref=e74]:
+        - img "좋아요"
+      - button "답글 1개 모두 보기" [ref=e75]
+      - link "wisnvwibowo님의 프로필 사진" [ref=e76]:
+        - image "wisnvwibowo님의 프로필 사진"
+      - link "wisnvwibowo" [ref=e77]
+      - link "2026년 8월 25일" [ref=e78]: "5주"
+      - text: "Nih cocok gi"
+      - link "@yogiyuliada" [ref=e79]
+      - text: "🔥"
+      - button "좋아요 1개" [ref=e80]
+      - button "답글 달기" [ref=e81]
+      - button "번역 보기" [ref=e82]
+      - button [ref=e84]:
+        - img "좋아요"
+      - button "답글 1개 모두 보기" [ref=e85]
+      - link "andi_hammertime님의 프로필 사진" [ref=e86]:
+        - image "andi_hammertime님의 프로필 사진"
+      - link "andi_hammertime" [ref=e87]
+      - link "2026년 9월 20일" [ref=e88]: "1주"
+      - text: "💅🏼👀 -"
+      - link "@louiserondeau" [ref=e89]
+      - button "좋아요 1개" [ref=e90]
+      - button "답글 달기" [ref=e91]
+      - button [ref=e93]:
+        - img "좋아요"
+      - button "답글 1개 모두 보기" [ref=e94]
+      - link "earlchristopherj님의 프로필 사진" [ref=e95]:
+        - image "earlchristopherj님의 프로필 사진"
+      - link "earlchristopherj" [ref=e96]
+      - link "2026년 8월 25일" [ref=e97]: "5주"
+      - text: "Bish I’m a trail runner now! 😂"
+      - button "좋아요 13개" [ref=e98]
+      - button "답글 달기" [ref=e99]
+      - button "번역 보기" [ref=e100]
+      - button [ref=e102]:
+        - img "좋아요"
+      - link "ledique님의 프로필 사진" [ref=e103]:
+        - image "ledique님의 프로필 사진"
+      - link "ledique" [ref=e104]
+      - link "2026년 8월 27일" [ref=e105]: "4주"
+      - link "@khalmaash" [ref=e106]
+      - link "@amyphy" [ref=e107]
+      - link "@fakrimatsalleh" [ref=e108]
+      - text: "bah mcm biasa ah.. thanks in advance 😬"
+      - button "좋아요 1개" [ref=e109]
+      - button "답글 달기" [ref=e110]
+      - button "번역 보기" [ref=e111]
+      - button [ref=e113]:
+        - img "좋아요"
+      - link "willrleite님의 프로필 사진" [ref=e114]:
+        - image "willrleite님의 프로필 사진"
+      - link "willrleite" [ref=e115]
+      - link "2026년 8월 26일" [ref=e116]: "5주"
+      - link "@davisonxsavoia" [ref=e117]
+      - text: "🔥😍"
+      - button "답글 달기" [ref=e118]
+      - button [ref=e120]:
+        - img "좋아요"
+      - button "답글 1개 모두 보기" [ref=e121]
+      - link "isaquielcabral님의 프로필 사진" [ref=e122]:
+        - image "isaquielcabral님의 프로필 사진"
+      - link "isaquielcabral" [ref=e123]
+      - link "2026년 8월 25일" [ref=e124]: "5주"
+      - text: "Bora nesse"
+      - link "@vianatattoofc" [ref=e125]
+      - text: "?"
+      - button "좋아요 1개" [ref=e126]
+      - button "답글 달기" [ref=e127]
+      - button "번역 보기" [ref=e128]
+      - button [ref=e130]:
+        - img "좋아요"
+      - link "rizalridhal님의 프로필 사진" [ref=e131]:
+        - image "rizalridhal님의 프로필 사진"
+      - link "rizalridhal" [ref=e132]
+      - link "2026년 8월 25일" [ref=e133]: "5주"
+      - text: "Akh another monster 🔥🙌"
+      - button "답글 달기" [ref=e134]
+      - button "번역 보기" [ref=e135]
+      - button [ref=e137]:
+        - img "좋아요"
+      - button "답글 1개 모두 보기" [ref=e138]
+      - link "arrobadege님의 프로필 사진" [ref=e139]:
+        - image "arrobadege님의 프로필 사진"
+      - link "arrobadege" [ref=e140]
+      - link "2026년 8월 29일" [ref=e141]: "4주"
+      - link "@goretexbrand" [ref=e142]
+      - text: "?"
+      - button "좋아요 1개" [ref=e143]
+      - button "답글 달기" [ref=e144]
+      - button [ref=e146]:
+        - img "좋아요"
+      - link "ianalvns님의 프로필 사진" [ref=e147]:
+        - image "ianalvns님의 프로필 사진"
+      - link "ianalvns" [ref=e148]
+      - link "2026년 8월 25일" [ref=e149]: "5주"
+      - text: "please release evo sl2!"
+      - button "좋아요 2개" [ref=e150]
+      - button "답글 달기" [ref=e151]
+      - button "번역 보기" [ref=e152]
+      - button [ref=e154]:
+        - img "좋아요"
+      - progressbar:
+        - img "읽어들이는 중..."
+    - region:
+      - button [ref=e156]:
+        - img "좋아요"
+      - button "4.1만" [ref=e157]
+      - button [ref=e158]:
+        - img "댓글 달기"
+      - button "299" [ref=e159]
+      - button "리포스트" [ref=e160]:
+        - img "리포스트"
+      - button "785" [ref=e161]
+      - button "공유하기" [ref=e162]:
+        - img "공유하기"
+      - button [ref=e163]:
+        - button [ref=e164]:
+          - img "저장"
+    - link "8월 25일" [ref=e165]
+    - region:
+      - link [ref=e166]
+      - form:
+        - button [ref=e167]:
+          - img "이모티콘"
+        - textbox "댓글 달기..." [ref=e168] [placeholder="댓글 달기..."]
+    - link "adidasrunning" [ref=e169]
+    - text: "님의 게시물 더 보기"
+    - link [ref=e170]:
+      - image "​ The Adizero Adios Pro 5 is here 😮‍💨​ ​ Introducing our new race-day super shoe built with the sa"
+      - img "슬라이드"
+    - link [ref=e171]:
+      - image "Fast approaching, quicker than ever... ​ ​ adidas Agravic Speed Ultra Evo is built to run trails fas"
+      - img "클립"
+    - link [ref=e172]:
+      - image "More than a super trainer, an award winning super trainer 🏆 adidas Hyperboost Edge is named the Run"
+      - img "슬라이드"
+    - link [ref=e173]:
+      - image "Berlin Marathon podium sweep for Adizero Adios Pro Evo 3. Innovation where it matters most 👉 The wo"
+      - img "슬라이드"
+    - link [ref=e174]:
+      - image "Bravery makes history. @tigist__assefa redefines fast at @berlinmarathon – again. #YouGotThis"
+      - img "슬라이드"
+    - link [ref=e175]:
+      - image "Clean sweep at @berlinmarathon 💪 🥇 Tigst Assefa CR 🥈 Bedatu Hirpa 🥉 Dera Dida 🥇 Guye Adola 🥈 G"
+      - img "슬라이드"
+  - contentinfo:
+    - link "Meta" [ref=e176]
+    - link "소개" [ref=e177]
+    - link "블로그" [ref=e178]
+    - link "채용 정보" [ref=e179]
+    - link "도움말" [ref=e180]
+    - link "API" [ref=e181]
+    - link "개인정보처리방침" [ref=e182]
+    - link "약관" [ref=e183]
+    - link "위치" [ref=e184]
+    - link "인기" [ref=e185]
+    - link "Instagram Lite" [ref=e186]
+    - link "Meta AI" [ref=e187]
+    - link "Muse" [ref=e188]
+    - link "Threads" [ref=e189]
+    - link "연락처 업로드 & 비사용자" [ref=e190]
+    - link "Meta Verified" [ref=e191]
+    - generic [ref=e192]:
+      - text: "한국어"
+      - img "아래쪽 V자형 아이콘"
+    - text: "© 2026 Instagram from Meta"
+- button [ref=e193]:
+  - tooltip: "3"
+- button "메시지" [ref=e194]:
+  - img "메시지"
+  - text: "메시지"
+  - button "사용자 아바타 피그마튜터 하이서님" [ref=e195]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 비비✨님" [ref=e196]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 𝒆𝒆𝒉𝒆𝒆𝒓𝒆𝒆 ║𝖼𝗁𝗋𝗂𝗌𝗍𝗂𝖺𝗇 • 𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝗋님" [ref=e197]:
+    - image "사용자 아바타"

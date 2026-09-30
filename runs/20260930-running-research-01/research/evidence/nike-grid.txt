@@ -1,0 +1,206 @@
+- title: "Instagram" [url=https://www.instagram.com/nikerunning/]
+- form
+- link [ref=e1]:
+  - img "Instagram"
+- link [ref=e2]:
+  - img "홈"
+- link [ref=e3]:
+  - img "릴스"
+- link [ref=e4]:
+  - img "메시지"
+- link [ref=e5]:
+  - img "검색"
+- link [ref=e6]:
+  - img "알림"
+- link [ref=e7]:
+  - img "새로운 게시물"
+- link [ref=e8]:
+  - img "프로페셔널 대시보드"
+- link [ref=e9]:
+  - link "huddlingclub님의 프로필 사진" [ref=e10]:
+    - image "huddlingclub님의 프로필 사진"
+- link [ref=e11]:
+  - img "설정"
+- link [ref=e12]:
+  - img "Meta의 다른 앱"
+- region:
+  - main:
+    - banner:
+      - region:
+        - link "nikerunning님의 프로필 사진" [ref=e13]:
+          - image "nikerunning님의 프로필 사진"
+      - region:
+        - link [ref=e14]:
+          - heading [level=2]: "nikerunning"
+        - img "인증됨"
+        - button [ref=e15]:
+          - img "옵션"
+        - text: "Nike Running 게시물  2090"
+        - link "팔로워 621.2만" [ref=e16]
+        - link "팔로우 614" [ref=e17]
+      - region:
+        - button "THE AFTER DARK TOUR IS BACK.Your distance, your pace, your night.Up next: Mexico City." [ref=e18]
+        - heading [level=1]
+        - img "링크 아이콘"
+        - link "empli.fi/nikerunning" [ref=e19]
+      - region:
+        - button "팔로우" [ref=e20]
+        - button "메시지 보내기" [ref=e21]
+        - button [ref=e22]:
+          - img "비슷한 계정"
+      - region
+      - region:
+        - menu:
+          - generic [ref=e23] [scrollable]:
+            - list:
+              - listitem
+              - listitem
+              - listitem:
+                - link "After Dark Tour 하이라이트 보기" [ref=e24]:
+                  - button [ref=e25]:
+                    - button [ref=e26]:
+                      - canvas [ref=e27] [size=87x87]
+                      - image "nikerunning님의 하이라이트 스토리 사진"
+                    - text: "After Dark Tour"
+              - listitem:
+                - link "Aero-FIT 하이라이트 보기" [ref=e28]:
+                  - button [ref=e29]:
+                    - button [ref=e30]:
+                      - canvas [ref=e31] [size=87x87]
+                      - image "nikerunning님의 하이라이트 스토리 사진"
+                    - text: "Aero-FIT"
+              - listitem:
+                - link "Pegasus 하이라이트 보기" [ref=e32]:
+                  - button [ref=e33]:
+                    - button [ref=e34]:
+                      - canvas [ref=e35] [size=87x87]
+                      - image "nikerunning님의 하이라이트 스토리 사진"
+                    - text: "Pegasus"
+              - listitem:
+                - link "Vomero 하이라이트 보기" [ref=e36]:
+                  - button [ref=e37]:
+                    - button [ref=e38]:
+                      - canvas [ref=e39] [size=87x87]
+                      - image "nikerunning님의 하이라이트 스토리 사진"
+                    - text: "Vomero"
+              - listitem:
+                - link "Structure 하이라이트 보기" [ref=e40]:
+                  - button [ref=e41]:
+                    - button [ref=e42]:
+                      - canvas [ref=e43] [size=87x87]
+                      - image "nikerunning님의 하이라이트 스토리 사진"
+                    - text: "Structure"
+      - region
+    - tablist:
+      - link [ref=e44]:
+        - img "게시물"
+      - link [ref=e45]:
+        - img "릴스"
+      - link [ref=e46]:
+        - img "리포스트"
+      - link [ref=e47]:
+        - img "태그됨"
+    - tabpanel
+    - link [ref=e48]:
+      - image "What makes running After Dark Tour Sydney so electric? Let us count the ways... Mexico City, we’re e"
+      - img "고정 게시물"
+      - list:
+        - listitem: "4897"
+        - listitem: "125"
+    - link [ref=e49]:
+      - image "The starting line brought us together. The finish line at Sydney After Dark Tour showed us what we’r"
+      - img "고정 게시물"
+    - link [ref=e50]:
+      - image "See you tonight under the stars at Tumbalong Park, Sydney."
+      - img "고정 게시물"
+    - link [ref=e51]:
+      - image "Speed isn’t just for raceday. It’s for Tuesday — or Wednesday, or Thursday — too. Introducing Pegasu"
+      - img "클립"
+    - link [ref=e52]:
+      - image "More athletes. More moments. More coverage. This is @swoosh.racing. Stay tapped in."
+      - img "클립"
+    - link [ref=e53]:
+      - image "Push your limits in a head-to-toe collection curated for speed and mid-race euphoria. The After Dark"
+      - img "슬라이드"
+    - link [ref=e54]:
+      - image "“This collection gives you the confidence you didn’t know you had.” — @_taarra_ A good run starts wi"
+      - img "슬라이드"
+    - link [ref=e55]:
+      - image "An epic night deserves an epic ‘fit. The After Dark Tour Collection is available now in select regio"
+      - img "슬라이드"
+    - link [ref=e56]:
+      - image "Nike Atelier for Sha’Carri Richardson reflects the beauty of London after rainfall through luminous "
+      - img "슬라이드"
+    - link [ref=e57]:
+      - image "Faster times are in the air. The Nike Alphafly 4 is coming to a race near you. Broader availability "
+      - img "클립"
+    - link [ref=e58]:
+      - image "Wins are measured in seconds, not second. In Budapest, the clock says it all. Masai Russell 100M Hur"
+      - img "슬라이드"
+    - link [ref=e59]:
+      - image "Fit for speed queens. The After Dark Tour Collection is available now in select regions."
+      - img "클립"
+    - link [ref=e60]:
+      - image "You were right to be worried about Addisu Gobena. The 21-year-old just bagged his first major marath"
+    - link [ref=e61]:
+      - image "New record just dropped. The 100M hurdles World Record belongs to @masai_russell. And it’s flying of"
+      - img "클립"
+    - link [ref=e62]:
+      - image "“I love LA so much. It’s motivating to have a bunch of women around you who are all putting their mi"
+      - img "슬라이드"
+    - link [ref=e63]:
+      - image "Six cities. One starting line. Thousands of stories. One woman’s determination becomes another’s mot"
+      - img "클립"
+    - link [ref=e64]:
+      - image "After a 10-month hiatus, @jakobing takes 5000m gold in Birmingham. Welcome back."
+    - link [ref=e65]:
+      - image "The harder you run, the harder you cool. Feel the airflow of Aero-FIT’s breathable knit and anti-cli"
+      - img "슬라이드"
+    - link [ref=e66]:
+      - image "“I really feel the air when I pick up the pace.” When @kenny_bednarek, turns up the heat in Aero-FIT"
+      - img "슬라이드"
+    - link [ref=e67]:
+      - image "“I don’t feel the shirt. I feel air.” For 100x Half-Marathon Champion Yin Xiaoyu, locking in means k"
+      - img "슬라이드"
+    - link [ref=e68]:
+      - image "Your shirt should breathe harder than you do. Keep cool and keep running in new Nike Aero-FIT, Avail"
+      - img "슬라이드"
+    - link [ref=e69]:
+      - image "To stay cool in the hottest place on earth, you can harness the power of 102 fans. Or you can just w"
+      - img "클립"
+    - link [ref=e70]:
+      - image "Introducing air conditioning for athletes. Aero-FIT keeps 2x Olympic Medalist @kenny_bednarek and 10"
+      - img "슬라이드"
+    - link [ref=e71]:
+      - image "Beat the heat. Introducing Aero-FIT, air conditioning for athletes. With extraordinary airflow and b"
+      - img "클립"
+  - contentinfo:
+    - link "Meta" [ref=e72]
+    - link "소개" [ref=e73]
+    - link "블로그" [ref=e74]
+    - link "채용 정보" [ref=e75]
+    - link "도움말" [ref=e76]
+    - link "API" [ref=e77]
+    - link "개인정보처리방침" [ref=e78]
+    - link "약관" [ref=e79]
+    - link "위치" [ref=e80]
+    - link "인기" [ref=e81]
+    - link "Instagram Lite" [ref=e82]
+    - link "Meta AI" [ref=e83]
+    - link "Muse" [ref=e84]
+    - link "Threads" [ref=e85]
+    - link "연락처 업로드 & 비사용자" [ref=e86]
+    - link "Meta Verified" [ref=e87]
+    - generic [ref=e88]:
+      - text: "한국어"
+      - img "아래쪽 V자형 아이콘"
+    - text: "© 2026 Instagram from Meta"
+- button "메시지" [ref=e89]:
+  - img "메시지"
+  - text: "메시지"
+  - button "사용자 아바타 피그마튜터 하이서님" [ref=e90]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 비비✨님" [ref=e91]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 𝒆𝒆𝒉𝒆𝒆𝒓𝒆𝒆 ║𝖼𝗁𝗋𝗂𝗌𝗍𝗂𝖺𝗇 • 𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝗋님" [ref=e92]:
+    - image "사용자 아바타"

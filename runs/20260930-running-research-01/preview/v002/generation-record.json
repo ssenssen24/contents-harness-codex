@@ -1,0 +1,11 @@
+{
+  "method": "codex-imagegen",
+  "edit_target": "preview/images/c04.png",
+  "identity_reference": [
+    "preview/images/c01.png",
+    "preview/images/c03.png"
+  ],
+  "saved_path": "preview/v002/images/c04.png",
+  "prompt": "Use case: identity-preserve. Edit the THIRD input photo (c04), using FIRST input c01 as the identity and wardrobe reference and SECOND input c03 as lower-body wardrobe reference. Replace only the two people in c04 with the SAME two fictional adult East Asian runners from c01: man short black hair, clean-shaven, charcoal short-sleeved athletic tee and dark shorts; woman dark ponytail, off-white long-sleeved hooded lightweight windbreaker and off-white shorts. Preserve their build, hair, apparent age and natural skin tone from c01. Both white socks and unbranded off-white running shoes consistent with c03. Keep c04 composition: both full-body figures on lower right, relaxed jogging together towards camera, faces naturally consistent with the reference rather than the old c04 faces. Keep the park path, foliage, soft natural daylight, restrained green/gray palette, background perspective, generous upper-left negative space and 4:5 portrait framing unchanged. All feet visible. Photorealistic candid understated scene, no text, logo, watermark, graphics. Identity and outfit continuity across the series is the primary goal. Output only the edited c04 photograph.",
+  "source": "/Users/bibi/.codex/generated_images/01a0edf8-bd0f-7303-abe6-1a0576c9ab42/exec-633c621a-db4a-4ff9-9f30-20c3b2d3259a.png"
+}

@@ -1,0 +1,284 @@
+- title: "Instagram" [url=https://www.instagram.com/nikerunning/p/DbdpPp0FFwW/]
+- link [ref=e1]:
+  - img "Instagram"
+- link [ref=e2]:
+  - img "홈"
+- link [ref=e3]:
+  - img "릴스"
+- link [ref=e4]:
+  - img "메시지"
+- link [ref=e5]:
+  - img "검색"
+- link [ref=e6]:
+  - img "알림"
+- link [ref=e7]:
+  - img "새로운 게시물"
+- link [ref=e8]:
+  - img "프로페셔널 대시보드"
+- link [ref=e9]:
+  - link "huddlingclub님의 프로필 사진" [ref=e10]:
+    - image "huddlingclub님의 프로필 사진"
+- link [ref=e11]:
+  - img "설정"
+- link [ref=e12]:
+  - img "Meta의 다른 앱"
+- region:
+  - main:
+    - generic [ref=e13] [scrollable]:
+      - list:
+        - listitem
+        - listitem:
+          - group "Video player":
+            - slider "볼륨 조정" [ref=e15]:
+              - button "오디오 소리 꺼짐" [ref=e16]:
+                - img "오디오 소리 꺼짐"
+        - listitem:
+          - group "Video player":
+            - slider "볼륨 조정" [ref=e18]:
+              - button "오디오 소리 꺼짐" [ref=e19]:
+                - img "오디오 소리 꺼짐"
+    - button "다음" [ref=e20]
+    - button "nikerunning님의 프로필 사진" [ref=e21] [disabled]:
+      - canvas [ref=e22] [size=41x41]
+      - link "nikerunning님의 프로필 사진" [ref=e23] [disabled]:
+        - image "nikerunning님의 프로필 사진"
+    - link "nikerunning" [ref=e24]
+    - img "인증됨"
+    - button "팔로우" [ref=e25]
+    - button [ref=e26]:
+      - img "옵션 더 보기"
+    - generic [ref=e27] [scrollable]:
+      - link "nikerunning님의 프로필 사진" [ref=e28]:
+        - image "nikerunning님의 프로필 사진"
+      - link [ref=e29]:
+        - text: "nikerunning"
+        - img "인증됨"
+      - text: "8주“I don’t feel the shirt. I feel air.” For 100x Half-Marathon Champion Yin Xiaoyu, locking in means keeping cool.Aero-FIT is available now."
+      - button "번역 보기" [ref=e30]
+      - link "flaviapelissari님의 프로필 사진" [ref=e31]:
+        - image "flaviapelissari님의 프로필 사진"
+      - link [ref=e32]:
+        - text: "flaviapelissari"
+        - img "인증됨"
+      - link "2026년 8월 1일" [ref=e33]: "8주"
+      - text: "😍😍🔥 que deeemais"
+      - button "좋아요 2개" [ref=e34]
+      - button "답글 달기" [ref=e35]
+      - button [ref=e37]:
+        - img "좋아요"
+      - link "moalbalooshi님의 프로필 사진" [ref=e38]:
+        - image "moalbalooshi님의 프로필 사진"
+      - link "moalbalooshi" [ref=e39]
+      - link "2026년 8월 1일" [ref=e40]: "8주"
+      - text: "🔥🔥"
+      - button "좋아요 4개" [ref=e41]
+      - button "답글 달기" [ref=e42]
+      - button [ref=e44]:
+        - img "좋아요"
+      - link "runner_life_style_님의 프로필 사진" [ref=e45]:
+        - image "runner_life_style_님의 프로필 사진"
+      - link "runner_life_style_" [ref=e46]
+      - link "2026년 8월 1일" [ref=e47]: "8주"
+      - text: "🔥🔥🔥🔥🔥"
+      - button "좋아요 3개" [ref=e48]
+      - button "답글 달기" [ref=e49]
+      - button [ref=e51]:
+        - img "좋아요"
+      - link "dracamilamellovilella님의 프로필 사진" [ref=e52]:
+        - image "dracamilamellovilella님의 프로필 사진"
+      - link [ref=e53]:
+        - text: "dracamilamellovilella"
+        - img "인증됨"
+      - link "2026년 8월 1일" [ref=e54]: "8주"
+      - text: "😍😍😍"
+      - button "좋아요 3개" [ref=e55]
+      - button "답글 달기" [ref=e56]
+      - button [ref=e58]:
+        - img "좋아요"
+      - link "riannatravels님의 프로필 사진" [ref=e59]:
+        - image "riannatravels님의 프로필 사진"
+      - link "riannatravels" [ref=e60]
+      - link "2026년 8월 1일" [ref=e61]: "8주"
+      - text: "🔥🔥🔥🔥"
+      - button "좋아요 1개" [ref=e62]
+      - button "답글 달기" [ref=e63]
+      - button [ref=e65]:
+        - img "좋아요"
+      - link "_megannoel님의 프로필 사진" [ref=e66]:
+        - image "_megannoel님의 프로필 사진"
+      - link [ref=e67]:
+        - text: "_megannoel"
+        - img "인증됨"
+      - link "2026년 8월 1일" [ref=e68]: "8주"
+      - text: "she’s such a boss omg ❤️‍🔥❤️‍🔥"
+      - button "좋아요 1개" [ref=e69]
+      - button "답글 달기" [ref=e70]
+      - button "번역 보기" [ref=e71]
+      - button [ref=e73]:
+        - img "좋아요"
+      - link "amirboureslan님의 프로필 사진" [ref=e74]:
+        - image "amirboureslan님의 프로필 사진"
+      - link "amirboureslan" [ref=e75]
+      - link "2026년 8월 1일" [ref=e76]: "8주"
+      - text: "🔥🔥"
+      - button "좋아요 3개" [ref=e77]
+      - button "답글 달기" [ref=e78]
+      - button [ref=e80]:
+        - img "좋아요"
+      - link "pnw.princ3ss님의 프로필 사진" [ref=e81]:
+        - image "pnw.princ3ss님의 프로필 사진"
+      - link [ref=e82]:
+        - text: "pnw.princ3ss"
+        - img "인증됨"
+      - link "2026년 8월 2일" [ref=e83]: "8주"
+      - text: "🔥"
+      - button "좋아요 1개" [ref=e84]
+      - button "답글 달기" [ref=e85]
+      - button [ref=e87]:
+        - img "좋아요"
+      - link "_jeffcarpio님의 프로필 사진" [ref=e88]:
+        - image "_jeffcarpio님의 프로필 사진"
+      - link "_jeffcarpio" [ref=e89]
+      - link "2026년 8월 1일" [ref=e90]: "8주"
+      - text: "🔥🔥🔥🔥"
+      - button "좋아요 3개" [ref=e91]
+      - button "답글 달기" [ref=e92]
+      - button [ref=e94]:
+        - img "좋아요"
+      - link "cole_barash님의 프로필 사진" [ref=e95]:
+        - image "cole_barash님의 프로필 사진"
+      - link "cole_barash" [ref=e96]
+      - link "2026년 8월 4일" [ref=e97]: "8주"
+      - text: "Great work"
+      - link "@bhoste" [ref=e98]
+      - button "좋아요 1개" [ref=e99]
+      - button "답글 달기" [ref=e100]
+      - button "번역 보기" [ref=e101]
+      - button [ref=e103]:
+        - img "좋아요"
+      - link "noor_kuhail님의 프로필 사진" [ref=e104]:
+        - image "noor_kuhail님의 프로필 사진"
+      - link "noor_kuhail" [ref=e105]
+      - link "2026년 8월 1일" [ref=e106]: "8주"
+      - text: "😍😍😍😍"
+      - button "좋아요 3개" [ref=e107]
+      - button "답글 달기" [ref=e108]
+      - button [ref=e110]:
+        - img "좋아요"
+      - link "camguest님의 프로필 사진" [ref=e111]:
+        - image "camguest님의 프로필 사진"
+      - link [ref=e112]:
+        - text: "camguest"
+        - img "인증됨"
+      - link "2026년 8월 1일" [ref=e113]: "8주"
+      - text: "Obsessed with these!!"
+      - button "좋아요 1개" [ref=e114]
+      - button "답글 달기" [ref=e115]
+      - button "번역 보기" [ref=e116]
+      - button [ref=e118]:
+        - img "좋아요"
+      - link "caiopereirabarreto님의 프로필 사진" [ref=e119]:
+        - image "caiopereirabarreto님의 프로필 사진"
+      - link "caiopereirabarreto" [ref=e120]
+      - link "2026년 8월 1일" [ref=e121]: "8주"
+      - text: "🔥🔝🔥"
+      - button "좋아요 2개" [ref=e122]
+      - button "답글 달기" [ref=e123]
+      - button [ref=e125]:
+        - img "좋아요"
+      - link "marianaramirez______님의 프로필 사진" [ref=e126]:
+        - image "marianaramirez______님의 프로필 사진"
+      - link [ref=e127]:
+        - text: "marianaramirez______"
+        - img "인증됨"
+      - link "2026년 8월 1일" [ref=e128]: "8주"
+      - text: "🔥🔥🔥🔥🔥"
+      - button "좋아요 2개" [ref=e129]
+      - button "답글 달기" [ref=e130]
+      - button [ref=e132]:
+        - img "좋아요"
+      - link "maraton.merinocoach님의 프로필 사진" [ref=e133]:
+        - image "maraton.merinocoach님의 프로필 사진"
+      - link "maraton.merinocoach" [ref=e134]
+      - link "2026년 8월 1일" [ref=e135]: "8주"
+      - text: "Fresh!!!🔥🔥🔥"
+      - button "좋아요 2개" [ref=e136]
+      - button "답글 달기" [ref=e137]
+      - button [ref=e139]:
+        - img "좋아요"
+      - progressbar:
+        - img "읽어들이는 중..."
+    - region:
+      - button [ref=e141]:
+        - img "좋아요"
+      - button "6.3천" [ref=e142]
+      - button [ref=e143]:
+        - img "댓글 달기"
+      - button "77" [ref=e144]
+      - button "리포스트" [ref=e145]:
+        - img "리포스트"
+      - button "90" [ref=e146]
+      - button "공유하기" [ref=e147]:
+        - img "공유하기"
+      - button [ref=e148]:
+        - button [ref=e149]:
+          - img "저장"
+    - link "8월 1일" [ref=e150]
+    - region:
+      - link [ref=e151]
+      - form:
+        - button [ref=e152]:
+          - img "이모티콘"
+        - textbox "댓글 달기..." [ref=e153] [placeholder="댓글 달기..."]
+    - link "nikerunning" [ref=e154]
+    - text: "님의 게시물 더 보기"
+    - link [ref=e155]:
+      - image "What makes running After Dark Tour Sydney so electric? Let us count the ways... Mexico City, we’re e"
+      - img "슬라이드"
+    - link [ref=e156]:
+      - image "The starting line brought us together. The finish line at Sydney After Dark Tour showed us what we’r"
+      - img "클립"
+    - link [ref=e157]:
+      - image "See you tonight under the stars at Tumbalong Park, Sydney."
+      - img "슬라이드"
+    - link [ref=e158]:
+      - image "Speed isn’t just for raceday. It’s for Tuesday — or Wednesday, or Thursday — too. Introducing Pegasu"
+      - img "클립"
+    - link [ref=e159]:
+      - image "More athletes. More moments. More coverage. This is @swoosh.racing. Stay tapped in."
+      - img "클립"
+    - link [ref=e160]:
+      - image "Push your limits in a head-to-toe collection curated for speed and mid-race euphoria. The After Dark"
+      - img "슬라이드"
+  - contentinfo:
+    - link "Meta" [ref=e161]
+    - link "소개" [ref=e162]
+    - link "블로그" [ref=e163]
+    - link "채용 정보" [ref=e164]
+    - link "도움말" [ref=e165]
+    - link "API" [ref=e166]
+    - link "개인정보처리방침" [ref=e167]
+    - link "약관" [ref=e168]
+    - link "위치" [ref=e169]
+    - link "인기" [ref=e170]
+    - link "Instagram Lite" [ref=e171]
+    - link "Meta AI" [ref=e172]
+    - link "Muse" [ref=e173]
+    - link "Threads" [ref=e174]
+    - link "연락처 업로드 & 비사용자" [ref=e175]
+    - link "Meta Verified" [ref=e176]
+    - generic [ref=e177]:
+      - text: "한국어"
+      - img "아래쪽 V자형 아이콘"
+    - text: "© 2026 Instagram from Meta"
+- button [ref=e178]:
+  - tooltip: "3"
+- button "메시지" [ref=e179]:
+  - img "메시지"
+  - text: "메시지"
+  - button "사용자 아바타 피그마튜터 하이서님" [ref=e180]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 비비✨님" [ref=e181]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 𝒆𝒆𝒉𝒆𝒆𝒓𝒆𝒆 ║𝖼𝗁𝗋𝗂𝗌𝗍𝗂𝖺𝗇 • 𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝗋님" [ref=e182]:
+    - image "사용자 아바타"

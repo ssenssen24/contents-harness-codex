@@ -1,0 +1,183 @@
+{"kind":"deck","id":"pr/8y5edw","name":"Deck"}
+{"kind":"layout","layoutId":"31d0f2a6-4c41-4844-bb2c-a6fa01a9aee8","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"a296ac82-617d-4f7d-bf48-7d158d93dd8d","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/rp0haj","slide":1,"title":"RESEARCH / 01","textShapes":7}
+{"kind":"textbox","id":"sh/14v2t0z2","slide":1,"text":"RESEARCH / 01","textPreview":"RESEARCH / 01","textChars":13,"textLines":1,"bbox":[48,30,1140,30]}
+{"kind":"textbox","id":"sh/ehkjil0r","slide":1,"text":"함께 달리기를 말하는 방식","textPreview":"함께 달리기를 말하는 방식","textChars":14,"textLines":1,"bbox":[48,82,1184,90]}
+{"kind":"textbox","id":"sh/zitkrqhc","slide":1,"text":"RUNMATE / COMPETITOR RESEARCH · 2026.09.30","textPreview":"RUNMATE / COMPETITOR RESEARCH · 2026.09.30","textChars":42,"textLines":1,"bbox":[48,679,1060,24]}
+{"kind":"textbox","id":"sh/cf21gbil","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1180,679,52,24]}
+{"kind":"textbox","id":"sh/dgb2pgz6","slide":1,"text":"Nike Running × adidas Running","textPreview":"Nike Running × adidas Running","textChars":29,"textLines":1,"bbox":[48,207,1150,68]}
+{"kind":"textbox","id":"sh/qdkje10f","slide":1,"text":"최근 90일 경쟁사 조사\n확인한 게시물 중 정확한 좋아요 수 기준 6개 분석","textPreview":"최근 90일 경쟁사 조사 | 확인한 게시물 중 정확한 좋아요 수 기준 6개 분석","textChars":42,"textLines":2,"bbox":[48,312,1130,114]}
+{"kind":"textbox","id":"sh/retkn610","slide":1,"text":"기간  2026.07.02 08:42 — 09.30 08:42 KST\n방법  Aside 화면·DOM 직접 열람 / 계정 통합 순위\n목적  런메이트의 다음 카드뉴스 주제 선택","textPreview":"기간  2026.07.02 08:42 — 09.30 08:42 KST | 방법  Aside 화면·DOM 직접 열람 / 계정 통합 순위 | 목적  런메이트의 다음 카드뉴스 주제 선택","textChars":96,"textLines":3,"bbox":[48,493,1130,142]}
+{"kind":"notes","id":"nt/rp0haj","slide":1,"text":"기준 문서: brand.md, content-design.md. 확인한 게시물 중 정확한 좋아요 수와 게시일을 모두 확인한 후보만 순위에 포함했다. 만 단위 축약 표시 게시물은 null로 기록하고 제외했으므로, 이 목록은 전체 인기 Top 6가 아니다. 선정작보다 실제 좋아요가 많은 제외 게시물이 존재한다. 프로필에 보이지 않는 보관·삭제·제한 게시물은 확인할 수 없다. 영상 전편·캐러셀 모든 장을 분석한 것은 아니며, 도달·광고 집행·성과의 원인은 미확인이다."}
+{"kind":"slide","id":"sl/ace82i","slide":2,"title":"READ THIS FIRST","textShapes":7}
+{"kind":"textbox","id":"sh/y1crator","slide":2,"text":"READ THIS FIRST","textPreview":"READ THIS FIRST","textChars":15,"textLines":1,"bbox":[48,30,1140,30]}
+{"kind":"textbox","id":"sh/l4nq58ni","slide":2,"text":"이 보고서의 순위에는 한계가 있습니다","textPreview":"이 보고서의 순위에는 한계가 있습니다","textChars":20,"textLines":1,"bbox":[48,82,1184,90]}
+{"kind":"textbox","id":"sh/k3e9c36x","slide":2,"text":"RUNMATE / COMPETITOR RESEARCH · 2026.09.30","textPreview":"RUNMATE / COMPETITOR RESEARCH · 2026.09.30","textChars":42,"textLines":1,"bbox":[48,679,1060,24]}
+{"kind":"textbox","id":"sh/byl8zepg","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1180,679,52,24]}
+{"kind":"textbox","id":"sh/qxc76tov","slide":2,"text":"전체 인기 Top 6로 해석하지 않습니다.","textPreview":"전체 인기 Top 6로 해석하지 않습니다.","textChars":23,"textLines":1,"bbox":[48,195,1180,60]}
+{"kind":"textbox","id":"sh/x03q1o7m","slide":2,"text":"01  ‘만’ 단위 축약 수치를 정확한 정수로 바꾸지 않았습니다.\n02  축약 표시 게시물은 순위에서 제외하고 출처에 따로 기록했습니다.\n03  선정 목록보다 실제 좋아요가 많은 제외 게시물이 존재합니다.\n04  조회수·도달·광고 집행·참여율·성과 원인은 확인되지 않았습니다.","textPreview":"01  ‘만’ 단위 축약 수치를 정확한 정수로 바꾸지 않았습니다. | 02  축약 표시 게시물은 순위에서 제외하고 출처에 따로 기록했습니다. | 03  선정 목록보다 실제 좋아요가 많은 제외 게시물이 존재합니다. | 04  조회수·도달·광고 집행...","textChars":154,"textLines":4,"bbox":[48,282,1180,250]}
+{"kind":"textbox","id":"sh/czu98j61","slide":2,"text":"기간 내 게시 시각 확인: Nike 27개 / adidas 67개.\n정확한 좋아요 확인 50개에서 6개 선정. 숨김·축약 수치의 한계는 남아 있습니다.","textPreview":"기간 내 게시 시각 확인: Nike 27개 / adidas 67개. | 정확한 좋아요 확인 50개에서 6개 선정. 숨김·축약 수치의 한계는 남아 있습니다.","textChars":84,"textLines":2,"bbox":[48,550,1170,90]}
+{"kind":"notes","id":"nt/ace82i","slide":2,"text":"확인한 게시물 중 정확한 좋아요 수와 게시일을 모두 확인한 후보만 순위에 포함했다. 만 단위 축약 표시 게시물은 null로 기록하고 제외했으므로, 이 목록은 전체 인기 Top 6가 아니다. 선정작보다 실제 좋아요가 많은 제외 게시물이 존재한다. 프로필에 보이지 않는 보관·삭제·제한 게시물은 확인할 수 없다. 영상 전편·캐러셀 모든 장을 분석한 것은 아니며, 도달·광고 집행·성과의 원인은 미확인이다.\n{\"nikerunning\":{\"status\":\"partial\",\"note\":\"프로필 기간 경계 확인. 기간 내 개별 게시 시각 확인 27개. 목록에 표시된 공동 게시물 포함. 숨김·보관·삭제 게시물과 정확한 수치가 표시되지 않는 좋아요는 미확인. 상세 날짜를 확인하지 않은 더 오래된 발견 후보는 순위에서 제외.\"},\"adidasrunning\":{\"status\":\"partial\",\"note\":\"프로필 기간 경계 확인. 기간 내 개별 게시 시각 확인 67개. 목록에 표시된 공동 게시물 포함. 숨김·보관·삭제 게시물과 정확한 수치가 표시되지 않는 좋아요는 미확인. 상세 날짜를 확인하지 않은 더 오래된 발견 후보는 순위에서 제외.\"}}"}
+{"kind":"slide","id":"sl/4d904o","slide":3,"title":"LIMITATION / EXAMPLES","textShapes":13}
+{"kind":"textbox","id":"sh/epona14f","slide":3,"text":"LIMITATION / EXAMPLES","textPreview":"LIMITATION / EXAMPLES","textChars":21,"textLines":1,"bbox":[48,30,1140,30]}
+{"kind":"textbox","id":"sh/1cfmlwn6","slide":3,"text":"큰 반응의 게시물도 순위에서 빠졌습니다","textPreview":"큰 반응의 게시물도 순위에서 빠졌습니다","textChars":21,"textLines":1,"bbox":[48,82,1184,90]}
+{"kind":"textbox","id":"sh/0b65crml","slide":3,"text":"RUNMATE / COMPETITOR RESEARCH · 2026.09.30","textPreview":"RUNMATE / COMPETITOR RESEARCH · 2026.09.30","textChars":42,"textLines":1,"bbox":[48,679,1060,24]}
+{"kind":"textbox","id":"sh/neh4n65c","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1180,679,52,24]}
+{"kind":"textbox","id":"sh/md8ne14r","slide":3,"text":"11.7만 표시","textPreview":"11.7만 표시","textChars":8,"textLines":1,"bbox":[48,195,410,75]}
+{"kind":"textbox","id":"sh/9gzmpgn2","slide":3,"text":"정확한 정수 미확인 → 순위 제외","textPreview":"정확한 정수 미확인 → 순위 제외","textChars":18,"textLines":1,"bbox":[465,199,755,56]}
+{"kind":"textbox","id":"sh/ofq5gbmx","slide":3,"text":"a001 · adidasrunning · 게시 2026-09-22 UTC","textPreview":"a001 · adidasrunning · 게시 2026-09-22 UTC","textChars":40,"textLines":1,"bbox":[465,263,755,35]}
+{"kind":"textbox","id":"sh/bihor658","slide":3,"text":"https://www.instagram.com/adidasrunning/p/DdlQYW8DK7f/","textPreview":"https://www.instagram.com/adidasrunning/p/DdlQYW8DK7f/","textChars":54,"textLines":1,"bbox":[48,321,1180,35]}
+{"kind":"textbox","id":"sh/ah8nil4n","slide":3,"text":"19.3만 표시","textPreview":"19.3만 표시","textChars":8,"textLines":1,"bbox":[48,400,410,75]}
+{"kind":"textbox","id":"sh/ozmlc3md","slide":3,"text":"정확한 정수 미확인 → 순위 제외","textPreview":"정확한 정수 미확인 → 순위 제외","textChars":18,"textLines":1,"bbox":[465,404,755,56]}
+{"kind":"textbox","id":"sh/p0vm583i","slide":3,"text":"a042 · adidasrunning · 게시 2026-08-23 UTC","textPreview":"a042 · adidasrunning · 게시 2026-08-23 UTC","textChars":40,"textLines":1,"bbox":[465,468,755,35]}
+{"kind":"textbox","id":"sh/2x43at47","slide":3,"text":"https://www.instagram.com/adidasrunning/p/DcYhRAzDOJA/","textPreview":"https://www.instagram.com/adidasrunning/p/DcYhRAzDOJA/","textChars":54,"textLines":1,"bbox":[48,526,1180,35]}
+{"kind":"textbox","id":"sh/nyd43yls","slide":3,"text":"화면의 축약값을 임의 환산하지 않았습니다. 아래 선정작을 전체 인기 순위로 사용하지 마세요.","textPreview":"화면의 축약값을 임의 환산하지 않았습니다. 아래 선정작을 전체 인기 순위로 사용하지 마세요.","textChars":51,"textLines":1,"bbox":[48,621,1185,44]}
+{"kind":"notes","id":"nt/4d904o","slide":3,"text":"https://www.instagram.com/adidasrunning/p/DdlQYW8DK7f/\n확인 2026-09-29T23:53:03.767Z\n화면 표시값 '11.7만'. 축약 표시는 정확한 정수로 환산하지 않음.\nhttps://www.instagram.com/adidasrunning/p/DcYhRAzDOJA/\n확인 2026-09-30T00:06:38.610Z\n화면 표시값 '19.3만'. 축약 표시는 정확한 정수로 환산하지 않음."}
+{"kind":"slide","id":"sl/gjxp63","slide":4,"title":"OBSERVED RANKING","textShapes":29}
+{"kind":"textbox","id":"sh/gvuhszyl","slide":4,"text":"OBSERVED RANKING","textPreview":"OBSERVED RANKING","textChars":16,"textLines":1,"bbox":[48,30,1140,30]}
+{"kind":"textbox","id":"sh/fulgjuh0","slide":4,"text":"확인한 게시물 중 좋아요 순위","textPreview":"확인한 게시물 중 좋아요 순위","textChars":16,"textLines":1,"bbox":[48,82,1184,90]}
+{"kind":"textbox","id":"sh/etszq9gf","slide":4,"text":"RUNMATE / COMPETITOR RESEARCH · 2026.09.30","textPreview":"RUNMATE / COMPETITOR RESEARCH · 2026.09.30","textChars":42,"textLines":1,"bbox":[48,679,1060,24]}
+{"kind":"textbox","id":"sh/p03ipoz2","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1180,679,52,24]}
+{"kind":"textbox","id":"sh/ozuhwjyh","slide":4,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[48,190,63,47]}
+{"kind":"textbox","id":"sh/3ylgnehw","slide":4,"text":"제품의 탄생 과정을 한 장면으로","textPreview":"제품의 탄생 과정을 한 장면으로","textChars":17,"textLines":1,"bbox":[131,190,695,41]}
+{"kind":"textbox","id":"sh/2xczu9gb","slide":4,"text":"adidasrunning · a038","textPreview":"adidasrunning · a038","textChars":20,"textLines":1,"bbox":[843,193,212,33]}
+{"kind":"textbox","id":"sh/54jydkzy","slide":4,"text":"9,799","textPreview":"9,799","textChars":5,"textLines":1,"bbox":[1080,190,150,42]}
+{"kind":"textbox","id":"sh/43ahkfid","slide":4,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[48,257,63,47]}
+{"kind":"textbox","id":"sh/e9cb6l8z","slide":4,"text":"한 장면과 큰 이름으로 전하는 경기 결과","textPreview":"한 장면과 큰 이름으로 전하는 경기 결과","textChars":22,"textLines":1,"bbox":[131,257,695,41]}
+{"kind":"textbox","id":"sh/zalcfqpk","slide":4,"text":"nikerunning · n027","textPreview":"nikerunning · n027","textChars":18,"textLines":1,"bbox":[843,260,212,33]}
+{"kind":"textbox","id":"sh/0but8vq5","slide":4,"text":"9,584","textPreview":"9,584","textChars":5,"textLines":1,"bbox":[1080,257,150,42]}
+{"kind":"textbox","id":"sh/lc3uh07q","slide":4,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[48,324,63,47]}
+{"kind":"textbox","id":"sh/mdcva58b","slide":4,"text":"기록 소식의 첫 장을 감정으로 보여주기","textPreview":"기록 소식의 첫 장을 감정으로 보여주기","textChars":21,"textLines":1,"bbox":[131,324,695,41]}
+{"kind":"textbox","id":"sh/nylcjapw","slide":4,"text":"adidasrunning · a023","textPreview":"adidasrunning · a023","textChars":20,"textLines":1,"bbox":[843,327,212,33]}
+{"kind":"textbox","id":"sh/8zedcvqh","slide":4,"text":"8,806","textPreview":"8,806","textChars":5,"textLines":1,"bbox":[1080,324,150,42]}
+{"kind":"textbox","id":"sh/90nul07m","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[48,391,63,47]}
+{"kind":"textbox","id":"sh/a1wve587","slide":4,"text":"러닝 경험을 공간으로 보여주기","textPreview":"러닝 경험을 공간으로 보여주기","textChars":16,"textLines":1,"bbox":[131,391,695,41]}
+{"kind":"textbox","id":"sh/v25cnaps","slide":4,"text":"adidasrunning · a011","textPreview":"adidasrunning · a011","textChars":20,"textLines":1,"bbox":[843,394,212,33]}
+{"kind":"textbox","id":"sh/765cva50","slide":4,"text":"8,803","textPreview":"8,803","textChars":5,"textLines":1,"bbox":[1080,391,150,42]}
+{"kind":"textbox","id":"sh/65wb25of","slide":4,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[48,458,63,47]}
+{"kind":"textbox","id":"sh/t87uxkn6","slide":4,"text":"작은 디테일을 주인공으로 만들기","textPreview":"작은 디테일을 주인공으로 만들기","textChars":17,"textLines":1,"bbox":[131,458,695,41]}
+{"kind":"textbox","id":"sh/s7yt4f6l","slide":4,"text":"adidasrunning · a016","textPreview":"adidasrunning · a016","textChars":20,"textLines":1,"bbox":[843,461,212,33]}
+{"kind":"textbox","id":"sh/j25sra54","slide":4,"text":"8,409","textPreview":"8,409","textChars":5,"textLines":1,"bbox":[1080,458,150,42]}
+{"kind":"textbox","id":"sh/i1wby5oj","slide":4,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[48,525,63,47]}
+{"kind":"textbox","id":"sh/54nat0nu","slide":4,"text":"동네의 러닝을 엽서처럼 소개하기","textPreview":"동네의 러닝을 엽서처럼 소개하기","textChars":17,"textLines":1,"bbox":[131,525,695,41]}
+{"kind":"textbox","id":"sh/k3et0f69","slide":4,"text":"adidasrunning · a060","textPreview":"adidasrunning · a060","textChars":20,"textLines":1,"bbox":[843,528,212,33]}
+{"kind":"textbox","id":"sh/velsnq5s","slide":4,"text":"8,363","textPreview":"8,363","textChars":5,"textLines":1,"bbox":[1080,525,150,42]}
+{"kind":"textbox","id":"sh/adcbulo7","slide":4,"text":"조회 당시 수치 · 정확한 정수와 게시일이 확인된 후보만 비교","textPreview":"조회 당시 수치 · 정확한 정수와 게시일이 확인된 후보만 비교","textChars":34,"textLines":1,"bbox":[48,616,1180,40]}
+{"kind":"notes","id":"nt/gjxp63","slide":4,"text":""}
+{"kind":"slide","id":"sl/x1xr5v","slide":5,"title":"POST 01 / A038","textShapes":12}
+{"kind":"textbox","id":"sh/0filovm1","slide":5,"text":"POST 01 / A038","textPreview":"POST 01 / A038","textChars":14,"textLines":1,"bbox":[48,30,1140,30]}
+{"kind":"textbox","id":"sh/zu94fqlg","slide":5,"text":"제품의 탄생 과정을 한 장면으로","textPreview":"제품의 탄생 과정을 한 장면으로","textChars":17,"textLines":1,"bbox":[48,82,1184,90]}
+{"kind":"textbox","id":"sh/et03ml4b","slide":5,"text":"RUNMATE / COMPETITOR RESEARCH · 2026.09.30","textPreview":"RUNMATE / COMPETITOR RESEARCH · 2026.09.30","textChars":42,"textLines":1,"bbox":[48,679,1060,24]}
+{"kind":"textbox","id":"sh/9kbml03y","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1180,679,52,24]}
+{"kind":"textbox","id":"sh/nit4jqls","slide":5,"text":"관찰 · 핵심 내용","textPreview":"관찰 · 핵심 내용","textChars":10,"textLines":1,"bbox":[449,185,740,30]}
+{"kind":"textbox","id":"sh/mh03q547","slide":5,"text":"Agravic Speed Ultra Evo 개발 이야기를\n제품 소개와 연결합니다.","textPreview":"Agravic Speed Ultra Evo 개발 이야기를 | 제품 소개와 연결합니다.","textChars":45,"textLines":2,"bbox":[449,222,766,74]}
+{"kind":"textbox","id":"sh/xobmpk3u","slide":5,"text":"시각적 특징  첫 장: 장비에 놓인 분홍색 신발,\n청록빛과 기계 프레임의 강한 대비.","textPreview":"시각적 특징  첫 장: 장비에 놓인 분홍색 신발, | 청록빛과 기계 프레임의 강한 대비.","textChars":47,"textLines":2,"bbox":[449,309,766,87]}
+{"kind":"textbox","id":"sh/wn25wfm9","slide":5,"text":"해석  제품 뒤의 과정을 보여주며\n개발 서사에 구체성을 더합니다.","textPreview":"해석  제품 뒤의 과정을 보여주며 | 개발 서사에 구체성을 더합니다.","textChars":36,"textLines":2,"bbox":[449,413,766,77]}
+{"kind":"textbox","id":"sh/mdknylor","slide":5,"text":"활용  런메이트는 허구의 기술 대신\n함께 달리기 전의 작은 준비를 보여줍니다.","textPreview":"활용  런메이트는 허구의 기술 대신 | 함께 달리기 전의 작은 준비를 보여줍니다.","textChars":43,"textLines":2,"bbox":[449,505,766,82]}
+{"kind":"textbox","id":"sh/netorq5c","slide":5,"text":"adidasrunning / 좋아요 9,799 / 게시 2026-08-25 UTC","textPreview":"adidasrunning / 좋아요 9,799 / 게시 2026-08-25 UTC","textChars":45,"textLines":1,"bbox":[449,598,766,29]}
+{"kind":"textbox","id":"sh/8f250v6x","slide":5,"text":"확인 2026-09-30 UTC · 날짜는 원문 time 속성 기준","textPreview":"확인 2026-09-30 UTC · 날짜는 원문 time 속성 기준","textChars":37,"textLines":1,"bbox":[449,627,766,25]}
+{"kind":"textbox","id":"sh/9gb6t0ni","slide":5,"text":"https://www.instagram.com/adidasrunning/p/DcdsVnXDLex/","textPreview":"https://www.instagram.com/adidasrunning/p/DcdsVnXDLex/","textChars":54,"textLines":1,"bbox":[48,651,1184,23]}
+{"kind":"image","id":"im/p0fil0vy","slide":5,"name":"","alt":"첫 장: 장비에 놓인 분홍색 신발,\n청록빛과 기계 프레임의 강한 대비.","bbox":[48.67,184,363.66,454]}
+{"kind":"notes","id":"nt/x1xr5v","slide":5,"text":"a038\nhttps://www.instagram.com/adidasrunning/p/DcdsVnXDLex/\n확인 2026-09-30T00:06:21.114Z\n게시 2026-08-25T12:59:08.000Z\n관찰 Agravic Speed Ultra Evo 개발 이야기를 제품 소개와 연결합니다. 첫 장: 장비에 놓인 분홍색 신발, 청록빛과 기계 프레임의 강한 대비. 캐러셀은 첫 장, 릴스는 캡처 시점 장면만 시각 분석함.\n확인한 게시물 중 정확한 좋아요 수와 게시일을 모두 확인한 후보만 순위에 포함했다. 만 단위 축약 표시 게시물은 null로 기록하고 제외했으므로, 이 목록은 전체 인기 Top 6가 아니다. 선정작보다 실제 좋아요가 많은 제외 게시물이 존재한다. 프로필에 보이지 않는 보관·삭제·제한 게시물은 확인할 수 없다. 영상 전편·캐러셀 모든 장을 분석한 것은 아니며, 도달·광고 집행·성과의 원인은 미확인이다."}
+{"kind":"slide","id":"sl/kk7j50","slide":6,"title":"POST 02 / N027","textShapes":12}
+{"kind":"textbox","id":"sh/gj6d4b2p","slide":6,"text":"POST 02 / N027","textPreview":"POST 02 / N027","textChars":14,"textLines":1,"bbox":[48,30,1140,30]}
+{"kind":"textbox","id":"sh/fixwb6lk","slide":6,"text":"한 장면과 큰 이름으로 전하는 경기 결과","textPreview":"한 장면과 큰 이름으로 전하는 경기 결과","textChars":22,"textLines":1,"bbox":[48,82,1184,90]}
+{"kind":"textbox","id":"sh/uhov21kz","slide":6,"text":"RUNMATE / COMPETITOR RESEARCH · 2026.09.30","textPreview":"RUNMATE / COMPETITOR RESEARCH · 2026.09.30","textChars":42,"textLines":1,"bbox":[48,679,1060,24]}
+{"kind":"textbox","id":"sh/pofehg3m","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1180,679,52,24]}
+{"kind":"textbox","id":"sh/3mxwf6lg","slide":6,"text":"관찰 · 핵심 내용","textPreview":"관찰 · 핵심 내용","textChars":10,"textLines":1,"bbox":[449,185,740,30]}
+{"kind":"textbox","id":"sh/2lov6lkv","slide":6,"text":"Pre Classic 선수들의 경기 결과를\n사진과 선수명 중심으로 소개합니다.","textPreview":"Pre Classic 선수들의 경기 결과를 | 사진과 선수명 중심으로 소개합니다.","textChars":43,"textLines":2,"bbox":[449,222,766,74]}
+{"kind":"textbox","id":"sh/5svu5w32","slide":6,"text":"시각적 특징  첫 장: 모래에 착지하는 선수의 풀 사진,\n큰 흰색 이름과 작은 종목명.","textPreview":"시각적 특징  첫 장: 모래에 착지하는 선수의 풀 사진, | 큰 흰색 이름과 작은 종목명.","textChars":48,"textLines":2,"bbox":[449,309,766,87]}
+{"kind":"textbox","id":"sh/krmdwrmx","slide":6,"text":"해석  동작과 이름의 위계가 한눈에\n주인공을 알아보게 합니다.","textPreview":"해석  동작과 이름의 위계가 한눈에 | 주인공을 알아보게 합니다.","textChars":34,"textLines":2,"bbox":[449,413,766,77]}
+{"kind":"textbox","id":"sh/qtsjyx8n","slide":6,"text":"활용  승리·기록 대신 함께 달리는 장면에\n짧은 공감 문장 하나를 배치합니다.","textPreview":"활용  승리·기록 대신 함께 달리는 장면에 | 짧은 공감 문장 하나를 배치합니다.","textChars":43,"textLines":2,"bbox":[449,505,766,82]}
+{"kind":"textbox","id":"sh/bu10r2p8","slide":6,"text":"nikerunning / 좋아요 9,584 / 게시 2026-07-05 UTC","textPreview":"nikerunning / 좋아요 9,584 / 게시 2026-07-05 UTC","textChars":43,"textLines":1,"bbox":[449,598,766,29]}
+{"kind":"textbox","id":"sh/cfa107qt","slide":6,"text":"확인 2026-09-29 UTC · 날짜는 원문 time 속성 기준","textPreview":"확인 2026-09-29 UTC · 날짜는 원문 time 속성 기준","textChars":37,"textLines":1,"bbox":[449,627,766,25]}
+{"kind":"textbox","id":"sh/dgjitc7e","slide":6,"text":"https://www.instagram.com/nikerunning/p/DaZjf1jlbby/","textPreview":"https://www.instagram.com/nikerunning/p/DaZjf1jlbby/","textChars":52,"textLines":1,"bbox":[48,651,1184,23]}
+{"kind":"image","id":"im/dwz25of6","slide":6,"name":"","alt":"첫 장: 모래에 착지하는 선수의 풀 사진,\n큰 흰색 이름과 작은 종목명.","bbox":[48.67,184,363.66,454]}
+{"kind":"notes","id":"nt/kk7j50","slide":6,"text":"n027\nhttps://www.instagram.com/nikerunning/p/DaZjf1jlbby/\n확인 2026-09-29T23:52:10.918Z\n게시 2026-07-05T05:22:08.000Z\n관찰 Pre Classic 선수들의 경기 결과를 사진과 선수명 중심으로 소개합니다. 첫 장: 모래에 착지하는 선수의 풀 사진, 큰 흰색 이름과 작은 종목명. 캐러셀은 첫 장, 릴스는 캡처 시점 장면만 시각 분석함.\n확인한 게시물 중 정확한 좋아요 수와 게시일을 모두 확인한 후보만 순위에 포함했다. 만 단위 축약 표시 게시물은 null로 기록하고 제외했으므로, 이 목록은 전체 인기 Top 6가 아니다. 선정작보다 실제 좋아요가 많은 제외 게시물이 존재한다. 프로필에 보이지 않는 보관·삭제·제한 게시물은 확인할 수 없다. 영상 전편·캐러셀 모든 장을 분석한 것은 아니며, 도달·광고 집행·성과의 원인은 미확인이다."}
+{"kind":"slide","id":"sl/imz9ea","slide":7,"title":"POST 03 / A023","textShapes":12}
+{"kind":"textbox","id":"sh/x4vi5sfy","slide":7,"text":"POST 03 / A023","textPreview":"POST 03 / A023","textChars":14,"textLines":1,"bbox":[48,30,1140,30]}
+{"kind":"textbox","id":"sh/a14zudgn","slide":7,"text":"기록 소식의 첫 장을 감정으로 보여주기","textPreview":"기록 소식의 첫 장을 감정으로 보여주기","textChars":21,"textLines":1,"bbox":[48,82,1184,90]}
+{"kind":"textbox","id":"sh/b2d03ix8","slide":7,"text":"RUNMATE / COMPETITOR RESEARCH · 2026.09.30","textPreview":"RUNMATE / COMPETITOR RESEARCH · 2026.09.30","textChars":42,"textLines":1,"bbox":[48,679,1060,24]}
+{"kind":"textbox","id":"sh/ozmhsnyh","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1180,679,52,24]}
+{"kind":"textbox","id":"sh/2xkzqdgb","slide":7,"text":"관찰 · 핵심 내용","textPreview":"관찰 · 핵심 내용","textChars":10,"textLines":1,"bbox":[449,185,740,30]}
+{"kind":"textbox","id":"sh/nydgzixw","slide":7,"text":"캡션은 Agnes Ngetich의 하프마라톤\n기록 소식을 전합니다.","textPreview":"캡션은 Agnes Ngetich의 하프마라톤 | 기록 소식을 전합니다.","textChars":37,"textLines":2,"bbox":[449,222,766,74]}
+{"kind":"textbox","id":"sh/0b2ho3yl","slide":7,"text":"시각적 특징  얼굴과 두 손을 크게 크롭한 사진,\n넓은 자간의 흰색 세리프 제목.","textPreview":"시각적 특징  얼굴과 두 손을 크게 크롭한 사진, | 넓은 자간의 흰색 세리프 제목.","textChars":45,"textLines":2,"bbox":[449,309,766,87]}
+{"kind":"textbox","id":"sh/1cbyx8f6","slide":7,"text":"해석  숫자보다 인물의 표정이 먼저 보여\n소식에 감정을 붙이는 구성입니다.","textPreview":"해석  숫자보다 인물의 표정이 먼저 보여 | 소식에 감정을 붙이는 구성입니다.","textChars":41,"textLines":2,"bbox":[449,413,766,77]}
+{"kind":"textbox","id":"sh/9kru5wn6","slide":7,"text":"활용  완주 성과를 보장하지 않고, 함께 달린\n뒤 웃는 순간을 새 사진으로 보여줍니다.","textPreview":"활용  완주 성과를 보장하지 않고, 함께 달린 | 뒤 웃는 순간을 새 사진으로 보여줍니다.","textChars":48,"textLines":2,"bbox":[449,505,766,82]}
+{"kind":"textbox","id":"sh/8jitwrml","slide":7,"text":"adidasrunning / 좋아요 8,806 / 게시 2026-09-20 UTC","textPreview":"adidasrunning / 좋아요 8,806 / 게시 2026-09-20 UTC","textChars":45,"textLines":1,"bbox":[449,598,766,29]}
+{"kind":"textbox","id":"sh/7y9c3m50","slide":7,"text":"확인 2026-09-29 UTC · 날짜는 원문 time 속성 기준","textPreview":"확인 2026-09-29 UTC · 날짜는 원문 time 속성 기준","textChars":37,"textLines":1,"bbox":[449,627,766,25]}
+{"kind":"textbox","id":"sh/mx0buh4f","slide":7,"text":"https://www.instagram.com/adidasrunning/p/DdgQbnSjCBY/","textPreview":"https://www.instagram.com/adidasrunning/p/DdgQbnSjCBY/","textChars":54,"textLines":1,"bbox":[48,651,1184,23]}
+{"kind":"image","id":"im/47694j2l","slide":7,"name":"","alt":"얼굴과 두 손을 크게 크롭한 사진,\n넓은 자간의 흰색 세리프 제목.","bbox":[58.83,184,343.34,454]}
+{"kind":"notes","id":"nt/imz9ea","slide":7,"text":"a023\nhttps://www.instagram.com/adidasrunning/p/DdgQbnSjCBY/\n확인 2026-09-29T23:54:29.465Z\n게시 2026-09-20T09:24:24.000Z\n관찰 캡션은 Agnes Ngetich의 하프마라톤 기록 소식을 전합니다. 얼굴과 두 손을 크게 크롭한 사진, 넓은 자간의 흰색 세리프 제목. 캐러셀은 첫 장, 릴스는 캡처 시점 장면만 시각 분석함.\n확인한 게시물 중 정확한 좋아요 수와 게시일을 모두 확인한 후보만 순위에 포함했다. 만 단위 축약 표시 게시물은 null로 기록하고 제외했으므로, 이 목록은 전체 인기 Top 6가 아니다. 선정작보다 실제 좋아요가 많은 제외 게시물이 존재한다. 프로필에 보이지 않는 보관·삭제·제한 게시물은 확인할 수 없다. 영상 전편·캐러셀 모든 장을 분석한 것은 아니며, 도달·광고 집행·성과의 원인은 미확인이다."}
+{"kind":"slide","id":"sl/dqtuzr","slide":8,"title":"POST 04 / A011","textShapes":12}
+{"kind":"textbox","id":"sh/yt4jetg3","slide":8,"text":"POST 04 / A011","textPreview":"POST 04 / A011","textChars":14,"textLines":1,"bbox":[48,30,1140,30]}
+{"kind":"textbox","id":"sh/lwf298fu","slide":8,"text":"러닝 경험을 공간으로 보여주기","textPreview":"러닝 경험을 공간으로 보여주기","textChars":16,"textLines":1,"bbox":[48,82,1184,90]}
+{"kind":"textbox","id":"sh/kv6lg3y9","slide":8,"text":"RUNMATE / COMPETITOR RESEARCH · 2026.09.30","textPreview":"RUNMATE / COMPETITOR RESEARCH · 2026.09.30","textChars":42,"textLines":1,"bbox":[48,679,1060,24]}
+{"kind":"textbox","id":"sh/7yxkbix0","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1180,679,52,24]}
+{"kind":"textbox","id":"sh/t0f2dsfq","slide":8,"text":"관찰 · 핵심 내용","textPreview":"관찰 · 핵심 내용","textChars":10,"textLines":1,"bbox":[449,185,740,30]}
+{"kind":"textbox","id":"sh/8z6lknyl","slide":8,"text":"베를린 Home of Fast 전시 공간과\n제품을 소개합니다.","textPreview":"베를린 Home of Fast 전시 공간과 | 제품을 소개합니다.","textChars":34,"textLines":2,"bbox":[449,222,766,74]}
+{"kind":"textbox","id":"sh/n2dkzexg","slide":8,"text":"시각적 특징  분홍·파랑 공간 속 붉은 신발 한 켤레,\n중앙 진열대와 위쪽 로고.","textPreview":"시각적 특징  분홍·파랑 공간 속 붉은 신발 한 켤레, | 중앙 진열대와 위쪽 로고.","textChars":45,"textLines":2,"bbox":[449,309,766,87]}
+{"kind":"textbox","id":"sh/m1kj69gb","slide":8,"text":"해석  공간 전체의 색과 중심 피사체가\n현장에 들어온 느낌을 만듭니다.","textPreview":"해석  공간 전체의 색과 중심 피사체가 | 현장에 들어온 느낌을 만듭니다.","textChars":39,"textLines":2,"bbox":[449,413,766,77]}
+{"kind":"textbox","id":"sh/on6dg3uh","slide":8,"text":"활용  동네 러닝 장소가 보이는 넓은 장면을\n쓰되, 실제 운영 장소처럼 주장하지 않습니다.","textPreview":"활용  동네 러닝 장소가 보이는 넓은 장면을 | 쓰되, 실제 운영 장소처럼 주장하지 않습니다.","textChars":50,"textLines":2,"bbox":[449,505,766,82]}
+{"kind":"textbox","id":"sh/98fu98b2","slide":8,"text":"adidasrunning / 좋아요 8,803 / 게시 2026-09-26 UTC","textPreview":"adidasrunning / 좋아요 8,803 / 게시 2026-09-26 UTC","textChars":45,"textLines":1,"bbox":[449,598,766,29]}
+{"kind":"textbox","id":"sh/ml4vetcb","slide":8,"text":"확인 2026-09-29 UTC · 날짜는 원문 time 속성 기준","textPreview":"확인 2026-09-29 UTC · 날짜는 원문 time 속성 기준","textChars":37,"textLines":1,"bbox":[449,627,766,25]}
+{"kind":"textbox","id":"sh/nmdc7ytw","slide":8,"text":"https://www.instagram.com/adidasrunning/p/DdwfExQDHzk/","textPreview":"https://www.instagram.com/adidasrunning/p/DdwfExQDHzk/","textChars":54,"textLines":1,"bbox":[48,651,1184,23]}
+{"kind":"image","id":"im/filoj2tg","slide":8,"name":"","alt":"분홍·파랑 공간 속 붉은 신발 한 켤레,\n중앙 진열대와 위쪽 로고.","bbox":[60.06,184,340.88,454]}
+{"kind":"notes","id":"nt/dqtuzr","slide":8,"text":"a011\nhttps://www.instagram.com/adidasrunning/p/DdwfExQDHzk/\n확인 2026-09-29T23:53:40.019Z\n게시 2026-09-26T16:40:12.000Z\n관찰 베를린 Home of Fast 전시 공간과 제품을 소개합니다. 분홍·파랑 공간 속 붉은 신발 한 켤레, 중앙 진열대와 위쪽 로고. 캐러셀은 첫 장, 릴스는 캡처 시점 장면만 시각 분석함.\n확인한 게시물 중 정확한 좋아요 수와 게시일을 모두 확인한 후보만 순위에 포함했다. 만 단위 축약 표시 게시물은 null로 기록하고 제외했으므로, 이 목록은 전체 인기 Top 6가 아니다. 선정작보다 실제 좋아요가 많은 제외 게시물이 존재한다. 프로필에 보이지 않는 보관·삭제·제한 게시물은 확인할 수 없다. 영상 전편·캐러셀 모든 장을 분석한 것은 아니며, 도달·광고 집행·성과의 원인은 미확인이다."}
+{"kind":"slide","id":"sl/ru6sgh","slide":9,"title":"POST 05 / A016","textShapes":12}
+{"kind":"textbox","id":"sh/pk3q9onu","slide":9,"text":"POST 05 / A016","textPreview":"POST 05 / A016","textChars":14,"textLines":1,"bbox":[48,30,1140,30]}
+{"kind":"textbox","id":"sh/2xsrytoj","slide":9,"text":"작은 디테일을 주인공으로 만들기","textPreview":"작은 디테일을 주인공으로 만들기","textChars":17,"textLines":1,"bbox":[48,82,1184,90]}
+{"kind":"textbox","id":"sh/3il87y54","slide":9,"text":"RUNMATE / COMPETITOR RESEARCH · 2026.09.30","textPreview":"RUNMATE / COMPETITOR RESEARCH · 2026.09.30","textChars":42,"textLines":1,"bbox":[48,679,1060,24]}
+{"kind":"textbox","id":"sh/cnu9436l","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1180,679,52,24]}
+{"kind":"textbox","id":"sh/qlcr2tof","slide":9,"text":"관찰 · 핵심 내용","textPreview":"관찰 · 핵심 내용","textChars":10,"textLines":1,"bbox":[449,185,740,30]}
+{"kind":"textbox","id":"sh/rml8by50","slide":9,"text":"Adios Pro 5의 세부 요소를\n강조하는 제품 릴스입니다.","textPreview":"Adios Pro 5의 세부 요소를 | 강조하는 제품 릴스입니다.","textChars":34,"textLines":2,"bbox":[449,222,766,74]}
+{"kind":"textbox","id":"sh/0re98n6h","slide":9,"text":"시각적 특징  확인한 장면: 밝은 배경 위 손과\n신발 안쪽의 근접 촬영.","textPreview":"시각적 특징  확인한 장면: 밝은 배경 위 손과 | 신발 안쪽의 근접 촬영.","textChars":40,"textLines":2,"bbox":[449,309,766,87]}
+{"kind":"textbox","id":"sh/1snqh8n2","slide":9,"text":"해석  주변 정보를 덜어내 제품 디테일에\n시선이 머물게 하는 방식입니다.","textPreview":"해석  주변 정보를 덜어내 제품 디테일에 | 시선이 머물게 하는 방식입니다.","textChars":40,"textLines":2,"bbox":[449,413,766,77]}
+{"kind":"textbox","id":"sh/183axgvq","slide":9,"text":"활용  신발·보폭의 신규 디테일 컷으로\n편안하게 맞춰 달리는 순간을 표현합니다.","textPreview":"활용  신발·보폭의 신규 디테일 컷으로 | 편안하게 맞춰 달리는 순간을 표현합니다.","textChars":44,"textLines":2,"bbox":[449,505,766,82]}
+{"kind":"textbox","id":"sh/07utobu5","slide":9,"text":"adidasrunning / 좋아요 8,409 / 게시 2026-09-24 UTC","textPreview":"adidasrunning / 좋아요 8,409 / 게시 2026-09-24 UTC","textChars":45,"textLines":1,"bbox":[449,598,766,29]}
+{"kind":"textbox","id":"sh/z61sv6dk","slide":9,"text":"확인 2026-09-29 UTC · 날짜는 원문 time 속성 기준","textPreview":"확인 2026-09-29 UTC · 날짜는 원문 time 속성 기준","textChars":37,"textLines":1,"bbox":[449,627,766,25]}
+{"kind":"textbox","id":"sh/e5sbm1cz","slide":9,"text":"https://www.instagram.com/adidasrunning/reel/DdqgtSCsM7Y/","textPreview":"https://www.instagram.com/adidasrunning/reel/DdqgtSCsM7Y/","textChars":57,"textLines":1,"bbox":[48,651,1184,23]}
+{"kind":"image","id":"im/c7qpsjad","slide":9,"name":"","alt":"확인한 장면: 밝은 배경 위 손과\n신발 안쪽의 근접 촬영.","bbox":[102.79,184,255.42,454]}
+{"kind":"notes","id":"nt/ru6sgh","slide":9,"text":"a016\nhttps://www.instagram.com/adidasrunning/reel/DdqgtSCsM7Y/\n확인 2026-09-29T23:54:03.287Z\n게시 2026-09-24T09:00:07.000Z\n관찰 Adios Pro 5의 세부 요소를 강조하는 제품 릴스입니다. 확인한 장면: 밝은 배경 위 손과 신발 안쪽의 근접 촬영. 캐러셀은 첫 장, 릴스는 캡처 시점 장면만 시각 분석함.\n확인한 게시물 중 정확한 좋아요 수와 게시일을 모두 확인한 후보만 순위에 포함했다. 만 단위 축약 표시 게시물은 null로 기록하고 제외했으므로, 이 목록은 전체 인기 Top 6가 아니다. 선정작보다 실제 좋아요가 많은 제외 게시물이 존재한다. 프로필에 보이지 않는 보관·삭제·제한 게시물은 확인할 수 없다. 영상 전편·캐러셀 모든 장을 분석한 것은 아니며, 도달·광고 집행·성과의 원인은 미확인이다."}
+{"kind":"slide","id":"sl/o5toa1","slide":10,"title":"POST 06 / A060","textShapes":12}
+{"kind":"textbox","id":"sh/r2ps7yt8","slide":10,"text":"POST 06 / A060","textPreview":"POST 06 / A060","textChars":14,"textLines":1,"bbox":[48,30,1140,30]}
+{"kind":"textbox","id":"sh/s3y9g3ut","slide":10,"text":"동네의 러닝을 엽서처럼 소개하기","textPreview":"동네의 러닝을 엽서처럼 소개하기","textChars":17,"textLines":1,"bbox":[48,82,1184,90]}
+{"kind":"textbox","id":"sh/t47a98be","slide":10,"text":"RUNMATE / COMPETITOR RESEARCH · 2026.09.30","textPreview":"RUNMATE / COMPETITOR RESEARCH · 2026.09.30","textChars":42,"textLines":1,"bbox":[48,679,1060,24]}
+{"kind":"textbox","id":"sh/ixwra9cr","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1180,679,52,24]}
+{"kind":"textbox","id":"sh/4zy9cjux","slide":10,"text":"관찰 · 핵심 내용","textPreview":"관찰 · 핵심 내용","textChars":10,"textLines":1,"bbox":[449,185,740,30]}
+{"kind":"textbox","id":"sh/507a5obi","slide":10,"text":"LA 러닝 장면을 엽서 형식으로 묶어\nHyperboost 제품군을 소개합니다.","textPreview":"LA 러닝 장면을 엽서 형식으로 묶어 | Hyperboost 제품군을 소개합니다.","textChars":43,"textLines":2,"bbox":[449,222,766,74]}
+{"kind":"textbox","id":"sh/u9wr69cv","slide":10,"text":"시각적 특징  첫 장: 하늘을 배경으로 올려다본 러너,\n전경의 신발과 상단의 도시명.","textPreview":"시각적 특징  첫 장: 하늘을 배경으로 올려다본 러너, | 전경의 신발과 상단의 도시명.","textChars":47,"textLines":2,"bbox":[449,309,766,87]}
+{"kind":"textbox","id":"sh/va58zed0","slide":10,"text":"해석  장소와 관점이 제품 소개를\n하나의 러닝 장면으로 바꿉니다.","textPreview":"해석  장소와 관점이 제품 소개를 | 하나의 러닝 장면으로 바꿉니다.","textChars":36,"textLines":2,"bbox":[449,413,766,77]}
+{"kind":"textbox","id":"sh/ryx0rm18","slide":10,"text":"활용  익숙한 동네와 동행의 장면을 연결하되\n도시명·운영 지역을 임의로 붙이지 않습니다.","textPreview":"활용  익숙한 동네와 동행의 장면을 연결하되 | 도시명·운영 지역을 임의로 붙이지 않습니다.","textChars":49,"textLines":2,"bbox":[449,505,766,82]}
+{"kind":"textbox","id":"sh/6xozyhkn","slide":10,"text":"adidasrunning / 좋아요 8,363 / 게시 2026-07-21 UTC","textPreview":"adidasrunning / 좋아요 8,363 / 게시 2026-07-21 UTC","textChars":45,"textLines":1,"bbox":[449,598,766,29]}
+{"kind":"textbox","id":"sh/tkfitwje","slide":10,"text":"확인 2026-09-30 UTC · 날짜는 원문 time 속성 기준","textPreview":"확인 2026-09-30 UTC · 날짜는 원문 time 속성 기준","textChars":37,"textLines":1,"bbox":[449,627,766,25]}
+{"kind":"textbox","id":"sh/sj6h0r2t","slide":10,"text":"https://www.instagram.com/adidasrunning/p/DbDKXpTjKdr/","textPreview":"https://www.instagram.com/adidasrunning/p/DbDKXpTjKdr/","textChars":54,"textLines":1,"bbox":[48,651,1184,23]}
+{"kind":"image","id":"im/m50f6l8b","slide":10,"name":"","alt":"첫 장: 하늘을 배경으로 올려다본 러너,\n전경의 신발과 상단의 도시명.","bbox":[48,274.2,365,273.6]}
+{"kind":"notes","id":"nt/o5toa1","slide":10,"text":"a060\nhttps://www.instagram.com/adidasrunning/p/DbDKXpTjKdr/\n확인 2026-09-30T00:07:46.413Z\n게시 2026-07-21T09:10:40.000Z\n관찰 LA 러닝 장면을 엽서 형식으로 묶어 Hyperboost 제품군을 소개합니다. 첫 장: 하늘을 배경으로 올려다본 러너, 전경의 신발과 상단의 도시명. 캐러셀은 첫 장, 릴스는 캡처 시점 장면만 시각 분석함.\n확인한 게시물 중 정확한 좋아요 수와 게시일을 모두 확인한 후보만 순위에 포함했다. 만 단위 축약 표시 게시물은 null로 기록하고 제외했으므로, 이 목록은 전체 인기 Top 6가 아니다. 선정작보다 실제 좋아요가 많은 제외 게시물이 존재한다. 프로필에 보이지 않는 보관·삭제·제한 게시물은 확인할 수 없다. 영상 전편·캐러셀 모든 장을 분석한 것은 아니며, 도달·광고 집행·성과의 원인은 미확인이다."}
+{"kind":"slide","id":"sl/1fbnju","slide":11,"title":"INTERPRETATION","textShapes":8}
+{"kind":"textbox","id":"sh/03qlknqp","slide":11,"text":"INTERPRETATION","textPreview":"INTERPRETATION","textChars":14,"textLines":1,"bbox":[48,30,1140,30]}
+{"kind":"textbox","id":"sh/f2hkbip4","slide":11,"text":"경쟁사의 성과보다 전달 방식을 가져옵니다","textPreview":"경쟁사의 성과보다 전달 방식을 가져옵니다","textChars":22,"textLines":1,"bbox":[48,82,1184,90]}
+{"kind":"textbox","id":"sh/e183id8j","slide":11,"text":"RUNMATE / COMPETITOR RESEARCH · 2026.09.30","textPreview":"RUNMATE / COMPETITOR RESEARCH · 2026.09.30","textChars":42,"textLines":1,"bbox":[48,679,1060,24]}
+{"kind":"textbox","id":"sh/d0f2987y","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1180,679,52,24]}
+{"kind":"textbox","id":"sh/sz61g3qd","slide":11,"text":"한 장면 + 한 문장","textPreview":"한 장면 + 한 문장","textChars":11,"textLines":1,"bbox":[48,201,1140,54]}
+{"kind":"textbox","id":"sh/rexk7ips","slide":11,"text":"선수·제품·공간을 중심에 두고 짧은 문구로 읽는 순서를 만듭니다.\n런메이트에서는 평범한 동행 장면과 일상어로 전환할 수 있습니다.","textPreview":"선수·제품·공간을 중심에 두고 짧은 문구로 읽는 순서를 만듭니다. | 런메이트에서는 평범한 동행 장면과 일상어로 전환할 수 있습니다.","textChars":72,"textLines":2,"bbox":[48,272,1130,100]}
+{"kind":"textbox","id":"sh/qdojed87","slide":11,"text":"브랜드 기준이 사진 스타일의 우선순위","textPreview":"브랜드 기준이 사진 스타일의 우선순위","textChars":20,"textLines":1,"bbox":[48,425,1140,56]}
+{"kind":"textbox","id":"sh/xwj2lc72","slide":11,"text":"경쟁사의 승리·속도·제품 효능은 런메이트의 약속으로 옮기지 않습니다.\n신규 사진은 brand.md와 content-design.md의 편안한 동행을 따릅니다.","textPreview":"경쟁사의 승리·속도·제품 효능은 런메이트의 약속으로 옮기지 않습니다. | 신규 사진은 brand.md와 content-design.md의 편안한 동행을 따릅니다.","textChars":88,"textLines":2,"bbox":[48,497,1140,115]}
+{"kind":"notes","id":"nt/1fbnju","slide":11,"text":"Codex의 해석·기획 제안. 인과적 성과 분석 아님. 기준 문서 brand.md, content-design.md.\nhttps://www.instagram.com/adidasrunning/p/DcdsVnXDLex/\nhttps://www.instagram.com/nikerunning/p/DaZjf1jlbby/\nhttps://www.instagram.com/adidasrunning/p/DdgQbnSjCBY/\nhttps://www.instagram.com/adidasrunning/p/DdwfExQDHzk/\nhttps://www.instagram.com/adidasrunning/reel/DdqgtSCsM7Y/\nhttps://www.instagram.com/adidasrunning/p/DbDKXpTjKdr/"}
+{"kind":"slide","id":"sl/aifawn","slide":12,"title":"NEXT / SELECT A TOPIC","textShapes":14}
+{"kind":"textbox","id":"sh/4radc7al","slide":12,"text":"NEXT / SELECT A TOPIC","textPreview":"NEXT / SELECT A TOPIC","textChars":21,"textLines":1,"bbox":[48,30,1140,30]}
+{"kind":"textbox","id":"sh/3q1wj2t0","slide":12,"text":"다음 콘텐츠 주제 후보","textPreview":"다음 콘텐츠 주제 후보","textChars":12,"textLines":1,"bbox":[48,82,1184,90]}
+{"kind":"textbox","id":"sh/i5svaxsf","slide":12,"text":"RUNMATE / COMPETITOR RESEARCH · 2026.09.30","textPreview":"RUNMATE / COMPETITOR RESEARCH · 2026.09.30","textChars":42,"textLines":1,"bbox":[48,679,1060,24]}
+{"kind":"textbox","id":"sh/dw3epcb2","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1180,679,52,24]}
+{"kind":"textbox","id":"sh/svadgrax","slide":12,"text":"01  추천","textPreview":"01  추천","textChars":6,"textLines":1,"bbox":[48,185,180,40]}
+{"kind":"textbox","id":"sh/ru1wnmtc","slide":12,"text":"함께 달려도, 내 페이스는 그대로","textPreview":"함께 달려도, 내 페이스는 그대로","textChars":18,"textLines":1,"bbox":[236,185,990,48]}
+{"kind":"textbox","id":"sh/qtsvehsr","slide":12,"text":"대상: 다른 사람의 속도를 따라가는 것이 부담스러운 사람","textPreview":"대상: 다른 사람의 속도를 따라가는 것이 부담스러운 사람","textChars":31,"textLines":1,"bbox":[236,245,990,46]}
+{"kind":"textbox","id":"sh/t0zudsby","slide":12,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[48,328,180,40]}
+{"kind":"textbox","id":"sh/8zqd4nad","slide":12,"text":"혼자 달리기 심심한 날","textPreview":"혼자 달리기 심심한 날","textChars":12,"textLines":1,"bbox":[236,328,990,48]}
+{"kind":"textbox","id":"sh/29gnqhwf","slide":12,"text":"대상: 혼자 달리는 것이 심심한 러너","textPreview":"대상: 혼자 달리는 것이 심심한 러너","textChars":20,"textLines":1,"bbox":[236,388,990,46]}
+{"kind":"textbox","id":"sh/3ap4zmd0","slide":12,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[48,471,180,40]}
+{"kind":"textbox","id":"sh/4by5srel","slide":12,"text":"멀리 가지 않아도, 함께 달릴 수 있어요","textPreview":"멀리 가지 않아도, 함께 달릴 수 있어요","textChars":22,"textLines":1,"bbox":[236,471,990,48]}
+{"kind":"textbox","id":"sh/pc7m1wv6","slide":12,"text":"대상: 동네에서 가볍게 시작하고 싶은 사람","textPreview":"대상: 동네에서 가볍게 시작하고 싶은 사람","textChars":23,"textLines":1,"bbox":[236,531,990,46]}
+{"kind":"textbox","id":"sh/qd0nuhwb","slide":12,"text":"주제 선택 → plan.md 제시 → 기획 승인 → 신규 사진·HTML → 프리뷰 승인 → Figma","textPreview":"주제 선택 → plan.md 제시 → 기획 승인 → 신규 사진·HTML → 프리뷰 승인 → Figma","textChars":56,"textLines":1,"bbox":[48,627,1185,40]}
+{"kind":"notes","id":"nt/aifawn","slide":12,"text":"주제는 경쟁사의 성과에서 증명된 결론이 아닌 brand.md에 근거한 Codex 제안. 사용자 선택과 기획 승인은 별도."}

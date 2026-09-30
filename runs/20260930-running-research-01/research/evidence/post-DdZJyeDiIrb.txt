@@ -1,0 +1,286 @@
+- title: "Instagram" [url=https://www.instagram.com/nikerunning/reel/DdZJyeDiIrb/]
+- link [ref=e1]:
+  - img "Instagram"
+- link [ref=e2]:
+  - img "홈"
+- link [ref=e3]:
+  - img "릴스"
+- link [ref=e4]:
+  - img "메시지"
+- link [ref=e5]:
+  - img "검색"
+- link [ref=e6]:
+  - img "알림"
+- link [ref=e7]:
+  - img "새로운 게시물"
+- link [ref=e8]:
+  - img "프로페셔널 대시보드"
+- link [ref=e9]:
+  - link "huddlingclub님의 프로필 사진" [ref=e10]:
+    - image "huddlingclub님의 프로필 사진"
+- link [ref=e11]:
+  - img "설정"
+- link [ref=e12]:
+  - img "Meta의 다른 앱"
+- region:
+  - main:
+    - group "Video player":
+      - slider "볼륨 조정" [ref=e14]:
+        - button "오디오 소리 꺼짐" [ref=e15]:
+          - img "오디오 소리 꺼짐"
+    - button "nikerunning님의 프로필 사진" [ref=e16] [disabled]:
+      - canvas [ref=e17] [size=41x41]
+      - link "nikerunning님의 프로필 사진" [ref=e18] [disabled]:
+        - image "nikerunning님의 프로필 사진"
+    - link "nikerunning" [ref=e19]
+    - img "인증됨"
+    - link "오리지널 오디오" [ref=e20]
+    - button "팔로우" [ref=e21]
+    - button [ref=e22]:
+      - img "옵션 더 보기"
+    - generic [ref=e23] [scrollable]:
+      - link "nikerunning님의 프로필 사진" [ref=e24]:
+        - image "nikerunning님의 프로필 사진"
+      - link [ref=e25]:
+        - text: "nikerunning"
+        - img "인증됨"
+      - text: "1주 Faster times are in the air.The Nike Alphafly 4 is coming to a race near you. Broader availability of our next-generation Alphafly coming October 29 at nike.com and select retail locations. Head to the link in bio to learn more."
+      - button "번역 보기" [ref=e26]
+      - link "iluvsarahii님의 프로필 사진" [ref=e27]:
+        - image "iluvsarahii님의 프로필 사진"
+      - link [ref=e28]:
+        - text: "iluvsarahii"
+        - img "인증됨"
+      - link "2026년 9월 18일" [ref=e29]: "1주"
+      - text: "Kinda need these now 😍"
+      - button "좋아요 30개" [ref=e30]
+      - button "답글 달기" [ref=e31]
+      - button "번역 보기" [ref=e32]
+      - button [ref=e34]:
+        - img "좋아요"
+      - button "답글 1개 모두 보기" [ref=e35]
+      - link "lets_run_faster님의 프로필 사진" [ref=e36]:
+        - image "lets_run_faster님의 프로필 사진"
+      - link "lets_run_faster" [ref=e37]
+      - link "2026년 9월 18일" [ref=e38]: "1주"
+      - text: "Let’s go, we’re so ready 🔥"
+      - button "좋아요 3개" [ref=e39]
+      - button "답글 달기" [ref=e40]
+      - button "번역 보기" [ref=e41]
+      - button [ref=e43]:
+        - img "좋아요"
+      - link "viicruns님의 프로필 사진" [ref=e44]:
+        - image "viicruns님의 프로필 사진"
+      - link [ref=e45]:
+        - text: "viicruns"
+        - img "인증됨"
+      - link "2026년 9월 18일" [ref=e46]: "1주"
+      - text: "IT’S FINALLY HERE 🔥🔥🔥"
+      - button "좋아요 7개" [ref=e47]
+      - button "답글 달기" [ref=e48]
+      - button "번역 보기" [ref=e49]
+      - button [ref=e51]:
+        - img "좋아요"
+      - link "cchungy_님의 프로필 사진" [ref=e52]:
+        - image "cchungy_님의 프로필 사진"
+      - link [ref=e53]:
+        - text: "cchungy_"
+        - img "인증됨"
+      - link "2026년 9월 18일" [ref=e54]: "1주"
+      - text: "We’ve been waiting for this 🔥🔥🔥"
+      - button "좋아요 4개" [ref=e55]
+      - button "답글 달기" [ref=e56]
+      - button "번역 보기" [ref=e57]
+      - button [ref=e59]:
+        - img "좋아요"
+      - link "runnersnerd님의 프로필 사진" [ref=e60]:
+        - image "runnersnerd님의 프로필 사진"
+      - link [ref=e61]:
+        - text: "runnersnerd"
+        - img "인증됨"
+      - link "2026년 9월 18일" [ref=e62]: "1주"
+      - text: "ready."
+      - button "좋아요 23개" [ref=e63]
+      - button "답글 달기" [ref=e64]
+      - button [ref=e66]:
+        - img "좋아요"
+      - button "답글 1개 모두 보기" [ref=e67]
+      - link "runningbykari님의 프로필 사진" [ref=e68]:
+        - image "runningbykari님의 프로필 사진"
+      - link "runningbykari" [ref=e69]
+      - link "2026년 9월 18일" [ref=e70]: "1주"
+      - text: "Fireeee!!!"
+      - button "좋아요 1개" [ref=e71]
+      - button "답글 달기" [ref=e72]
+      - button [ref=e74]:
+        - img "좋아요"
+      - link "andreaberenice_dltfit님의 프로필 사진" [ref=e75]:
+        - image "andreaberenice_dltfit님의 프로필 사진"
+      - link [ref=e76]:
+        - text: "andreaberenice_dltfit"
+        - img "인증됨"
+      - link "2026년 9월 18일" [ref=e77]: "1주"
+      - text: "Alpha Game Strong 🔥🙌🙌 My Ult Fav"
+      - button "좋아요 1개" [ref=e78]
+      - button "답글 달기" [ref=e79]
+      - button "번역 보기" [ref=e80]
+      - button [ref=e82]:
+        - img "좋아요"
+      - link "josetorressales님의 프로필 사진" [ref=e83]:
+        - image "josetorressales님의 프로필 사진"
+      - link "josetorressales" [ref=e84]
+      - link "2026년 9월 19일" [ref=e85]: "1주"
+      - link "@nathaliaarbelaez" [ref=e86]
+      - text: "Look at this!🔥🔥"
+      - button "좋아요 1개" [ref=e87]
+      - button "답글 달기" [ref=e88]
+      - button "번역 보기" [ref=e89]
+      - button [ref=e91]:
+        - img "좋아요"
+      - button "답글 1개 모두 보기" [ref=e92]
+      - link "tim_cheruiyot님의 프로필 사진" [ref=e93]:
+        - image "tim_cheruiyot님의 프로필 사진"
+      - link [ref=e94]:
+        - text: "tim_cheruiyot"
+        - img "인증됨"
+      - link "2026년 9월 21일" [ref=e95]: "1주"
+      - text: "For real 👀🔥cznt wait"
+      - button "좋아요 2개" [ref=e96]
+      - button "답글 달기" [ref=e97]
+      - button "번역 보기" [ref=e98]
+      - button [ref=e100]:
+        - img "좋아요"
+      - link "fogell_mcloving님의 프로필 사진" [ref=e101]:
+        - image "fogell_mcloving님의 프로필 사진"
+      - link "fogell_mcloving" [ref=e102]
+      - link "2026년 9월 18일" [ref=e103]: "1주"
+      - link "@nikerunning" [ref=e104]
+      - text: "send me a pair so I can get some of these fast time 😩🙏🏾🙏🏾🙏🏾"
+      - button "좋아요 2개" [ref=e105]
+      - button "답글 달기" [ref=e106]
+      - button "번역 보기" [ref=e107]
+      - button [ref=e109]:
+        - img "좋아요"
+      - link "kodythompson_님의 프로필 사진" [ref=e110]:
+        - image "kodythompson_님의 프로필 사진"
+      - link [ref=e111]:
+        - text: "kodythompson_"
+        - img "인증됨"
+      - link "2026년 9월 18일" [ref=e112]: "1주"
+      - text: "Fast enough to save the stock price?? 📈🔥"
+      - button "좋아요 73개" [ref=e113]
+      - button "답글 달기" [ref=e114]
+      - button "번역 보기" [ref=e115]
+      - button [ref=e117]:
+        - img "좋아요"
+      - button "답글 3개 모두 보기" [ref=e118]
+      - link "therunningeffect님의 프로필 사진" [ref=e119]:
+        - image "therunningeffect님의 프로필 사진"
+      - link [ref=e120]:
+        - text: "therunningeffect"
+        - img "인증됨"
+      - link "2026년 9월 18일" [ref=e121]: "1주"
+      - text: "Need it."
+      - button "좋아요 51개" [ref=e122]
+      - button "답글 달기" [ref=e123]
+      - button "번역 보기" [ref=e124]
+      - button [ref=e126]:
+        - img "좋아요"
+      - link "beta010님의 프로필 사진" [ref=e127]:
+        - image "beta010님의 프로필 사진"
+      - link "beta010" [ref=e128]
+      - link "2026년 9월 18일" [ref=e129]: "1주"
+      - link "@marcossundblad" [ref=e130]
+      - text: "🔥"
+      - button "좋아요 1개" [ref=e131]
+      - button "답글 달기" [ref=e132]
+      - button [ref=e134]:
+        - img "좋아요"
+      - button "답글 1개 모두 보기" [ref=e135]
+      - link "ashcamac_art님의 프로필 사진" [ref=e136]:
+        - image "ashcamac_art님의 프로필 사진"
+      - link "ashcamac_art" [ref=e137]
+      - link "2026년 9월 18일" [ref=e138]: "1주"
+      - link "@lfrosty88" [ref=e139]
+      - text: "good lord"
+      - button "좋아요 1개" [ref=e140]
+      - button "답글 달기" [ref=e141]
+      - button "번역 보기" [ref=e142]
+      - button [ref=e144]:
+        - img "좋아요"
+      - progressbar:
+        - img "읽어들이는 중..."
+    - region:
+      - button [ref=e146]:
+        - img "좋아요"
+      - button "7.1만" [ref=e147]
+      - button [ref=e148]:
+        - img "댓글 달기"
+      - button "1.1천" [ref=e149]
+      - button "리포스트" [ref=e150]:
+        - img "리포스트"
+      - button "3천" [ref=e151]
+      - button "공유하기" [ref=e152]:
+        - img "공유하기"
+      - button [ref=e153]:
+        - button [ref=e154]:
+          - img "저장"
+    - link "9월 18일" [ref=e155]
+    - region:
+      - link [ref=e156]
+      - form:
+        - button [ref=e157]:
+          - img "이모티콘"
+        - textbox "댓글 달기..." [ref=e158] [placeholder="댓글 달기..."]
+    - link "nikerunning" [ref=e159]
+    - text: "님의 게시물 더 보기"
+    - link [ref=e160]:
+      - image "What makes running After Dark Tour Sydney so electric? Let us count the ways... Mexico City, we’re e"
+      - img "슬라이드"
+    - link [ref=e161]:
+      - image "The starting line brought us together. The finish line at Sydney After Dark Tour showed us what we’r"
+      - img "클립"
+    - link [ref=e162]:
+      - image "See you tonight under the stars at Tumbalong Park, Sydney."
+      - img "슬라이드"
+    - link [ref=e163]:
+      - image "Speed isn’t just for raceday. It’s for Tuesday — or Wednesday, or Thursday — too. Introducing Pegasu"
+      - img "클립"
+    - link [ref=e164]:
+      - image "More athletes. More moments. More coverage. This is @swoosh.racing. Stay tapped in."
+      - img "클립"
+    - link [ref=e165]:
+      - image "Push your limits in a head-to-toe collection curated for speed and mid-race euphoria. The After Dark"
+      - img "슬라이드"
+  - contentinfo:
+    - link "Meta" [ref=e166]
+    - link "소개" [ref=e167]
+    - link "블로그" [ref=e168]
+    - link "채용 정보" [ref=e169]
+    - link "도움말" [ref=e170]
+    - link "API" [ref=e171]
+    - link "개인정보처리방침" [ref=e172]
+    - link "약관" [ref=e173]
+    - link "위치" [ref=e174]
+    - link "인기" [ref=e175]
+    - link "Instagram Lite" [ref=e176]
+    - link "Meta AI" [ref=e177]
+    - link "Muse" [ref=e178]
+    - link "Threads" [ref=e179]
+    - link "연락처 업로드 & 비사용자" [ref=e180]
+    - link "Meta Verified" [ref=e181]
+    - generic [ref=e182]:
+      - text: "한국어"
+      - img "아래쪽 V자형 아이콘"
+    - text: "© 2026 Instagram from Meta"
+- button [ref=e183]:
+  - tooltip: "3"
+- button "메시지" [ref=e184]:
+  - img "메시지"
+  - text: "메시지"
+  - button "사용자 아바타 피그마튜터 하이서님" [ref=e185]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 비비✨님" [ref=e186]:
+    - image "사용자 아바타"
+  - button "사용자 아바타 𝒆𝒆𝒉𝒆𝒆𝒓𝒆𝒆 ║𝖼𝗁𝗋𝗂𝗌𝗍𝗂𝖺𝗇 • 𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝗋님" [ref=e187]:
+    - image "사용자 아바타"
