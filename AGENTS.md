@@ -3,7 +3,7 @@
 ## 기준과 실행 범위
 - 실행 전에 [brand.md](brand.md)와 [content-design.md](content-design.md)를 읽는다. 브랜드 사실·디자인 값을 이 파일이나 스킬에 복제하지 않는다.
 - 확인값·관찰·추정·미확인을 구분한다. 신규 사진의 스타일은 두 기준 문서가 우선하며, plan.md는 그 범위 안에서 장면·구도·여백을 정한다.
-- 기존 기준 문서·assets/reference·원본 Figma는 참조 전용이다. 원본 카드 사진을 새 기획에 재사용하지 않는다.
+- 기존 기준 문서·assets/reference·원본 Figma는 참조 전용이다(아래 Figma 출력 예외 제외). 원본 카드 사진을 새 기획에 재사용하지 않는다.
 - 사용자가 콘텐츠 실행을 요청할 때만 실제 조사·제작을 시작한다. 하네스 수정·검사 요청은 콘텐츠 제작 요청이 아니다.
 - 게시·예약 발행·좋아요·댓글·팔로우·메시지는 실행하지 않는다.
 
@@ -38,9 +38,10 @@
 - Aside의 화면·DOM을 현재 Codex가 직접 조사한다. `aside exec`로 별도 에이전트에 위임하지 않는다.
 - 사진은 Codex 이미지 생성 도구, HTML 확인은 브라우저, 제작은 Figma 도구, PPTX는 프레젠테이션 도구를 사용한다. 관련 도구를 쓸 때 설치된 스킬을 읽는다.
 - 도구 사용 가능성은 실제 실행 시 확인한다. 승인 없이 조사 도구·계정·기간을 바꾸지 않는다.
-- 실행별 새 Figma 파일을 만들고 재개 시 해당 파일을 사용한다. 텍스트·도형·사진을 편집 가능한 별도 레이어로 유지한다.
+- 실행별 새 Figma 파일을 만들고 재개 시 해당 파일을 사용한다. 다른 실행의 파일을 재사용하지 않는다. 텍스트·도형·사진을 편집 가능한 별도 레이어로 유지한다.
+- 예외: 사용자가 기존 Figma 파일(원본 포함)의 위치를 지정해 새 섹션 추가를 명시하면 그 파일에 새 섹션만 추가한다. 쓰기 전에 사용자 원문·파일 키·작업 전 기존 노드 ID를, 쓴 뒤 새 섹션 ID를 state.json의 `figma_destination_authorization`에 기록한다. 기존 노드는 수정·삭제·재사용하지 않는다. 지시가 모호하면 새 파일로 진행할지 먼저 확인한다.
 - [산출물 계약](scripts/contract.md)에 따라 runs/<실행ID>/ 아래 기록한다. plan.md가 기획의 단일 기준이며 별도 기획 JSON을 만들지 않는다.
-- `python3 scripts/validate_run.py RUN --stage research|plan|preview|final`로 단계 검사를 수행한다. report.json에 자동 결과를 저장하고 review.md에 사람이 판단할 항목·검토 결과·한계를 남긴다.
+- `python3 scripts/validate_run.py RUN --stage research|plan|preview|final`로 단계 검사를 수행한다. state.json의 단계 상태도 검사 대상이므로 승인·차단·재개 기록과 함께 갱신한다. CI는 `scripts/check_all_runs.py`로 각 실행을 기록된 단계까지 다시 검사한다. report.json에 자동 결과를 저장하고 review.md에 사람이 판단할 항목·검토 결과·한계를 남긴다.
 - 자동 검사는 파일·규격·순서·문구·출처 필드·승인 버전의 일치를 검사한다. 사실의 진위, 미묘한 사진 재사용, 실제 가독성·분위기·완성도까지 보장하지 않는다.
 - 최종 전달: research.md·research.pptx, 승인된 plan.md와 HTML, Figma 링크, 카드별 PNG, caption.md, 검사 결과·출처. 미실행·미완료 항목도 함께 알린다.
 

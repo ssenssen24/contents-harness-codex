@@ -1,0 +1,21 @@
+name: harness-checks
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python: ['3.10', '3.13']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - name: Unit tests
+        run: python -m unittest discover -s scripts -p 'test_*.py' -v
+      - name: Validate runs up to their recorded stage
+        run: python scripts/check_all_runs.py

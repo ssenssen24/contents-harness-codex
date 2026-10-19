@@ -11,6 +11,7 @@ from xml.sax.saxutils import escape
 from zipfile import ZipFile, ZIP_DEFLATED
 
 from validate_run import Run, sha, pptx_text
+from check_all_runs import claimed_stage
 from plan_document import compose, check, sync
 
 
@@ -35,7 +36,7 @@ def png(path, width=1080, height=1350, color=b'\x10\x20\x30'):
     path.write_bytes(data)
 
 
-def pptx(path, content, slide_target='slides/slide1.xml'):
+def pptx(path, content, slide_target='slides/slide1.xml', notes=None):
     # Minimal OOXML fixture for structural checks, not a deliverable slide deck.
     p = 'http://schemas.openxmlformats.org/presentationml/2006/main'
     a = 'http://schemas.openxmlformats.org/drawingml/2006/main'
@@ -52,6 +53,9 @@ def pptx(path, content, slide_target='slides/slide1.xml'):
         'ppt/_rels/presentation.xml.rels': f'<Relationships xmlns="{rel}"><Relationship Id="rId1" Type="{r}/slide" Target="{escape(slide_target)}"/></Relationships>',
         'ppt/slides/slide1.xml': f'<p:sld xmlns:p="{p}" xmlns:a="{a}"><p:cSld><p:spTree><p:sp><p:txBody><a:p><a:r><a:t>{escape(content)}</a:t></a:r></a:p></p:txBody></p:sp></p:spTree></p:cSld></p:sld>'
     }
+    if notes is not None:
+        parts['ppt/notesSlides/notesSlide1.xml'] = (f'<p:notes xmlns:p="{p}" xmlns:a="{a}"><p:cSld><p:spTree><p:sp><p:txBody>'
+                                                     f'<a:p><a:r><a:t>{escape(notes)}</a:t></a:r></a:p></p:txBody></p:sp></p:spTree></p:cSld></p:notes>')
     path.parent.mkdir(parents=True, exist_ok=True)
     with ZipFile(path, 'w', ZIP_DEFLATED) as z:
         for name, value in parts.items():
@@ -78,7 +82,7 @@ class HarnessTests(unittest.TestCase):
         for name in ('brand.md', 'content-design.md', 'assets/reference/manifest.json'):
             write_text(self.project/name, 'synthetic reference: '+name)
         write_text(self.project/'assets/reference/logo.svg', '<svg xmlns="http://www.w3.org/2000/svg"/>')
-        write_json(self.project/'assets/reference/manifest.json', {'assets': [
+        write_json(self.project/'assets/reference/manifest.json', {'file_key': 'SOURCE_FILE', 'assets': [
             {'file': 'logo.svg', 'sha256': sha(self.project/'assets/reference/logo.svg')}]})
         self.window = {'start': '2026-07-02T09:00:00+09:00', 'end': '2026-09-30T09:00:00+09:00'}
         self.state = {
@@ -155,12 +159,22 @@ class HarnessTests(unittest.TestCase):
         write_json(self.root/'final/figma.json', self.figma)
         write_text(self.root/'final/caption.md', self.plan['caption'])
         write_text(self.root/'checks/review.md', 'Synthetic only, no real human/visual approval.')
+        self.set_status(research='complete', plan='approved', preview='approved', final='in_progress')
 
     def tearDown(self):
         self.temp.cleanup()
 
     def checker(self):
         return Run(self.root, self.project)
+
+    def set_status(self, **statuses):
+        for stage, status in statuses.items():
+            self.state['stages'][stage]['status'] = status
+        self.save_state()
+
+    def research_only(self):
+        # Research-data edits change the plan digest, so model a run still in research.
+        self.set_status(research='in_progress', plan='not_run', preview='not_run', final='not_run')
 
     def save_state(self):
         write_json(self.root/'state.json', self.state)
@@ -212,6 +226,7 @@ class HarnessTests(unittest.TestCase):
         self.fails('research', 'Top 6 주장')
 
     def test_partial_report_passes_with_caveat(self):
+        self.research_only()
         self.sources['coverage']['nikerunning']['status'] = 'partial'
         self.sources['ranking_scope'] = 'observed_top6'
         self.sources['limitations'] = '일부 접근 불가'; self.save_sources()
@@ -342,9 +357,86 @@ class HarnessTests(unittest.TestCase):
         self.assertEqual(old, self.checker().digest('preview'))
 
     def test_frozen_original_figma(self):
-        self.figma['file_key'] = '1D7Jqr9ku3boaa7GVbeAUm'
+        self.figma['file_key'] = 'SOURCE_FILE'
         write_json(self.root/'final/figma.json', self.figma)
         self.fails('final', '원본 Figma')
+
+    def test_figma_file_reused_from_other_run(self):
+        write_json(self.project/'runs/previous/final/figma.json', {'file_key': 'NEW_FILE'})
+        self.fails('final', '다른 실행의 Figma 파일')
+
+    def test_figma_authorization_for_other_file(self):
+        self.state['figma_destination_authorization'] = dict(
+            actor='user', quote='SYNTHETIC: 다른 파일 지정', file_key='OTHER_FILE', mode='append_new_section',
+            output_section_id='99:1', existing_node_ids=['1:1'], recorded_at='2026-09-30T10:40:00+09:00')
+        self.save_state()
+        self.fails('final', '별도 섹션 추가 사용자 지시')
+
+    def test_stage_order(self):
+        self.set_status(plan='in_progress')
+        self.fails('research', '상태 순서 오류')
+
+    def test_claimed_approval_needs_record(self):
+        del self.state['approvals']['preview']; self.save_state()
+        self.fails('research', 'preview 사용자 승인 없음')
+
+    def test_claimed_approval_must_match_files(self):
+        self.plan['message'] = '승인 후 변경'; self.save_plan()
+        self.fails('research', 'plan 승인 버전')
+
+    def test_awaiting_approval_pending_digest(self):
+        self.set_status(plan='awaiting_approval', preview='not_run', final='not_run')
+        self.state['stages']['plan']['pending_digest'] = self.checker().digest('plan')
+        self.save_state()
+        self.assertTrue(self.checker().validate('plan')['automatic_pass'])
+        self.plan['message'] = '제시 후 변경'; self.save_plan()
+        self.fails('research', 'pending_digest')
+
+    def test_blocked_needs_reason_and_resume(self):
+        self.set_status(final='blocked')
+        self.fails('research', 'blocked 원인')
+        self.state['stages']['final']['reason'] = 'Figma 접근 실패'
+        self.state['resume'] = {'stage': 'final', 'next_action': 'Figma 권한 확인 후 재시도'}
+        self.save_state()
+        self.assertTrue(self.checker().validate('preview')['automatic_pass'])
+
+    def test_top_n_from_state(self):
+        self.research_only()
+        self.state['input']['top_n'] = 3; self.save_state()
+        self.fails('research', 'Top 3 순위')
+        self.sources.update(selected_ids=['s0', 's1', 's2'], ranking_scope='full_top3'); self.save_sources()
+        self.assertTrue(self.checker().validate('research')['automatic_pass'])
+        self.sources['ranking_scope'] = 'full_top6'; self.save_sources()
+        self.fails('research', 'full_top3 필요')
+
+    def test_clean_pptx_report(self):
+        self.research_only()
+        report = (self.root/'research/research.md').read_text()
+        self.state['research_report_format'] = 'clean-pptx-v1'; self.save_state()
+        self.assertTrue(self.checker().validate('research')['automatic_pass'])
+        pptx(self.root/'research/research.pptx', report+'\n이 보고서의 순위에는 한계가 있습니다')
+        self.fails('research', '한계·미확인·검사 상태')
+        pptx(self.root/'research/research.pptx', report, notes='좋아요 미확인 게시물 제외')
+        self.fails('research', '한계·미확인·검사 상태')
+
+    def test_clean_pptx_no_unverified_full_rank(self):
+        self.research_only()
+        self.state['research_report_format'] = 'clean-pptx-v1'; self.save_state()
+        self.sources['coverage']['nikerunning']['status'] = 'partial'
+        self.sources.update(ranking_scope='observed_top6', limitations='일부 구간 미확인'); self.save_sources()
+        report = (self.root/'research/research.md').read_text()+'\n확인한 게시물 중 Top 6'
+        write_text(self.root/'research/research.md', report)
+        pptx(self.root/'research/research.pptx', report.replace('확인한 게시물 중 Top 6', '전체 Top 6'))
+        self.fails('research', '미검증 전체 순위')
+        pptx(self.root/'research/research.pptx', report.replace('확인한 게시물 중 Top 6', '선정 게시물 분석'))
+        self.assertTrue(self.checker().validate('research')['automatic_pass'])
+
+    def test_claimed_stage_for_ci(self):
+        self.assertEqual(claimed_stage(self.state), 'preview')
+        self.set_status(final='complete')
+        self.assertEqual(claimed_stage(self.state), 'final')
+        self.set_status(research='in_progress', plan='not_run', preview='not_run', final='not_run')
+        self.assertIsNone(claimed_stage(self.state))
 
     def test_no_editable_text(self):
         self.figma['cards'][0]['text_nodes'] = []
@@ -352,8 +444,8 @@ class HarnessTests(unittest.TestCase):
         self.fails('final', 'TEXT 노드 없음')
 
     def test_explicit_append_to_original(self):
-        self.figma.update(file_key='1D7Jqr9ku3boaa7GVbeAUm',
-                          url='https://www.figma.com/design/1D7Jqr9ku3boaa7GVbeAUm/', section_id='99:1')
+        self.figma.update(file_key='SOURCE_FILE',
+                          url='https://www.figma.com/design/SOURCE_FILE/', section_id='99:1')
         self.state['figma_destination_authorization'] = dict(
             actor='user', quote='SYNTHETIC: 여기 섹션 옆에 추가',
             file_key=self.figma['file_key'], mode='append_new_section',

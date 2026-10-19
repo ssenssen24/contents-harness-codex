@@ -17,12 +17,19 @@ import xml.etree.ElementTree as ET
 from plan_document import check as check_plan_document, START as PLAN_REVIEW_START
 
 STAGES = ('research', 'plan', 'preview', 'final')
+STATUSES = ('not_run', 'in_progress', 'awaiting_approval', 'approved', 'complete', 'blocked')
+DONE = dict(research=('complete',), plan=('approved', 'complete'),
+            preview=('approved', 'complete'), final=('complete',))
 DEFAULT_PATHS = dict(research='research/research.md', pptx='research/research.pptx',
                      sources='research/sources.json', plan='plan/plan.md',
                      html='preview/preview.html', assets='preview/assets.json',
                      browser='preview/browser-check.json', figma='final/figma.json',
                      png='final/png', caption='final/caption.md', review='checks/review.md')
 MARKERS = re.compile(r'\[\s*확인\s*필요[^\]]*\]|\bTODO\b|\bTBD\b', re.I)
+# research_report_format=clean-pptx-v1: limits and check status stay in research.md/sources.json/checks.
+REPORT_FORBIDDEN = re.compile(r'한계|미확인|확인\s*불가|접근\s*(?:실패|불가|제한)|\bblocked\b|\bnot_run\b'
+                              r'|자동\s*검사|검사\s*(?:통과|실패|상태|결과)|limitation', re.I)
+FULL_RANK_CLAIM = re.compile(r'전체\s*(?:인기\s*)?Top\s*\d+', re.I)
 
 
 def norm(s):
@@ -115,6 +122,12 @@ def pptx_text(path):
         return '\n'.join(' '.join(xml[n].itertext()) for n in slides)
 
 
+def pptx_notes(path):
+    with ZipFile(path) as archive:
+        notes = [n for n in archive.namelist() if re.fullmatch(r'ppt/notesSlides/notesSlide\d+\.xml', n)]
+        return '\n'.join(' '.join(ET.fromstring(archive.read(n)).itertext()) for n in notes)
+
+
 class CardsHTML(HTMLParser):
     def __init__(self):
         super().__init__(convert_charrefs=True)
@@ -197,18 +210,40 @@ class Run:
         require(self.state['schema_version'] == 1, 'state schema_version 오류')
         require(self.state['run_id'] == self.root.name, '실행 ID/폴더 불일치')
         for stage in STAGES:
-            require(self.state['stages'][stage]['status'] in
-                    ('not_run', 'in_progress', 'awaiting_approval', 'approved', 'complete', 'blocked'),
-                    f'{stage} 상태 오류')
+            require(self.status(stage) in STATUSES, f'{stage} 상태 오류')
         for name in ('brand.md', 'content-design.md', 'assets/reference/manifest.json'):
             require(self.state['reference_hashes'][name] == sha(self.reference_path(name)),
                     f'기준 파일 변경: {name}, 기준 재검토 필요')
         reference_root = (self.project/'assets/reference').resolve()
-        manifest = json.loads((reference_root/'manifest.json').read_text())
-        for asset in manifest['assets']:
+        for asset in self.manifest()['assets']:
             p = (reference_root/asset['file']).resolve()
             require(p.is_relative_to(reference_root) and sha(p) == asset['sha256'],
                     f'원본 참조 자산 변경: {asset["file"]}')
+        self.stage_claims()
+
+    def status(self, stage):
+        return self.state['stages'][stage]['status']
+
+    def stage_claims(self):
+        # The recorded status is a claim; back it with order, approval and resume records.
+        for i, stage in enumerate(STAGES):
+            status, record = self.status(stage), self.state['stages'][stage]
+            if status != 'not_run':
+                for earlier in STAGES[:i]:
+                    require(self.status(earlier) in DONE[earlier],
+                            f'상태 순서 오류: {earlier}이 {self.status(earlier)}인데 {stage}이 {status}')
+            if status == 'blocked':
+                require(text(record.get('reason')) and text(self.state.get('resume', {}).get('next_action')),
+                        f'{stage} blocked 원인(reason)·재개 지점(resume.next_action) 누락')
+            if stage in ('plan', 'preview'):
+                if status in DONE[stage]:
+                    self.approval(stage)
+                elif status == 'awaiting_approval':
+                    require(record.get('pending_digest') == self.digest(stage),
+                            f'{stage} 승인 요청 버전(pending_digest)이 현재 파일과 다름')
+
+    def manifest(self):
+        return json.loads((self.project/'assets/reference/manifest.json').read_text())
 
     def reference_path(self, name):
         snapshots = self.state.get('reference_snapshots', {})
@@ -279,20 +314,28 @@ class Run:
             require(likes is None or (type(likes) is int and likes >= 0), '좋아요는 정확한 비음수 정수 또는 null')
             if date and start <= date <= end and likes is not None:
                 eligible.append(p)
-        ranked = sorted(eligible, key=lambda p: (-p['likes'], -stamp(p['published_at']).timestamp(), p['url']))[:6]
+        n = self.state['input'].get('top_n', 6)  # 기록이 없는 기존 실행은 당시 기준 6개
+        require(type(n) is int and n > 0, 'state.input.top_n은 양의 정수')
+        ranked = sorted(eligible, key=lambda p: (-p['likes'], -stamp(p['published_at']).timestamp(), p['url']))[:n]
         require(ranked, '유효 조사 자료 0개: 완료 불가')
-        require(s['selected_ids'] == [p['id'] for p in ranked], 'Top 6 순위/선정 불일치')
-        expected = 'observed_top6' if incomplete else 'full_top6'
-        require(s['ranking_scope'] == expected, '조사 범위와 Top 6 주장 불일치')
+        require(s['selected_ids'] == [p['id'] for p in ranked], f'Top {n} 순위/선정 불일치')
+        expected = f'{"observed" if incomplete else "full"}_top{n}'
+        require(s['ranking_scope'] == expected, f'조사 범위와 Top {n} 주장 불일치: {expected} 필요')
         md, ppt = self.read('research'), pptx_text(self.path('pptx'))
         for p in ranked:
             for field in (p['id'], p['url']):
                 require(field in md and field in ppt, f'보고서 출처/ID 누락: {field}')
+        if self.state.get('research_report_format') == 'clean-pptx-v1':
+            shown = ppt+'\n'+pptx_notes(self.path('pptx'))
+            found = REPORT_FORBIDDEN.search(shown)
+            require(not found, f'보고서 PPTX에 한계·미확인·검사 상태 표현: {found and found.group()}')
+            claim = FULL_RANK_CLAIM.search(shown)
+            require(not (incomplete and claim), f'미검증 전체 순위를 PPTX에 표현: {claim and claim.group()}')
         if incomplete:
             require(text(s['limitations']) and '확인한 게시물 중' in md,
                     '부분 조사 한계 표시 누락')
-            self.warnings.append('확인한 게시물 중 순위. 전체 Top 6가 아님.')
-        if len(ranked) < 6:
+            self.warnings.append(f'확인한 게시물 중 순위. 전체 Top {n}가 아님.')
+        if len(ranked) < n:
             self.warnings.append(f'유효 자료 {len(ranked)}개. 부족한 수를 임의로 채우지 않음.')
 
     def planning(self):
@@ -400,19 +443,7 @@ class Run:
     def final(self):
         self.approval('preview')
         f = self.obj('figma')
-        if f['file_key'] == '1D7Jqr9ku3boaa7GVbeAUm':
-            a = self.state.get('figma_destination_authorization', {})
-            require(a.get('actor') == 'user' and text(a.get('quote'))
-                    and a.get('file_key') == f['file_key']
-                    and a.get('mode') == 'append_new_section'
-                    and text(f.get('section_id'))
-                    and a.get('output_section_id') == f['section_id'],
-                    '원본 Figma를 출력 대상으로 사용: 별도 섹션 추가 사용자 지시 필요')
-            stamp(a['recorded_at'])
-            existing = set(a.get('existing_node_ids', []))
-            require(existing and f['section_id'] not in existing
-                    and all(c['node_id'] not in existing for c in f['cards']),
-                    '원본 Figma 기존 노드를 출력으로 사용')
+        self.figma_destination(f)
         require(f['url'].startswith('https://www.figma.com/design/'+f['file_key']+'/'), 'Figma 결과 링크 오류')
         require(stamp(f['created_at']) >= stamp(self.state['approvals']['preview']['at']), '프리뷰 승인 전 Figma 제작')
         require(stamp(f['read_at']) >= stamp(f['created_at']), 'Figma 읽기 시각 오류')
@@ -439,6 +470,34 @@ class Run:
         require(norm(caption) == norm(self.plan()['caption']), '최종 캡션/승인 기획 불일치')
         require(not MARKERS.search(caption), '캡션 미해결 표시')
         require(text(self.read('review')), '시각 검토 기록 누락')
+
+    def figma_destination(self, f):
+        """Default: a new file per run. Existing file: only a user-directed new section."""
+        a = self.state.get('figma_destination_authorization')
+        if not a:
+            require(f['file_key'] != self.manifest().get('file_key'),
+                    '원본 Figma를 출력 대상으로 사용: 별도 섹션 추가 사용자 지시 필요')
+            for other in (self.project/'runs').glob('*/**/figma.json'):
+                if other.is_relative_to(self.root):
+                    continue
+                try:
+                    used = json.loads(other.read_text()).get('file_key')
+                except (ValueError, AttributeError):
+                    self.warnings.append(f'이전 Figma 기록 읽기 실패: {other}')
+                    continue
+                require(used != f['file_key'], '다른 실행의 Figma 파일 재사용: 실행별 새 파일 또는 섹션 추가 지시 필요')
+            return
+        require(a.get('actor') == 'user' and text(a.get('quote'))
+                and a.get('file_key') == f['file_key']
+                and a.get('mode') == 'append_new_section'
+                and text(f.get('section_id'))
+                and a.get('output_section_id') == f['section_id'],
+                '기존 Figma 파일을 출력 대상으로 사용: 해당 파일의 별도 섹션 추가 사용자 지시 필요')
+        stamp(a['recorded_at'])
+        existing = set(a.get('existing_node_ids', []))
+        require(existing and f['section_id'] not in existing
+                and all(c['node_id'] not in existing for c in f['cards']),
+                '기존 Figma 파일의 기존 노드를 출력으로 사용')
 
     def validate(self, stage):
         tasks = [('state', self.baseline), ('research', self.research), ('plan', self.planning),
