@@ -14,9 +14,10 @@ python3 scripts/validate_run.py runs/RUN_ID --stage preview
 python3 scripts/validate_run.py runs/RUN_ID --digest preview
 python3 scripts/validate_run.py runs/RUN_ID --stage final --report runs/RUN_ID/checks/report.json
 python3 -m unittest discover -s scripts -p 'test_*.py' -v
+python3 scripts/check_all_runs.py
 ```
 
-stage 검사는 이전 단계도 누적 검사한다. 종료 코드 0은 자동 검사 통과, 1은 실패, 2는 CLI 사용 오류다. `--digest`는 승인할 버전의 식별값만 출력한다. 승인을 부여하지 않는다. 정상·오류 예시는 테스트가 임시 폴더에 만들고 삭제하므로 실제 콘텐츠 runs와 섞이지 않는다.
+stage 검사는 이전 단계도 누적 검사한다. 종료 코드 0은 자동 검사 통과, 1은 실패, 2는 CLI 사용 오류다. `--digest`는 승인할 버전의 식별값만 출력한다. 승인을 부여하지 않는다. `check_all_runs.py`는 runs/의 모든 실행을 state.json에 완료로 기록된 마지막 단계까지 검사하며 GitHub Actions(`.github/workflows/harness-checks.yml`)가 push마다 테스트와 함께 실행한다. 정상·오류 예시는 테스트가 임시 폴더에 만들고 삭제하므로 실제 콘텐츠 runs와 섞이지 않는다.
 
 실제 실행 전 state.json을 만든다. 아래는 형식 예시이며 현재 실행·승인 기록이 아니다. placeholder를 실제 값으로 대체한다.
 
@@ -24,10 +25,12 @@ stage 검사는 이전 단계도 누적 검사한다. 종료 코드 0은 자동 
 {
   "schema_version": 1,
   "run_id": "RUN_ID",
+  "research_report_format": "clean-pptx-v1",
   "input": {
     "topic": null,
     "accounts": ["nikerunning", "adidasrunning"],
     "size": [1080, 1350],
+    "top_n": 6,
     "window": {"start": "2026-07-02T09:00:00+09:00", "end": "2026-09-30T09:00:00+09:00"}
   },
   "reference_hashes": {
@@ -47,7 +50,14 @@ stage 검사는 이전 단계도 누적 검사한다. 종료 코드 0은 자동 
 }
 ```
 
-시각은 ISO 8601과 timezone offset을 포함한다. 기본 기간은 실제 실행 시작 시각에서 90일 전부터 시작 시각까지다. 예시 날짜를 재사용하지 않는다. 상태는 `not_run`, `in_progress`, `awaiting_approval`, `approved`, `complete`, `blocked` 중 하나다. blocked에는 원인·시도·재개 위치를 추가한다. 자동 통과만으로 승인 상태를 설정하지 않는다.
+시각은 ISO 8601과 timezone offset을 포함한다. 기본 기간은 실제 실행 시작 시각에서 90일 전부터 시작 시각까지다. 예시 날짜를 재사용하지 않는다. 상태는 `not_run`, `in_progress`, `awaiting_approval`, `approved`, `complete`, `blocked` 중 하나다. 자동 통과만으로 승인 상태를 설정하지 않는다. 검사기는 매 단계 검사에서 상태 기록을 다음과 같이 대조한다.
+
+- 순서: 어떤 단계가 `not_run`이 아니면 앞 단계는 모두 완료여야 한다(research `complete`, plan·preview `approved` 또는 `complete`).
+- 승인 주장: plan·preview가 `approved`·`complete`이면 `approvals`의 해당 기록이 현재 파일의 digest와 일치해야 한다. 승인 후 파일을 바꾸면 상태를 `in_progress` 또는 `awaiting_approval`로 되돌린다.
+- 승인 대기: plan·preview가 `awaiting_approval`이면 단계 기록의 `pending_digest`가 현재 digest와 같아야 한다. 제시한 버전과 다른 파일에 승인을 연결하지 않는다.
+- 차단: `blocked`인 단계 기록에 `reason`을, 최상위 `resume.next_action`에 재개 지점을 남긴다. 시도 내역은 `attempts` 배열에 보존한다.
+
+`input.top_n`은 brand.md 경쟁사 절에서 적용한 선정 수다. 기록이 없는 기존 실행은 6으로 검사한다. `research_report_format: clean-pptx-v1`은 아래 PPTX 표현 검사를 켠다. 이 규칙 이전에 전달한 실행에는 붙이지 않는다.
 
 `paths`에서 필요한 키만 덮어쓸 수 있다. 기본값은 다음과 같다. 모든 경로는 실행 폴더 기준이며 그 밖을 가리킬 수 없다.
 
@@ -69,8 +79,8 @@ sources.json 필수 필드:
 - `accounts`, `window`: state.input과 동일
 - `coverage`: 계정별 `{status: complete|partial|blocked, note: 설명}`. 설명에 기간 경계 확인 여부·누락 구간·접근 제한을 포함한다.
 - `posts`: 직접 확인한 후보 전체. 기간 밖 경계 게시물을 기록해도 되지만 선정에서는 제외한다.
-- `selected_ids`: 좋아요 내림차순·게시일 내림차순·URL 오름차순 상위 최대 6개 ID
-- `ranking_scope`: `full_top6` 또는 `observed_top6`
+- `selected_ids`: 좋아요 내림차순·게시일 내림차순·URL 오름차순 상위 최대 N개(`state.input.top_n`) ID
+- `ranking_scope`: `full_top{N}` 또는 `observed_top{N}` (N=6이면 `full_top6`·`observed_top6`)
 - `limitations`: 조사 한계 설명. 부분 조사에서는 필수다.
 
 게시물 형식:
@@ -93,9 +103,9 @@ sources.json 필수 필드:
 }
 ```
 
-likes는 정확히 확인한 비음수 정수 또는 null이다. 날짜·좋아요 중 하나라도 미확인이면 해당 게시물은 순위에서 제외하고 전체 순위를 주장하지 않는다. 한 계정이라도 coverage가 complete가 아니면 observed_top6다. 유효 후보 0개는 실패, 1–5개는 부족한 수를 명시한 제한 보고로 통과할 수 있다. complete 표기의 진위는 사람이 근거를 검토해야 한다.
+likes는 정확히 확인한 비음수 정수 또는 null이다. 날짜·좋아요 중 하나라도 미확인이면 해당 게시물은 순위에서 제외하고 전체 순위를 주장하지 않는다. 한 계정이라도 coverage가 complete가 아니면 `observed_top{N}`이다. 유효 후보 0개는 실패, 1개 이상 N개 미만은 부족한 수를 명시한 제한 보고로 통과할 수 있다. complete 표기의 진위는 사람이 근거를 검토해야 한다.
 
-research.md·research.pptx에는 선정 게시물 ID와 정규 permalink를 본문 텍스트로 포함한다. PPTX의 URL을 링크 속성에만 숨기지 않는다. 두 보고서에 확인 가능한 확인일·게시일·좋아요·핵심 내용·시각적 특징·활용점·관찰과 해석을 기록한다. 부분 조사일 때 research.md와 sources.json에는 한계와 “확인한 게시물 중” 표시를 남긴다. PPTX 슬라이드와 발표자 노트에는 한계·접근 실패·미확인 이유·검사 상태를 출력하지 않으며, 누락 값은 생략하고 제목은 “선정 게시물 분석”처럼 검증된 범위의 사실로 쓴다. 출처 링크와 ID는 유지한다. 검사기는 ZIP/OOXML·slide 관계·출처 텍스트를 확인하며, 실제 슬라이드 렌더는 프레젠테이션 도구로 별도 검토한다.
+research.md·research.pptx에는 선정 게시물 ID와 정규 permalink를 본문 텍스트로 포함한다. PPTX의 URL을 링크 속성에만 숨기지 않는다. 두 보고서에 확인 가능한 확인일·게시일·좋아요·핵심 내용·시각적 특징·활용점·관찰과 해석을 기록한다. 부분 조사일 때 research.md와 sources.json에는 한계와 “확인한 게시물 중” 표시를 남긴다. PPTX 슬라이드와 발표자 노트에는 한계·접근 실패·미확인 이유·검사 상태를 출력하지 않으며, 누락 값은 생략하고 제목은 “선정 게시물 분석”처럼 검증된 범위의 사실로 쓴다. 출처 링크와 ID는 유지한다. 검사기는 ZIP/OOXML·slide 관계·출처 텍스트를 확인하며, 실제 슬라이드 렌더는 프레젠테이션 도구로 별도 검토한다. `clean-pptx-v1` 실행에서는 슬라이드와 발표자 노트(`ppt/notesSlides`)에 “한계”, “미확인”, “확인 불가”, “접근 실패/불가/제한”, “자동 검사”, “검사 통과/실패/상태/결과”, `blocked`, `not_run`, “limitation”이 있으면 실패한다. 순위가 `observed_top{N}`이면 “전체 Top N”, “전체 인기 Top N” 표현도 실패다. 부정문(“전체 Top 6가 아님”)도 같은 이유로 PPTX에는 쓰지 않는다. 경쟁사 캡션에 해당 단어가 있으면 인용 대신 요약한다.
 
 ## plan.md: 단일 기획 원본
 
@@ -188,6 +198,20 @@ cards 치수는 화면에 맞춰 줄인 CSS transform 비율을 보정한 제작
 ## Figma·PNG·최종 검토
 
 figma.json 필드: `file_key`, `url`, `created_at`, `read_at`, `preview_digest`, `cards`. cards의 순서는 기획과 동일하다. Figma를 실제 다시 읽어 작성한다.
+
+출력 대상은 실행별 새 파일이 기본이다. `figma_destination_authorization`이 없으면 `file_key`가 `assets/reference/manifest.json`의 원본 `file_key`와 같거나 다른 실행의 figma.json과 같을 때 실패한다. 사용자가 기존 파일(원본 포함)에 새 섹션 추가를 명시한 경우에만 state.json에 아래 기록을 남기고 figma.json에 `section_id`를 추가한다. 검사기는 사용자 원문·파일 키·모드·섹션 ID 일치와, 출력 섹션·카드 노드가 작업 전 기존 노드 목록에 없는지를 확인한다.
+
+```json
+"figma_destination_authorization": {
+  "actor": "user",
+  "quote": "사용자 지시 원문",
+  "file_key": "대상 파일 키",
+  "mode": "append_new_section",
+  "output_section_id": "새로 만든 섹션 노드 ID",
+  "existing_node_ids": ["쓰기 전 페이지의 최상위 노드 ID"],
+  "recorded_at": "ISO 시각"
+}
+```
 
 각 카드: `id`, `node_id`, `width`, `height`, `copy`, `text_nodes: [{id, type: "TEXT", characters}]`, `image_node_ids: [ID]`, `vector_node_ids: [ID]`, `screenshot: 실행폴더 상대 PNG 경로`. text_nodes는 copy의 읽는 순서로 정렬하며 배경 장식 문자·벡터 로고는 copy에 포함하지 않는다. 캡처 이미지만 놓고 TEXT 노드가 있는 것처럼 기록하지 않는다.
 

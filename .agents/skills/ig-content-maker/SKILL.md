@@ -21,7 +21,7 @@ AGENTS.md, brand.md, content-design.md, 실행의 research.md·sources.json·sta
 5. preview 검사 후 HTML과 화면을 제시하고 `--digest preview`로 고정한다. **명시적 프리뷰 승인 전 Figma에 쓰지 않는다.** 승인 원문·시각·digest를 기록한다.
 
 ## Figma·최종 전달
-1. 두 승인의 유효성을 확인한다. 설치된 Figma 스킬을 도구별 요구에 맞게 읽는다. 실행별 새 파일을 만들며 재개 시 기록된 결과 파일을 이어 쓴다. 원본 파일에 쓰지 않는다.
+1. 두 승인의 유효성을 확인한다. 설치된 Figma 스킬을 도구별 요구에 맞게 읽는다. 실행별 새 파일을 만들며 재개 시 기록된 결과 파일을 이어 쓴다. 원본 파일이나 다른 실행의 파일에 쓰지 않는다. 사용자가 기존 파일의 위치를 지정해 새 섹션 추가를 명시한 경우에만 AGENTS.md의 Figma 예외 절차대로 `figma_destination_authorization`을 먼저 기록하고 새 섹션만 추가한다.
 2. 승인된 문구·순서·사진·구성을 옮긴다. 텍스트는 TEXT, 도형·장식은 벡터/도형, 사진은 별도 이미지 레이어로 유지한다. HTML 캡처나 한 장짜리 카드 이미지로 제작 완료 처리하지 않는다.
 3. 실제 Figma를 다시 읽어 카드 노드 ID·치수·순서·텍스트 노드의 문구·이미지와 벡터 노드를 figma.json에 기록한다. 실제 읽은 속성과 읽은 시각을 남긴다. 카드 스크린샷을 승인된 HTML과 대조한다.
 4. 카드별 PNG를 final/png에 내보내고 승인 기획의 캡션을 caption.md에 저장한다. Figma·PNG 시각 검토 결과는 checks/review.md에 기록한다.
